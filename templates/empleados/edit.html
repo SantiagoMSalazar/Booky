@@ -1,0 +1,18 @@
+
+{% for Cliente in Clientes %}
+<form method="post" action="/update" enctype="multipart/form-data">
+   <input type="text" value="{{Cliente[0]}}" name="txtID" id="txtID">
+   <br>
+    Nombre: 
+    <input type="text" value="{{Cliente[1]}}" name="txtNombre" id="txtNombre">
+    <br>
+    Correo: 
+    <input type="text" value="{{ Cliente[2]}}" name="txtCorreo" id="txtCorreo">
+    <br>
+    Telefono:
+    <input type="text" value="{{ Cliente[3]}}" name="txtTelefono" id="txtTelefono">
+    <br>
+    <br>
+    <input type="submit" value="Registrarse">
+</form>
+{% endfor %}
