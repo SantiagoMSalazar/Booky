@@ -8,7 +8,11 @@
     <title>Initio</title>
 </head>
 <body>
-<h1 class"title">Tabla de concursantes</h1>
+<h1 class="title">Lista de clientes</h1>
+<form method="post" action="/search">
+  Buscar <input type="search" name="txtBusqueda" id="txtBusqueda">
+</form>
+
     <table class="table table-light">
         <thead class="thead-light">
             <tr>
@@ -16,7 +20,6 @@
                 <th>Telefono</th>
                 <th>Nombre</th>
                 <th>Correo</th>
-                <th>Acciones</th>
             </tr>
         </thead>
         <tbody>
@@ -27,8 +30,6 @@
                 <td>{{cliente[1]}}</td>
                 <td>{{cliente[2]}}</td>
                 <td>
-                    <a href="/edit/{{cliente[0]}}">Editar</a> |
-                    <a href="/destroy/{{cliente[0]}}">Eliminar</a>
                 </td>
             </tr>  
             {% endfor %}
@@ -36,7 +37,7 @@
         </tbody>
     </table>
 <form action="/create">
-<input type="submit" href="/create" value="Nuevo registro">
+    <input type="submit" value="Nuevo Registro">
 </form>
 </body>
 </html>

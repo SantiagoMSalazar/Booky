@@ -8,12 +8,14 @@ import os
 app= Flask(__name__)
 mysql=MySQL()
 app.config['MYSQL_DATABASE_HOST']='localhost'
-app.config['MYSQL_DATABASE_PORT'] =3306
+app.config['MYSQL_DATABASE_PORT'] =23306
 app.config['MYSQL_DATABASE_USER']='root'
-#app.config['MYSQL_DATABASE_PASSWORD']='54321.#'
+app.config['MYSQL_DATABASE_PASSWORD']='54321.#'
 app.config['MYSQL_DATABASE_DB']='Tecnologiadb'
 mysql.init_app(app)
-
+#carpeta
+CARPETA= os.path.join('uploads')
+app.config['CARPETA']=CARPETA
 
 @app.route('/')
 def index():
@@ -25,13 +27,16 @@ def index():
     Clientes=cursor.fetchall()
     print(Clientes)
     conn.commit()
-    return render_template('empleados/index.html', Clientes=Clientes)
+    return render_template('empleados/index.html',empleados=Clientes)
 
 @app.route('/destroy/<int:id>')
 def destroy(id):
     conn=mysql.connect()
     cursor=conn.cursor()
-    cursor.execute("DELETE FROM Clientes WHERE id=%s",(id))
+    cursor.execute("SELECT foto FROM empleados WHERE id=%s",id)
+    fila=cursor.fetchall()
+    os.remove(os.path.join(app.config['CARPETA'],fila[0][0]))
+    cursor.execute("DELETE FROM empleados WHERE id=%s",(id))
     conn.commit()
 
     return redirect("/")
@@ -40,24 +45,36 @@ def destroy(id):
 def edit(id):
     conn=mysql.connect()
     cursor=conn.cursor()
-    cursor.execute("SELECT * FROM Clientes WHERE id=%s;",(id))
-    Clientes=cursor.fetchall()
+    cursor.execute("SELECT * FROM empleados WHERE id=%s;",(id))
+    empleados=cursor.fetchall()
     conn.commit()
-    print(Clientes)
-    return render_template('empleados/edit.html',Clientes=Clientes)
+    print(empleados)
+    return render_template('empleados/edit.html',empleados=empleados)
 
 
 @app.route('/update',methods=['POST'])
 def update():
     _nombre=request.form['txtNombre']
     _correo=request.form['txtCorreo']
-    _Telefono=request.form['txtTelefono']
+    _foto=request.files['txtFoto']
     id=request.form['txtID']
 
-    sql="UPDATE `Clientes` SET `Nombre`=%s, correo=%s, Telefono=%s WHERE id=%s;"
-    datos=(_nombre,_correo,_Telefono,id)
+    sql="UPDATE `empleados` SET `Nombre`=%s, correo=%s WHERE id=%s;"
+    datos=(_nombre,_correo,id)
     conn=mysql.connect()
     cursor=conn.cursor()
+    
+    now= datetime.now()
+    tiempo=now.strftime("%Y%H%M%S")
+
+    if _foto.filename!='':
+        nuevoNombreFoto=tiempo+_foto.filename
+        #_foto.save("uploads/"+nuevoNombreFoto)
+        cursor.execute("SELECT foto FROM empleados WHERE id=%s",id)
+        fila=cursor.fetchall()
+        os.remove(os.path.join(app.config['CARPETA'],fila[0][0]))
+        cursor.execute("UPDATE empleados SET foto=%s WHERE id=%s",(nuevoNombreFoto,id))
+        conn.commit()
 
     cursor.execute(sql,datos)
     conn.commit()
@@ -71,34 +88,27 @@ def create():
 def storage():
     _nombre=request.form['txtNombre']
     _correo=request.form['txtCorreo']
-    _Telefono=request.form['txtTelefono']
+    _foto=request.files['txtFoto']
+    now= datetime.now()
+    tiempo=now.strftime("%Y%H%M%S")
+    _foto.save
+    if _foto.filename!='':
+        nuevoNombreFoto=tiempo+_foto.filename
+        #_foto.save("uploads/"+nuevoNombreFoto)
 
-    sql="INSERT INTO `Clientes` (`Id`, `Nombre`, `Correo`, `Telefono`) VALUES (NULL,%s,%s,%s);"
+    sql="INSERT INTO `empleados` (`Id`, `Nombre`, `Correo`, `Foto`) VALUES (NULL,%s,%s,%s);"
 
-    datos=(_nombre,_correo,_Telefono)
+    datos=(_nombre,_correo,nuevoNombreFoto)
     conn=mysql.connect()
     cursor=conn.cursor()
     cursor.execute(sql,datos)
     conn.commit()
-
-    return redirect('/')
-
-@app.route('/search',methods=['POST'])
-def buscar():
-    _Id=request.form['txtBusqueda']
-    sql="SELECT * FROM `Clientes` WHERE Nombre = FORMAT( " +"%s"+ ",0,'de_DE');"
-    conn=mysql.connect()
-    cursor=conn.cursor()
-    cursor.execute(sql,_Id)
-    Clientes=cursor.fetchall()
-    print(Clientes)
-    conn.commit()
-    return render_template('empleados/index.html', Clientes=Clientes)
+    return render_template('empleados/index.html')
 
 
 
 if __name__=='__main__':
-    app.run(debug=True, host='0.0.0.0', port=8081 )
+    app.run(debug=True)
 
 
 ###
