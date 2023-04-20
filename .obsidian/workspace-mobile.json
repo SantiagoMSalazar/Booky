@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
-                "mode": "source",
+                "file": "Cursos/Java.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English/Academic-One/Exercises.md",
+            "file": "Cursos/Java.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English/Academic-One/Exercises.md",
+            "file": "Cursos/Java.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English/Academic-One/Exercises.md"
+            "file": "Cursos/Java.md"
           }
         }
       }
@@ -133,7 +133,12 @@
   },
   "active": "55e61199396b42dc",
   "lastOpenFiles": [
+    "Cursos/Cursos.md",
     "English/Academic-One/Grammar.md",
-    "English/Academic-One/Exercises.md"
+    "Cursos/Java.md",
+    "/Cursos/Java.md",
+    "English/Academic-One/Exercises.md",
+    "/Cursos/Cursos.md",
+    "/Cursos"
   ]
 }
