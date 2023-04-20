@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c61afc67ad1c4c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Academic-One/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c865960d20cf2928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Academic-One/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef9d9379a444ac07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Academic-One/Exercises.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Academic-One/Exercises.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,6 +141,7 @@
   "active": "ef9d9379a444ac07",
   "lastOpenFiles": [
     "English/Academic-One/Grammar.md",
+    "Pasted image 20230420123758.png",
     "English/Academic-One/Exercises.md",
     "Untitled.md",
     "English/Academic-One",
