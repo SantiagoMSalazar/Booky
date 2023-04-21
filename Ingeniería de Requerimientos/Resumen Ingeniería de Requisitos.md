@@ -9,14 +9,14 @@ Finalizado: No
 
 - Actualmente, en los sistemas basados en ordenador, el software ha superado al hardware como factor decisivo de éxito.
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled.png)
+![Untitled](Untitled.png)
 
 - Un estudio realizado a 100 empresas de desarrollo de software en la UE mostró que el 90% utilizan lenguaje natural con MS-Word
 - Un encuesta realizada a 8000 proyectos en 350 empresas de USA se muestra que los requisitos son la principal fuente de problema (37%)
 - Un estudio similar con 3800 organizaciones en 17 países de la UE concluye que cerca del 50% de errores están relacionados con la ingeniería requisitos.
 - En un estudio realizado en IBM se midió y asignó costos a los errores ocurridos en las distintas fases de proyecto.
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 - Situación del desarrollo de software en USA y UE en los últimos años.
 
