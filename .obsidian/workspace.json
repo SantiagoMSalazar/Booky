@@ -23,12 +23,8 @@
             "id": "a52a95fdc4c6803a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setup/Setup of obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Setup/Setup of obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,8 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
-    "Cursos/Cursos.md",
     "Setup/Setup of obsidian.md",
+    "Cursos/Cursos.md",
     "Cursos/Java/Ejercicios Explicados.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Setup",
