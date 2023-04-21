@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdac82ccd7a2c75f",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Setup of obsidian.md"
+                "file": "English/Academic-One/Grammar.md"
               }
             }
           }
@@ -161,6 +162,8 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
+    "English/Academic-One/Exercises.md",
+    "English/Academic-One/Grammar.md",
     "Setup/Setup of obsidian.md",
     "Cursos/Cursos.md",
     "Cursos/Java/Ejercicios Explicados.md",
@@ -179,9 +182,7 @@
     "Ingeniería de Requerimientos",
     "Cursos/Java",
     "Cursos",
-    "English/Academic-One/Grammar.md",
     "Images/Pasted image 20230420123758.png",
-    "English/Academic-One/Exercises.md",
     "English/Academic-One",
     "English"
   ]
