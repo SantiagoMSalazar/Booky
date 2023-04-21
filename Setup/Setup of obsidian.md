@@ -1,2 +1,4 @@
 For de setup the first part is about the sincronization without pay Sync service by Obsidian.
-As alternative I use 
+As alternative I've used a little configuration like to:
+# Obsidian desktop
+Obsidian has the advantage that you can write your notes without internet, in our case is not important because the internet conection when we take notes is just stablish, with this last idea can use a Cloud se
