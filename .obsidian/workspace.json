@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdac82ccd7a2c75f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Academic-One/Grammar.md"
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md"
               }
             }
           }
@@ -162,10 +161,19 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
-    "Pasted image 20230421120425.png",
-    "Images/Pasted image 20230421120027.png",
-    "English/Academic-One/Exercises.md",
     "English/Academic-One/Grammar.md",
+    "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
+    "Images/Untitled 9.png",
+    "Images/Untitled 8.png",
+    "Images/Untitled 7.png",
+    "Images/Untitled 6.png",
+    "Images/Untitled 5.png",
+    "Images/Untitled 4.png",
+    "Images/Untitled 3.png",
+    "Images/Untitled 2.png",
+    "Images/Untitled 1.png",
+    "Images/Untitled.png",
+    "English/Academic-One/Exercises.md",
     "Setup/Setup of obsidian.md",
     "Cursos/Cursos.md",
     "Cursos/Java/Ejercicios Explicados.md",
@@ -174,17 +182,12 @@
     "Bases de datos Distribuidas",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
     "Ingeniería de Requerimientos/Requisitos Comerciales.md",
-    "Images/Imagen de WhatsApp 2023-03-14 a las 16.45.00.jpg",
-    "Images/Pasted image 20230314162919.png",
     "Images",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Images/Pasted image 20230314163114.png",
-    "Images/Pasted image 20230314162953.png",
     "Ingeniería de Requerimientos",
     "Cursos/Java",
     "Cursos",
-    "Images/Pasted image 20230420123758.png",
     "English/Academic-One",
     "English"
   ]
