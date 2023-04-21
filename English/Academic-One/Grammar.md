@@ -15,3 +15,5 @@ the
 |Although|she was tired|,|she studied all night|
 
 ![[Pasted image 20230421120027.png]]
+
+![[Pasted image 20230421120425.png]]
