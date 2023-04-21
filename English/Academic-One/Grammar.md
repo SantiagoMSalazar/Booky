@@ -10,6 +10,8 @@ the
 |-|-|-|
 |sa|as|sas|
 
-|Although|S+V||
-|-|-|-|
-||||
+|Although|S+V|,|Continuing|
+|-|-|-|-|
+|Although|she was tired|,|she studied all night|
+
+![[Pasted image 20230421120027.png]]
