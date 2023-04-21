@@ -60,9 +60,3 @@ System.out.println(turno);
 }
 ```
 
-l
-
-ñ
-
-
-p

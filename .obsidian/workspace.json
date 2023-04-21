@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Java.md",
+                "file": "Cursos/Java/Ejercicios Explicados.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Java.md",
+                "file": "Cursos/Java/Ejercicios Explicados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Java.md",
+                "file": "Cursos/Java/Ejercicios Explicados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Java.md"
+                "file": "Cursos/Java/Ejercicios Explicados.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "6f578a1833a756b0",
   "lastOpenFiles": [
+    "Cursos/Java/Ejercicios Explicados.md",
+    "Cursos/Java",
     "Cursos/Cursos.md",
-    "Cursos/Java.md",
     "Cursos",
     "English/Academic-One/Grammar.md",
     "Pasted image 20230420123758.png",
