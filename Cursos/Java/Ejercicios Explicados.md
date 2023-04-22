@@ -63,4 +63,7 @@ System.out.println(turno);
 # Ejercicio con interfaz gráfica
 
 **Programa para registro de ventas en el negocio de la Kanis**
-El programa va a registrar la hora de venta, el producto (Nombre), y el precio, y me va a actualizar el total en
+El programa va a registrar la hora de venta, el producto (Nombre), y el precio, y me va a actualizar el total en caja.
+*Creación de la clase venta*
+Primero se crea una clase que se llama Venta para poder guardar los atributos que va a existir en esta clase
+* 

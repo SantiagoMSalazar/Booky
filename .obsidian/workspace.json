@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Cursos.md",
+                "file": "Cursos/Java/Ejercicios Explicados.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "a52a95fdc4c6803a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Java/Ejercicios Explicados.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdac82ccd7a2c75f",
@@ -160,8 +154,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a52a95fdc4c6803a",
+  "active": "5f1fb06381e03a04",
   "lastOpenFiles": [
+    "Cursos/Cursos.md",
+    "Cursos/Java/Ejercicios Explicados.md",
     "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
@@ -178,8 +174,6 @@
     "Images/Untitled.png",
     "English/Academic-One/Exercises.md",
     "Setup/Setup of obsidian.md",
-    "Cursos/Cursos.md",
-    "Cursos/Java/Ejercicios Explicados.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Setup",
     "Bases de datos Distribuidas",
