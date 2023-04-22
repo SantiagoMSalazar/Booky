@@ -72,3 +72,4 @@ Primero se crea una clase que se llama Venta para poder guardar los atributos qu
 * Precio : double
 Los métodos serán:
 - Obtener la hora en la que se registro la venta.
+ 
