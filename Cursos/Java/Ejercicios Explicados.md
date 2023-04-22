@@ -66,4 +66,9 @@ System.out.println(turno);
 El programa va a registrar la hora de venta, el producto (Nombre), y el precio, y me va a actualizar el total en caja.
 *Creación de la clase venta*
 Primero se crea una clase que se llama Venta para poder guardar los atributos que va a existir en esta clase
-* 
+* Id de la venta : int
+* Nombre : String
+* Fecha y hora: Date
+* Precio : double
+Los métodos serán:
+- Obtener la hora en la que se registro la venta.
