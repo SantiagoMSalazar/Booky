@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Java/Ejercicios Explicados.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Java/Ejercicios Explicados.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Java/Ejercicios Explicados.md",
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Java/Ejercicios Explicados.md"
+                "file": "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "5f1fb06381e03a04",
   "lastOpenFiles": [
-    "Cursos/Cursos.md",
     "Cursos/Java/Ejercicios Explicados.md",
+    "Cursos/Cursos.md",
     "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
