@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
+                "file": "English/Academic-One/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
+                "file": "English/Academic-One/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Academic-One/Exercises.md",
+                "file": "English/Academic-One/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Academic-One/Exercises.md"
+                "file": "English/Academic-One/Grammar.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
+    "English/Academic-One/Exercises.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
     "Setup/Setup of obsidian.md",
     "Pasted image 20230421120425.png",
@@ -166,7 +167,6 @@
     "Images/Untitled 3.png",
     "Images/Untitled 2.png",
     "Images/Untitled 1.png",
-    "English/Academic-One/Exercises.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Setup",
     "Bases de datos Distribuidas",
