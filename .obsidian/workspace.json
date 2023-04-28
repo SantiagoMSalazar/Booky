@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Cursos/Java/Proyecto Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cdac82ccd7a2c75f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Cursos/Java/Proyecto Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Cursos/Java/Proyecto Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Academic-One/Grammar.md"
+                "file": "Cursos/Java/Proyecto Final.md"
               }
             }
           }
@@ -149,15 +148,15 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
+    "Cursos/Java/Ejercicios Explicados.md",
+    "English/Academic-One/Grammar.md",
     "English/Academic-One/Exercises.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
     "Setup/Setup of obsidian.md",
     "Pasted image 20230421120425.png",
     "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
-    "Cursos/Java/Ejercicios Explicados.md",
-    "Cursos/Cursos.md",
+    "Cursos/Java/Proyecto Final.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
-    "English/Academic-One/Grammar.md",
     "Images/Untitled 9.png",
     "Images/Untitled 8.png",
     "Images/Untitled 7.png",
