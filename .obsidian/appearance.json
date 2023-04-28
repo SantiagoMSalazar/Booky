@@ -1,4 +1,7 @@
 {
   "accentColor": "#40ce77",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": true
 }
