@@ -17,3 +17,10 @@ the
 ![[Pasted image 20230421120027.png]]
 
 ![[Pasted image 20230421120425.png]]
+# clasuses Staging reasons and conditions
+|Subject|Verb|object|
+|--------|----|-------|
+**Considering that**
+1. I'm happy to be living here, considering that most people want to leave the country.
+**Even if**
+1. I like to eat ice-cream, **even if** it makes me fell sick from time to time.

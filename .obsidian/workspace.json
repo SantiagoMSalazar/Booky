@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Java/Proyecto Final.md",
+                "file": "English/Academic-One/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6665c49d181e1c09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cdac82ccd7a2c75f",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Java/Proyecto Final.md",
+                "file": "English/Academic-One/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Java/Proyecto Final.md",
+                "file": "English/Academic-One/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Java/Proyecto Final.md"
+                "file": "English/Academic-One/Grammar.md"
               }
             }
           }
@@ -148,11 +157,11 @@
   },
   "active": "a52a95fdc4c6803a",
   "lastOpenFiles": [
+    "Cursos/Java/Proyecto Final.md",
     "Images/Diagrama de clase proyecto Curso Java.png",
     "Images/Untitled 1.png",
     "Images/Pasted image 20230428090929.png",
     "Images/Pasted image 20230421120425.png",
-    "Cursos/Java/Proyecto Final.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Cursos/Java/Ejercicios Explicados.md",
     "English/Academic-One/Grammar.md",
@@ -167,7 +176,6 @@
     "Images/Untitled 6.png",
     "Images/Untitled 5.png",
     "Images/Untitled 4.png",
-    "Images/Untitled 3.png",
     "Setup",
     "Bases de datos Distribuidas",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
