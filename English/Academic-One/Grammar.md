@@ -24,3 +24,7 @@ the
 1. I'm happy to be living here, considering that most people want to leave the country.
 **Even if**
 1. I like to eat ice-cream, **even if** it makes me fell sick from time to time.
+**As long as**
+2. I wil work during the weekend, as long as yo promise that next week I'll have some days off.
+**Unless**
+3. 
