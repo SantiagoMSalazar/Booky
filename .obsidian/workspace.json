@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "English/Academic-One/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Setup of obsidian.md"
+                "file": "English/Academic-One/Grammar.md"
               }
             }
           }
@@ -179,8 +179,8 @@
   },
   "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
-    "Images/Pasted image 20230503112545.png",
     "Setup/Setup of obsidian.md",
+    "Images/Pasted image 20230503112545.png",
     "Images/Pasted image 20230503112613.png",
     "English/Academic-One/Grammar.md",
     "Cursos/Java/Proyecto Final.md",
