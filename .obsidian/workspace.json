@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Setup/Setup of obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Setup/Setup of obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Academic-One/Grammar.md",
+                "file": "Setup/Setup of obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Academic-One/Grammar.md"
+                "file": "Setup/Setup of obsidian.md"
               }
             }
           }
@@ -177,19 +177,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "bc0377958916cda7",
+  "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
+    "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
+    "English/Academic-One/Grammar.md",
     "Images/Pasted image 20230504115541.png",
     "Setup/Setup of obsidian.md",
     "Images/Pasted image 20230503112545.png",
     "Images/Pasted image 20230503112613.png",
-    "English/Academic-One/Grammar.md",
     "Cursos/Java/Proyecto Final.md",
     "Images/Diagrama de clase proyecto Curso Java.png",
     "Images/Untitled 1.png",
     "Images/Pasted image 20230428090929.png",
     "Images/Pasted image 20230421120425.png",
-    "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Cursos/Java/Ejercicios Explicados.md",
     "English/Academic-One/Exercises.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
@@ -198,7 +198,6 @@
     "Images/Untitled 9.png",
     "Images/Untitled 8.png",
     "Images/Untitled 7.png",
-    "Images/Untitled 6.png",
     "Setup",
     "Bases de datos Distribuidas",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
