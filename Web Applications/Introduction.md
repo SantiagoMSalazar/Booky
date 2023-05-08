@@ -12,4 +12,7 @@ To learn about this.
 - scientist 
 - project manager
 - data or Business analyst 
-- Securi
+- Security Profesional 
+- System administrator 
+- Educator 
+
