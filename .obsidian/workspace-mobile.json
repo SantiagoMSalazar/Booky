@@ -23,8 +23,12 @@
             "id": "f4c9263fff44f2da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Web Applications/Introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Web Applications/Introduction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Web Applications/Introduction.md"
+          }
         }
       }
     ],
