@@ -29,7 +29,7 @@ To learn about this.
 4. SQL
 ![[IMG20230508151455.jpg]]
 # Bibliografía 
-Www.w3schools.com[[]]
+Www.w3schools.com
 # calificación y porcentajes 
 ![[IMG20230508151838.jpg]]
 |fecha|examen|
