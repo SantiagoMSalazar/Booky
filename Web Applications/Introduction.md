@@ -6,4 +6,7 @@ To learn about this.
 - dev frontend 
 - dev mobile
 - dev QA or Test
-- devOps 
+- devOps specialist
+- Cloud infrastructure 
+- database administrator 
+- 
