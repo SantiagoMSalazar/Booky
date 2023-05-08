@@ -32,4 +32,5 @@ To learn about this.
 Www.w3schools.com[[]]
 # calificación y porcentajes 
 ![[IMG20230508151838.jpg]]
-|fecha
+|fecha|examen|
+|||
