@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Java.md",
+                "file": "Setup/Setup of obsidian.md",
                 "mode": "preview",
                 "source": false
               }
@@ -44,8 +44,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#towns",
-            "matchingCase": true,
+            "query": "",
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -71,6 +71,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "e12435d1eb10e246",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cursos/Java.md",
+            "file": "Setup/Setup of obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cursos/Java.md",
+            "file": "Setup/Setup of obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cursos/Java.md"
+            "file": "Setup/Setup of obsidian.md"
           }
         }
       }
@@ -131,14 +139,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e61199396b42dc",
+  "active": "29d92286b4737ec4",
   "lastOpenFiles": [
-    "Pasted image 20230420123758.png",
-    "Cursos/Java.md",
-    "Cursos/Cursos.md",
+    "Untitled",
     "English/Academic-One/Grammar.md",
-    "/Cursos/Java.md",
+    "Setup/Setup of obsidian.md",
+    "Ingeniería de Requerimientos/Requisitos Comerciales.md",
+    "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
+    "Cursos/Java/Proyecto Final.md",
+    "Cursos/Java/Ejercicios Explicados.md",
+    "/Setup/Setup of obsidian.md",
+    "Images/Pasted image 20230504115541.png",
+    "Images/Pasted image 20230503112613.png",
+    "Images/Pasted image 20230503112545.png",
+    "/Images/Pasted image 20230504115541.png",
+    "/Images/Pasted image 20230503112613.png",
+    "/Images/Pasted image 20230503112545.png",
+    "/English/Academic-One/Grammar.md",
     "English/Academic-One/Exercises.md",
+    "Images/Pasted image 20230421120425.png",
+    "Images/Pasted image 20230428090929.png",
+    "/Images/Pasted image 20230421120425.png",
+    "Images/Diagrama de clase proyecto Curso Java.png",
+    "/Cursos/Java/Proyecto Final.md",
+    "Ingeniería de Requerimientos/Tipos de Requisitos.md",
+    "/English/Academic-One/Exercises.md",
+    "/Cursos/Java/Ejercicios Explicados.md",
+    "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
+    "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
+    "/Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb/Untitled 1.png.md",
+    "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
+    "/Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
+    "/Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
+    "www.github.com.md",
+    "Cursos/Cursos.md",
+    "Setup",
+    "/Setup",
+    "Cursos/Java.md",
+    "/Cursos/Java.md",
     "/Cursos/Cursos.md",
     "/Cursos"
   ]
