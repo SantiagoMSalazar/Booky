@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d92a6be4fbfe2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Design/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Web Applications/Introduction.md",
+            "file": "Software Design/Introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Web Applications/Introduction.md",
+            "file": "Software Design/Introduction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Web Applications/Introduction.md"
+            "file": "Software Design/Introduction.md"
           }
         }
       }
@@ -152,11 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4c9263fff44f2da",
+  "active": "0d92a6be4fbfe2fc",
   "lastOpenFiles": [
+    "Software Design",
+    "Web Applications/Introduction.md",
+    "Software Design/Introduction.md",
     "Images/IMG20230508151838.jpg",
     "Images/IMG20230508151455.jpg",
-    "Web Applications/Introduction.md",
     "Setup/Setup of obsidian.md",
     "Web Applications",
     "English/Academic-One/Grammar.md",
@@ -175,7 +189,6 @@
     "English/Academic-One/Exercises.md",
     "Images/Pasted image 20230421120425.png",
     "Images/Pasted image 20230428090929.png",
-    "/Images/Pasted image 20230421120425.png",
     "/Cursos/Java/Proyecto Final.md",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
     "/English/Academic-One/Exercises.md",
