@@ -30,4 +30,5 @@ To learn about this.
 ![[IMG20230508151455.jpg]]
 Bibliografía 
 Www.w3schools.com
-# calificación 
+# calificación y porcentajes 
+![[IMG20230508151838.jpg]]
