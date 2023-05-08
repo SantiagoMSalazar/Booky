@@ -9,4 +9,7 @@ To learn about this.
 - devOps specialist
 - Cloud infrastructure 
 - database administrator 
-- 
+- scientist 
+- project manager
+- data or Business analyst 
+- Securi
