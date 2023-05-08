@@ -17,8 +17,10 @@ To learn about this.
 - Educator 
 # Curriculum Information 
 ## Eje de formación 
-1. We
+1. Web Foundation 
 2. Html
 3. Javascript 
 4. Css
 5. Typescript 
+### Segundo Bimestre 
+
