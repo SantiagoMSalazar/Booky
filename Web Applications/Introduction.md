@@ -4,4 +4,6 @@ To learn about this.
 - dev full-stack 
 - dev backend
 - dev frontend 
-- 
+- dev mobile
+- dev QA or Test
+- devOps 
