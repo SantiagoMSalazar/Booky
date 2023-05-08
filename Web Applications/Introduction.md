@@ -17,7 +17,8 @@ To learn about this.
 - Educator 
 # Curriculum Information 
 ## Eje de formación 
-1. Html
-2. Javascript 
-3. Css
-4. 
+1. We
+2. Html
+3. Javascript 
+4. Css
+5. Typescript 
