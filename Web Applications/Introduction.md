@@ -32,7 +32,7 @@ To learn about this.
 # Bibliografía 
 Www.w3schools.com
 # calificación y porcentajes 
-![[IMG20230508151838.jpg]]
+![image](/Images/IMG20230508151838.jpg)
 |fecha|examen|
 |-|-|
 |03/07/2023|examen 1 BIM|
