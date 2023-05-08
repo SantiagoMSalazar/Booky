@@ -27,3 +27,4 @@ To learn about this.
 2. MongoDB
 3. FireBase
 4. SQL
+![[IMG20230508151455.jpg]]
