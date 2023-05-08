@@ -1,1 +1,1 @@
-Existen distintos modelos como el modelo de 
+Existen distintos modelos como el modelo de cascada
