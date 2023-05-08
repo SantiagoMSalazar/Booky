@@ -35,12 +35,8 @@
             "id": "0d92a6be4fbfe2fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Design/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -69,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Analista",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -106,7 +102,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "c63f36082cda8555",
@@ -118,7 +114,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Software Design/Introduction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +130,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Software Design/Introduction.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,9 +140,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Software Design/Introduction.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -166,10 +158,11 @@
   },
   "active": "0d92a6be4fbfe2fc",
   "lastOpenFiles": [
-    "Web Applications/Introduction.md",
-    "/Web Applications/Introduction.md",
+    "Ingeniería de Requerimientos/Tipos de Requisitos.md",
     "Software Design/Introduction.md",
     "/Software Design/Introduction.md",
+    "Web Applications/Introduction.md",
+    "/Web Applications/Introduction.md",
     "Software Design",
     "Images/IMG20230508151838.jpg",
     "Images/IMG20230508151455.jpg",
@@ -192,7 +185,6 @@
     "Images/Pasted image 20230421120425.png",
     "Images/Pasted image 20230428090929.png",
     "/Cursos/Java/Proyecto Final.md",
-    "Ingeniería de Requerimientos/Tipos de Requisitos.md",
     "/English/Academic-One/Exercises.md",
     "/Cursos/Java/Ejercicios Explicados.md",
     "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
