@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Applications/Introduction.md",
+                "file": "Artificial intelligence/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Applications/Introduction.md",
+                "file": "Artificial intelligence/Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Applications/Introduction.md",
+                "file": "Artificial intelligence/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Applications/Introduction.md"
+                "file": "Artificial intelligence/Introduction.md"
               }
             }
           }
@@ -180,8 +180,12 @@
   },
   "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
-    "Software Design/Introduction.md",
     "Web Applications/Introduction.md",
+    "Dashboard.canvas",
+    "Artificial intelligence/Introduction.md",
+    "Artificial intelligence/Capítulo 1_ Fundamentos de AI.md",
+    "Artificial intelligence",
+    "Software Design/Introduction.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Setup/Setup of obsidian.md",
     "Web Applications",
@@ -212,7 +216,6 @@
     "Untitled.canvas",
     "Ingeniería de Requerimientos",
     "Cursos/Java",
-    "Cursos",
-    "English/Academic-One"
+    "Cursos"
   ]
 }
