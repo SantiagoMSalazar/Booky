@@ -1,1 +1,2 @@
-PhD. LORENA RECALDE __
+PhD. LORENA RECALDE  - > Lorena.recalde@epn.edu.ec
+
