@@ -102,7 +102,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "c63f36082cda8555",
@@ -147,8 +147,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,11 +161,11 @@
   },
   "active": "f4c9263fff44f2da",
   "lastOpenFiles": [
+    "/Web Applications/Introduction.md",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
     "Software Design/Introduction.md",
     "/Software Design/Introduction.md",
     "Web Applications/Introduction.md",
-    "/Web Applications/Introduction.md",
     "Software Design",
     "Images/IMG20230508151838.jpg",
     "Images/IMG20230508151455.jpg",
