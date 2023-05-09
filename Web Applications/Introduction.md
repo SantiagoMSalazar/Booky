@@ -40,7 +40,7 @@ Www.w3schools.com
 |11/09/2023|Revisión proyecto 2do BIM|
 
 - [x] dsfsdfs
-- [x] rewrwr
-- [ ] xcvxcvxcvb,a
-- [ ] hola friend
+- [ ] hacer trabajo en grupo
+- [x] xcvxcvxcvb,a
+- [x] hola friend
 - [x] that's all
