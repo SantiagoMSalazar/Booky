@@ -12,4 +12,4 @@ De 2 a 3 conclusiones
 ## Referencias
 
 # Hacer un proyecto 
-El proyecto de primer bimestre es 
+El proyecto de primer bimestre debe ser dirigido a la SEGURIDAD 
