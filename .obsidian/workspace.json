@@ -33,8 +33,12 @@
             "id": "52653d66f5bb0f83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial intelligence/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial intelligence/Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial intelligence/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial intelligence/Introduction.md"
+              }
             }
           }
         ],
