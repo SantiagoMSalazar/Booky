@@ -41,3 +41,4 @@ Www.w3schools.com
 
 Hay que hacer un estudio de lo que es web con HTML y JS para iniciar con 
 
+También ay que modificar algunas cosas del sistema
