@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"086349fcd52515b5","x":-205,"y":-368,"width":250,"height":60,"type":"text","text":"- [ ] informe #"}
+		{"id":"086349fcd52515b5","x":-200,"y":-368,"width":245,"height":288,"type":"text","text":"- [ ] informe [[Artificial intelligence/Introduction|Introduction]] 20/05/2023\n- [ ] "}
 	],
 	"edges":[]
 }
