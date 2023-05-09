@@ -13,3 +13,5 @@ Creación de sistemas para el diseño de tareas
 # Machine Learning
 
 # Deep learning 
+Construcción de las redes neuronales
+
