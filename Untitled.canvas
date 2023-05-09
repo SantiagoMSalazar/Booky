@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"086349fcd52515b5","x":-205,"y":-368,"width":250,"height":60,"type":"text","text":"- [ ] Tarea el "}
+		{"id":"086349fcd52515b5","x":-205,"y":-368,"width":250,"height":60,"type":"text","text":"- [ ] informe #"}
 	],
 	"edges":[]
 }
