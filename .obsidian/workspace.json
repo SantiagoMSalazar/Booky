@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "Software Design/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "Software Design/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Setup of obsidian.md",
+                "file": "Software Design/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Setup of obsidian.md"
+                "file": "Software Design/Introduction.md"
               }
             }
           }
@@ -179,10 +179,16 @@
   },
   "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
+    "Web Applications/Introduction.md",
+    "Software Design/Introduction.md",
+    "Setup/Setup of obsidian.md",
+    "Web Applications",
+    "Software Design",
+    "Images/IMG20230508151838.jpg",
+    "Images/IMG20230508151455.jpg",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "English/Academic-One/Grammar.md",
     "Images/Pasted image 20230504115541.png",
-    "Setup/Setup of obsidian.md",
     "Images/Pasted image 20230503112545.png",
     "Images/Pasted image 20230503112613.png",
     "Cursos/Java/Proyecto Final.md",
@@ -196,8 +202,6 @@
     "Ingeniería de Requerimientos/Resumen Ingeniería de Requisitos.md",
     "Resumen Ingeniería de Requisitos 46c79fb660024f3192bf4985d11c3feb",
     "Images/Untitled 9.png",
-    "Images/Untitled 8.png",
-    "Images/Untitled 7.png",
     "Setup",
     "Bases de datos Distribuidas",
     "Ingeniería de Requerimientos/Tipos de Requisitos.md",
@@ -208,7 +212,6 @@
     "Ingeniería de Requerimientos",
     "Cursos/Java",
     "Cursos",
-    "English/Academic-One",
-    "English"
+    "English/Academic-One"
   ]
 }
