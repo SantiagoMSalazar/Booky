@@ -33,8 +33,8 @@ To learn about this.
 Www.w3schools.com
 # calificación y porcentajes 
 ![image](/Images/IMG20230508151838.jpg)
-|fecha|examen|
-|-|-|
+|    fecha |  examen    |
+|----------|------------|
 |03/07/2023|examen 1 BIM|
 |06/09/2023|Examen 2 BIM|
 |11/09/2023|Revisión proyecto 2do BIM|

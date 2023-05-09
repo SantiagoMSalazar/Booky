@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Design/Introduction.md",
+                "file": "Web Applications/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Design/Introduction.md",
+                "file": "Web Applications/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Design/Introduction.md",
+                "file": "Web Applications/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Design/Introduction.md"
+                "file": "Web Applications/Introduction.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
+    "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Web Applications/Introduction.md",
     "Software Design/Introduction.md",
     "Setup/Setup of obsidian.md",
@@ -186,7 +187,6 @@
     "Software Design",
     "Images/IMG20230508151838.jpg",
     "Images/IMG20230508151455.jpg",
-    "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "English/Academic-One/Grammar.md",
     "Images/Pasted image 20230504115541.png",
     "Images/Pasted image 20230503112545.png",
