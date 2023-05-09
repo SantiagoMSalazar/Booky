@@ -4,5 +4,7 @@
 		{"id":"79480c3d8b5485d3","x":-60,"y":-340,"width":250,"height":60,"color":"3","type":"text","text":"Task\n- [ ] Hacer resumen de Diseño"},
 		{"id":"400c285a9b551aaa","x":40,"y":-66,"width":400,"height":213,"type":"file","file":"Images/Untitled 1.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ebd462c132c2aad0","fromNode":"79480c3d8b5485d3","fromSide":"bottom","toNode":"400c285a9b551aaa","toSide":"left"}
+	]
 }
