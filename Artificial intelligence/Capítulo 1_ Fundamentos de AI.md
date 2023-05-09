@@ -1,0 +1,1 @@
+Maquinas creadas por humanos para pensar xomo humanos: *inteligencia creada Artificialmente*
