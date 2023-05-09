@@ -33,8 +33,12 @@
             "id": "52653d66f5bb0f83",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Applications/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -112,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Applications/Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Applications/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Applications/Introduction.md"
+              }
             }
           }
         ],
@@ -172,12 +180,8 @@
   },
   "active": "52653d66f5bb0f83",
   "lastOpenFiles": [
-    "Dashboard.canvas",
-    "Artificial intelligence/Introduction.md",
-    "Web Applications/Introduction.md",
-    "Artificial intelligence/Capítulo 1_ Fundamentos de AI.md",
-    "Artificial intelligence",
     "Software Design/Introduction.md",
+    "Web Applications/Introduction.md",
     "Bases de datos Distribuidas/GUÍA DE INSTALACIÓN.md",
     "Setup/Setup of obsidian.md",
     "Web Applications",
@@ -208,6 +212,7 @@
     "Untitled.canvas",
     "Ingeniería de Requerimientos",
     "Cursos/Java",
-    "Cursos"
+    "Cursos",
+    "English/Academic-One"
   ]
 }
