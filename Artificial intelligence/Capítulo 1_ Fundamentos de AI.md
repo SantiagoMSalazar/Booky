@@ -9,7 +9,7 @@ La AI ha logrado grandes avances, especialmente en los últimos años con la lle
 Aveces avanzan tan rápido qué parecen superbumanos. 
 Combinación de capacidades algortmicas y computacionales. 
 # Inteligencia Artificial 
-
+Creación de sistemas para el diseño de tareas
 # Machine Learning
 
 # Deep learning 
