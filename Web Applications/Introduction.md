@@ -39,8 +39,8 @@ Www.w3schools.com
 |06/09/2023|Examen 2 BIM|
 |11/09/2023|Revisión proyecto 2do BIM|
 
-- [ ] dsfsdfs
-- [ ] rewrwr
+- [x] dsfsdfs
+- [x] rewrwr
 - [ ] xcvxcvxcvb,a
 - [ ] hola friend
-- [ ] that's all
+- [x] that's all
