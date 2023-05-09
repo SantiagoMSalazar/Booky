@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"- [x] informe [[Artificial intelligence/Introduction|Introduction]] 20/05/2023\n- [x] Data mining for Business analyst \n- [ ] instalar Anaconda ","id":"086349fcd52515b5","x":-200,"y":-368,"width":245,"height":288,"color":"2"}
+		{"type":"text","text":"- [ ] informe [[Artificial intelligence/Introduction|Introduction]] 20/05/2023\n- [ ] Data mining for Business analyst \n- [ ] instalar Anaconda, python 3","id":"086349fcd52515b5","x":-200,"y":-368,"width":245,"height":288,"color":"2"}
 	],
 	"edges":[]
 }
