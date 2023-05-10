@@ -7,7 +7,7 @@
 ## Fundamentos y proncipios de la Programación
 
 ## Tipos de Paradigmas
-- **Logic Programming**
+### **Logic Programming**
 - **Object-Oriented Programing Languaje**
 - **Scripting Programing LAnguajes**
 - **Functional Programing Languaje**
@@ -16,3 +16,4 @@
 ### Interpretado
 ### Intermedio
 ### Tipados
+### No Tipado
