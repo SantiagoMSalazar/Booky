@@ -8,4 +8,5 @@ En esta asignatura se va a procesar graphics para procesar información
 # Evaluación 
 - actividades clase - 20%
 - prueba Parcial - 25%
-- 
+- prácticas - 25%
+- Examen Bimestral - 30%
