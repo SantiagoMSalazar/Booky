@@ -20,3 +20,5 @@
 ## Bibliotecas
 1. The Clean Code Robert C. Martin 
 2. Clean Javascript 
+## Estándares
+**W3C:** o WWW es 
