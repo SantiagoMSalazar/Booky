@@ -10,7 +10,10 @@ En esta asignatura se va a procesar graphics para procesar información
 	- la asistencia equivale a una Tarea. 
 	- GR1SW
 		- Miércoles 2-4p.m
-		- jueves 4-7
+		- jueves 4-7 p.m. 
+	- GRI2SW
+		- Martes 7-10 a.m.
+		- miércoles 9-10 a.m.
 - prueba Parcial - 25%
 - prácticas - 25%
 - Examen Bimestral - 30%
