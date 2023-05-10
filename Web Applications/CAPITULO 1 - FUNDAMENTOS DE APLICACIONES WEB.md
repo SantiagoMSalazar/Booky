@@ -18,3 +18,5 @@
 ### Tipados
 ### No Tipado
 ## Bibliotecas
+1. The Clean Code Robert C. Martin 
+2. 
