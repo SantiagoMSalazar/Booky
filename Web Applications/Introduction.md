@@ -41,6 +41,6 @@ Www.w3schools.com
 
 - [x] dsfsdfs
 - [ ] hacer trabajo en grupo
-- [x] xcvxcvxcvb,a
+- [ ] xcvxcvxcvb,a
 - [x] hola friend
 - [x] that's all
