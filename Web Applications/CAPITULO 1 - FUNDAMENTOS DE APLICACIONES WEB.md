@@ -9,4 +9,5 @@
 ## Tipos de PAradigmas
 - **Logic Programming**
 - **Object-Oriented Programing Languaje**
-- **Scripting Programing LAnguaj**
+- **Scripting Programing LAnguajes**
+- **Functional Programing Languaje**
