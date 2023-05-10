@@ -39,8 +39,3 @@ Www.w3schools.com
 |06/09/2023|Examen 2 BIM|
 |11/09/2023|Revisión proyecto 2do BIM|
 
-- [x] dsfsdfs
-- [ ] hacer trabajo en grupo
-- [ ] xcvxcvxcvb,a
-- [x] hola friend
-- [x] that's all
