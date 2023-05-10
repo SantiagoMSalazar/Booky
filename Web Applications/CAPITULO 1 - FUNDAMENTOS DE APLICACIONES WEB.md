@@ -19,4 +19,4 @@
 ### No Tipado
 ## Bibliotecas
 1. The Clean Code Robert C. Martin 
-2. 
+2. Clean Javascript 
