@@ -22,3 +22,9 @@
 2. Clean Javascript 
 ## Estándares
 **W3C:** o WWW es World Wide Web 
+
+## Tipos de Aplicaciones
+- Consola
+- Escritorio
+- Web
+- Librerías
