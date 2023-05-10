@@ -17,3 +17,5 @@ En esta asignatura se va a procesar graphics para procesar información
 - prueba Parcial - 25%
 - prácticas - 25%
 - Examen Bimestral - 30%
+	- Examen puede ser Jueves de 11-13h
+- 
