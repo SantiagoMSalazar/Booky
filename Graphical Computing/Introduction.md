@@ -7,6 +7,10 @@ En esta asignatura se va a procesar graphics para procesar información
 #Redaction 
 # Evaluación 
 - actividades clase - 20%
+	- la asistencia equivale a una Tarea. 
+	- GR1SW
+		- Miércoles 2-4p.m
+		- jueves 4-7
 - prueba Parcial - 25%
 - prácticas - 25%
 - Examen Bimestral - 30%
