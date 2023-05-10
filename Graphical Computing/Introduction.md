@@ -5,3 +5,7 @@ En esta asignatura se va a procesar graphics para procesar información
 #Java  #C   #Python  
 #English
 #Redaction 
+# Evaluación 
+- actividades clase - 20%
+- prueba Parcial - 25%
+- 
