@@ -1,1 +1,2 @@
 Docente: Ángel Valdivieso
+En esta asignatura se va a procesar graphics para procesar información 
