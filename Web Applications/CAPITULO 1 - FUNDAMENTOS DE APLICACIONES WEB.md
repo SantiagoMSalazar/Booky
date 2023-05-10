@@ -6,4 +6,7 @@
 
 ## Fundamentos y proncipios de la Programación
 
-## T
+## Tipos de PAradigmas
+- **Logic Programming**
+- **Object-Oriented Programing Languaje**
+- **Scripting Programing LAnguaj**
