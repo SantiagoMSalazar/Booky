@@ -2,4 +2,5 @@ Docente: Ángel Valdivieso
 En esta asignatura se va a procesar graphics para procesar información 
 # conocimiento previo
 #DataStructure 
-#Java 
+#JAVA  #C   #Python. Ll
+
