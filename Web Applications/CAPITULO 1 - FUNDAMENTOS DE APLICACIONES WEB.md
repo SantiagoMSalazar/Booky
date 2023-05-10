@@ -11,4 +11,8 @@
 - **Object-Oriented Programing Languaje**
 - **Scripting Programing LAnguajes**
 - **Functional Programing Languaje**
-## T
+## Tipos de Lenguajes
+### Compilado
+### Interpretado
+### Intermedio
+### Tipados
