@@ -30,6 +30,9 @@ En un negocio la idea es que las cosas circulen en un año.
 ##### Activos Fijos
 Son los que pueden hacerse líquidos en valores superiores a un año.
 *Bienes inmuebles, edificios, patentes, franquicias*
+- **Activos Tangibles**
+Todos los vienes físicos
+- Activos Intang
 
 
 1. Estado de resultados.
