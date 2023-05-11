@@ -40,6 +40,9 @@ Deudas de la empresa
 Deudas a pagar en un plazo menor a un año.
 ##### Pasivos a largo plazo.
 
+#### Patrimonio
+
+#### Ecuación del 
 
 
 1. Estado de resultados.
