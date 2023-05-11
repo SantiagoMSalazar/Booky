@@ -1,1 +1,1 @@
-En esta materia se llega a est
+En esta materia se llega a establecer métodos de análisis sobre inversión 
