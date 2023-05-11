@@ -17,3 +17,9 @@ Se define como el arte y la ciencia de administras el dinero.
 ## Recopilación de la información -> NIFs
 `NIFs - Normas Internacionales de Información Financiera`
 "**Sistema Unificado, estandarizado y homologado de las normas contables**"
+Son las normas internacionales para presentar los resiltados como:
+1. Balance.
+2. Estado de resultados.
+3. Flujo de efectivo.
+4. Otros.
+Los informes s
