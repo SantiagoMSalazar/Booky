@@ -38,6 +38,7 @@ Todos los vienes que no son físicos,
 Deudas de la empresa
 ##### Pasivos Corrientes o circulantes
 Deudas a pagar en un plazo menor a un año.
+##### Pasivos a largo plazo.
 
 
 
