@@ -42,13 +42,13 @@ Deudas a pagar en un plazo menor a un año.
 ##### Pasivos a largo plazo.
 
 #### Patrimonio
-
+Es el capital
 #### Ecuación del Balance
 Es una instantánea de la organización
-$$Activos Totales = pasivos Totales+Capital$$
+$$Activos\ Totales = pasivos Totales+Capital$$
 
 
-1. Estado de resultados.
-2. Flujo de efectivo.
-3. Otros.
+### Estado de resultados.
+### Flujo de efectivo.
+### Otros.
 Los informes sirven para la toma de decisiones de las organizaciones.
