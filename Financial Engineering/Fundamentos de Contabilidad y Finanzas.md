@@ -15,4 +15,5 @@ Se define como el arte y la ciencia de administras el dinero.
 - **Corto plazo**
 	- ¿Cómo administrar actividades financieras cotidianas?
 ## Recopilación de la información -> NIFs
-`N`
+`NIFs - Normas Internacionales de Información Financiera`
+"**Sistema Unificado, estandarizado y homologado de las normas contables**"
