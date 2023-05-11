@@ -14,3 +14,5 @@ También es conocida como "Rendering offline" que hace un renderizado fuera de l
 # Conceptual Framework for interactive Graphics
 
 # Habilitando computadores gráficos modernos
+## Procesadores de Gráficos
+Las `GPU` Están diseñada exclusivamente
