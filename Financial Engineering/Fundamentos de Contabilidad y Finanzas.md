@@ -33,7 +33,7 @@ Son los que pueden hacerse líquidos en valores superiores a un año.
 - **Activos Tangibles**
 Todos los vienes físicos
 - **Activos Intangibles**
-Todo el dinero 
+Todos los vienes que no son físicos, 
 
 
 1. Estado de resultados.
