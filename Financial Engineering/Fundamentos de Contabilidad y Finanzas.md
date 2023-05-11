@@ -46,8 +46,6 @@ Es el capital
 #### Ecuación del Balance
 Es una instantánea de la organización
 $$Activos\ Totales = pasivos Totales+Capital$$
-
-| | Grouping || First Header | Second Header | Third Header | ------------ | :-----------: | -----------: | Content | *Long Cell* || Content | **Cell** | Cell | New section | More | Data | And more | With an escaped '\|
 ### Estado de resultados.
 ### Flujo de efectivo.
 ### Otros.
