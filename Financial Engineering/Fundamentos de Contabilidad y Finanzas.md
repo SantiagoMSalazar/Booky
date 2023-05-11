@@ -24,6 +24,8 @@ cuentas o registros.
 #### Activos
 Bienes, derechos y recursos controlados por la empresa, de los que se espera obtener.
 ##### Activos Corrientes o Circulantes.
+Vida útil contable menor a un año. 
+Son los que pueden hacerse líquidos menor a un año, 
 
 1. Estado de resultados.
 2. Flujo de efectivo.
