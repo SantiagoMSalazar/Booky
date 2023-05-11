@@ -12,3 +12,5 @@ También es conocida como "Rendering offline" que hace un renderizado fuera de l
 - **Medical Imaging**
 	- Para determinar problemas de salud y simulación para operaciones.
 # Conceptual Framework for interactive Graphics
+
+# Habilitando computadores gráficos modernos
