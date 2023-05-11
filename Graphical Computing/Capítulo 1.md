@@ -20,4 +20,4 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 - Smartphones
 - **Efectos de realidad aumentada**
 - HOLOLENS 2
-## ME
+## Mejoras de Software
