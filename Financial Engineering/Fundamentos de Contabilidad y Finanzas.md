@@ -22,7 +22,9 @@ Son las normas internacionales para presentar los resiltados como:
 Informe instantáneo de la organización
 cuentas o registros.
 #### Activos
-Bienes, derechos y recursos controlados por la empresa, de los que se e
+Bienes, derechos y recursos controlados por la empresa, de los que se espera obtener.
+##### Activos Corrientes o Circulantes.
+
 1. Estado de resultados.
 2. Flujo de efectivo.
 3. Otros.
