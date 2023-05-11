@@ -4,7 +4,8 @@
 También es conocida como "Rendering offline" que hace un renderizado fuera de linea, no se lleva en tiempo real
 ## Computer Graphics applications
 - **Realidad Virtual**
+	- 
 - **Scietific Visualization**
 	- Buscar modelos gráficos que representen información.
 - **Medical Imaging**
-	- Para determinar problemas de salud y simulación para operaci
+	- Para determinar problemas de salud y simulación para operaciones.
