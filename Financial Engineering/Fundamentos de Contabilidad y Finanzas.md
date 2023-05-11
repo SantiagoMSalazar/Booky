@@ -9,4 +9,7 @@ Se define como el arte y la ciencia de administras el dinero.
 1. Casi todos los individuos y organizaciones **Ganan, recauda, gastan o invierten dinero**
 ### Campos de decisión
 - **Mediano y Largo Plazo**
-	- ¿Qué inversiones a largo p
+	- ¿Qué inversiones a largo plazo se pueden hacer?
+	- ¿Cómo financiar inversión a largo plazo?
+- **Corto plazo**
+	- ¿Cómo ad
