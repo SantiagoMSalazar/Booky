@@ -42,7 +42,8 @@ Deudas a pagar en un plazo menor a un año.
 
 #### Patrimonio
 
-#### Ecuación del 
+#### Ecuación del Balance
+
 
 
 1. Estado de resultados.
