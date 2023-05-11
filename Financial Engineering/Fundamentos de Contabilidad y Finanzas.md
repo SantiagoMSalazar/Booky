@@ -45,6 +45,7 @@ Deudas a pagar en un plazo menor a un año.
 
 #### Ecuación del Balance
 Es una instantánea de la organización
+$$Activos Totales = pasivos Totales+Capital$$
 
 
 1. Estado de resultados.
