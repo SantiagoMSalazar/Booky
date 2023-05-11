@@ -5,4 +5,5 @@ También es conocida como "Rendering offline" que hace un renderizado fuera de l
 ## Computer Graphics applications
 - **Realidad Virtual**
 - **Scietific Visualization**
-	- Buscar modelos gráficos que represent
+	- Buscar modelos gráficos que representen información.
+	- 
