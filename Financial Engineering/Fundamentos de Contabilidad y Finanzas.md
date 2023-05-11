@@ -14,4 +14,5 @@ Se define como el arte y la ciencia de administras el dinero.
 	- ¿Cómo financiar inversión a largo plazo?
 - **Corto plazo**
 	- ¿Cómo administrar actividades financieras cotidianas?
-- 
+## Recopilación de la información -> NIFs
+`N`
