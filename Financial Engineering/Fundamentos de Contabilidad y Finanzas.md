@@ -10,6 +10,8 @@ Se define como el arte y la ciencia de administras el dinero.
 ### Campos de decisión
 - **Mediano y Largo Plazo**
 	- ¿Qué inversiones a largo plazo se pueden hacer?
+		La idea es que la inversión inicial sea mayor al 
 	- ¿Cómo financiar inversión a largo plazo?
 - **Corto plazo**
-	- ¿Cómo ad
+	- ¿Cómo administrar actividades financieras cotidianas?
+- 
