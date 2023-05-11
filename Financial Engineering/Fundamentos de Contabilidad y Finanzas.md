@@ -25,10 +25,12 @@ cuentas o registros.
 Bienes, derechos y recursos controlados por la empresa, de los que se espera obtener.
 ##### Activos Corrientes o Circulantes.
 Vida útil contable menor a un año. 
-Son los que pueden hacerse líquidos menor a un año, Banco, Caja chica o efectivo.
+Son los que pueden hacerse líquidos menor a un año, *Banco, Caja chica o efectivo.*
 En un negocio la idea es que las cosas circulen en un año.
 ##### Activos Fijos
-Son los que pueden hacerse líquidos en valores superiores a un año
+Son los que pueden hacerse líquidos en valores superiores a un año.
+*Bienes inmuebles, edificios, patentes, franquicias*
+
 
 1. Estado de resultados.
 2. Flujo de efectivo.
