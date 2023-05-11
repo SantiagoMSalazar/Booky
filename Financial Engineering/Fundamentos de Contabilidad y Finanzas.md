@@ -43,7 +43,7 @@ Deudas a pagar en un plazo menor a un año.
 #### Patrimonio
 
 #### Ecuación del Balance
-
+Es una instantánea de la organización
 
 
 1. Estado de resultados.
