@@ -34,6 +34,7 @@ Son los que pueden hacerse líquidos en valores superiores a un año.
 Todos los vienes físicos
 - **Activos Intangibles**
 Todos los vienes que no son físicos, 
+- *Propiedad intelectual, patentes, franquicias*
 #### Pasivos
 Deudas de la empresa
 ##### Pasivos Corrientes o circulantes
