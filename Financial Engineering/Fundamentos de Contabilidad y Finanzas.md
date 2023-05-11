@@ -6,3 +6,5 @@
 	- Todos los proyectos deben tener un análisis de impacto ambiental.
 ## Qué son las finanzas
 Se define como el arte y la ciencia de administras el dinero.
+1. Casi todos los individuos y organizaciones **Ganan, recauda, gastan o invierten dinero**
+2. 
