@@ -17,3 +17,6 @@ También es conocida como "Rendering offline" que hace un renderizado fuera de l
 ## Procesadores de Gráficos
 Las `GPU` Están diseñada exclusivamente para gráficos
 ## Salidas de información
+- Smartphones
+- **Efectos de realidad aumentada**
+- 
