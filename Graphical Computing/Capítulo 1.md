@@ -21,4 +21,3 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 - **Efectos de realidad aumentada**
 - HOLOLENS 2
 ## Mejoras de Software
-- #DataStructure 
