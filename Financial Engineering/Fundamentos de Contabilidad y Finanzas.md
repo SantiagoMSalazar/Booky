@@ -7,4 +7,6 @@
 ## Qué son las finanzas
 Se define como el arte y la ciencia de administras el dinero.
 1. Casi todos los individuos y organizaciones **Ganan, recauda, gastan o invierten dinero**
-2. 
+### Campos de decisión
+- **Mediano y Largo Plazo**
+	- ¿Qué inversiones a largo p
