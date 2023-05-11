@@ -19,8 +19,11 @@ Se define como el arte y la ciencia de administras el dinero.
 **"Sistema Unificado, estandarizado y homologado de las normas contables"**
 Son las normas internacionales para presentar los resiltados como:
 ### Balance
-Informe ins
-2. Estado de resultados.
-3. Flujo de efectivo.
-4. Otros.
+Informe instantáneo de la organización
+cuentas o registros.
+#### Activos
+Bienes, derechos y recursos controlados por la empresa, de los que se e
+1. Estado de resultados.
+2. Flujo de efectivo.
+3. Otros.
 Los informes sirven para la toma de decisiones de las organizaciones.
