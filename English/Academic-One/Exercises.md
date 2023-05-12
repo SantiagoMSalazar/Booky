@@ -332,3 +332,5 @@ ________________________________________________________________
 
 # Excercise
 Different - In my culture the people usually use the shoes in the house.
+
+2. Opening a door for someone is a polite action 
