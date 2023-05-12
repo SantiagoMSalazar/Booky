@@ -337,3 +337,5 @@ Different - In my culture the people usually use the shoes in the house.
 3. Splitting a reastaurant bill with a friend is a typical idea between the young people.
 4. is unusuall 
 It's impolite 
+
+It's n
