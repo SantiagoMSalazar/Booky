@@ -331,4 +331,4 @@ _______________________________________________________________
 ________________________________________________________________
 
 # Excercise
-Different - In my culture the peo
+Different - In my culture the people usually use the shoes in the house.
