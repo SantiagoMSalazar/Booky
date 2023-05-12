@@ -334,4 +334,5 @@ ________________________________________________________________
 Different - In my culture the people usually use the shoes in the house.
 
 2. Opening a door for someone is a polite action in my culture.
-3. Splitting a reastaurant bill with a friend is a ty
+3. Splitting a reastaurant bill with a friend is a typical idea between the young people.
+4. is unusuall 
