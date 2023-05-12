@@ -344,7 +344,7 @@ It's inappropriate to talk about religion or politics during a meeting.
 
 
 
-   
+    
 
 "Have you ever used technology as an extension of your body or brain? It may sound like a typical science fiction movie, but now that we are connected to the internet and use smartphones, it is absolutely possible to use a 'digital brain.'
 
