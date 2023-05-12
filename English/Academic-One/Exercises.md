@@ -338,4 +338,5 @@ Different - In my culture the people usually use the shoes in the house.
 4. is unusuall 
 It's impolite 
 
-It's inappropriate to talk about religion or politics during 
+It's inappropriate to talk about religion or politics during a meeting.
+
