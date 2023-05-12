@@ -340,3 +340,20 @@ It's impolite
 
 It's inappropriate to talk about religion or politics during a meeting.
 
+
+
+
+
+
+"Have you ever used technology as an extension of your body or brain? It may sound like a typical science fiction movie, but now that we are connected to the internet and use smartphones, it is absolutely possible to use a 'digital brain.'
+
+You have probably heard about taking notes during class to build a knowledge base containing your own notes for reference. However, in reality, you may not refer to your notes after approaching a subject or trying to solve a problem. Instead, you may find it faster to search for the same information on Google, despite the existence of fake articles written by people without certified knowledge.
+
+So, how can you use technology to remember your college, institute, or job notes? The answer is by creating a digital brain. According to Ari Mesiel, the best way to remember your notes and have access to them at all times is by building a network of interconnected notes, similar to the way the human brain works.
+
+There are many applications available for this purpose, such as Notion, Evernote, OneNote, and more. However, I recommend Obsidian for this purpose because it has an excellent representation of a brain graph. It takes all your notes and connects them using tags or links between pages with Markdown language, and its syntax is easier and faster than that of other apps.
+
+Obsidian uses a system that is simple and amazing, working with plain text pages based on the Markdown language. The notes are organized in folders, and you can use the tree system, but it's not necessary. Even if your notes are located in just one folder, the brain graph will be organized and connected. If you synchronize your notes between your smartphone and your computer, you have to pay for the cloud service unless you install community plugins that you can find on the internet. However, be careful with the plugins that you install because they are not official tools. It's important that you pay attention to the objective, which is to build a digital brain. Even if you use your own website, you can make this work. The only important thing is that you connect each note in your brain and try to avoid orphan notes.
+
+If you take notes in college or during important meetings, you should use this system. You won't need the internet all the time, you won't have to pay for it, and you'll have an excellent and secure tech option for accessing the knowledge that you have built."
+
