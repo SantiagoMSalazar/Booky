@@ -345,6 +345,7 @@ It's inappropriate to talk about religion or politics during a meeting.
 
 
 
+
 "Have you ever used technology as an extension of your body or brain? It may sound like a typical science fiction movie, but now that we are connected to the internet and use smartphones, it is absolutely possible to use a 'digital brain.'
 
 You have probably heard about taking notes during class to build a knowledge base containing your own notes for reference. However, in reality, you may not refer to your notes after approaching a subject or trying to solve a problem. Instead, you may find it faster to search for the same information on Google, despite the existence of fake articles written by people without certified knowledge.
