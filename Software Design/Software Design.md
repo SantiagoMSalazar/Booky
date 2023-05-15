@@ -1,6 +1,6 @@
 Existen distintos modelos como el modelo de cascada
 # Contenido
-1. **Capítulo 1 :[Conceptos e diseño de Software](Conceptos de diseño de software)
+1. **Capítulo 1 : [Conceptos e diseño de Software](Conceptos de diseño de software)
 2. 
 
 
