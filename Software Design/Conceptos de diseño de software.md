@@ -3,4 +3,4 @@
 
 - Se pueden manejar modelos iterativos. es básicamente una parte de las metodologías ágiles.
 - **Modelo en Espiral**
-- El proceso SCRUM también es un desarrollo del 
+- El proceso SCRUM también es un desarrollo del diseño 
