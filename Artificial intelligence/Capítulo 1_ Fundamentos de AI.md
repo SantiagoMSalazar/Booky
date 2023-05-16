@@ -14,4 +14,5 @@ Creación de sistemas para el diseño de tareas
 
 # Deep learning 
 Construcción de las redes neuronales
+### Puede una máquina pensar y comportarse como lo hacen
 
