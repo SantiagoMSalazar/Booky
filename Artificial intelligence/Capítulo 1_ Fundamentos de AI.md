@@ -34,3 +34,4 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 - ![Alan Turin](./Images/Pasted%20image%2020230516103439.png) Es el padre de la `Inteligencia Artificial`
 	- Propone el [Test de Turing](Capítulo%201_%20Fundamentos%20de%20AI#Test%20de%20Turing)
 # Test de Turing
+Consiste en una prueba la cual consiste en usar a un usuario 
