@@ -13,5 +13,6 @@ Si
 3. SO
 4. Zona horaria
 5. Telefonía
-6. 
+6. Your likes
+7. 
 
