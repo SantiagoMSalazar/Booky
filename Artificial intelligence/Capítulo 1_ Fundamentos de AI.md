@@ -28,4 +28,5 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 - Buscaban automatizar tareas intelectuales que solo hacían los humanos.
 - Las reglas códificadas (Cómo los primeros bots de ajedrez)
 - En 1980 alcanza su máxima popularidad durante el auge de los sitemas expertos de la década de 1980.
-- Surge el enfoque 
+- Surge el enfoque `El aprendizaje automático` 
+- 
