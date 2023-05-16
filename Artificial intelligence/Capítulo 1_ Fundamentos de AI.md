@@ -56,6 +56,6 @@ Si la tarea es el reconocimiento de voz, estos puntos de datos podrían ser arch
 ## Salida Esperada
 En una tarea de reconocmiento de voz, estas podrían ser transcripciones de archivos de sonido generadas por humanos. En una imaganes, los resultados esperados podrían ser etiquetas como "Perro", "Gato", etc...
 ## Forma de medir
-- **Si el algoritmo está trabajando bien:** 
+- **Si el algoritmo está trabajando bien:** Es necesario determinar la distancia entre la salida real y la generad
 
 
