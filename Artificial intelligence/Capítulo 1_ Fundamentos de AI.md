@@ -18,5 +18,6 @@ Construcción de las redes neuronales
 El desarrollo de la inteligencia artifical comenzó con la intención de de crear una inteligencia similar a los humanos.
 |ejempos|
 |-|
-|char
+|chatGPT|
+
 
