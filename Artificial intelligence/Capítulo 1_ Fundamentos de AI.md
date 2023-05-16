@@ -52,7 +52,7 @@ El aprendizaje automático descubre reglas para ejecutar una tarea de procesamie
 # Representaciones de aprendizaje a partir de datos.
 Se necesitan 3 cosas:
 ## Datos de Entrada
-
+Si la tarea es el reconocimiento de voz, estos puntos de datos podrían ser archivos de sonido de personas qiue hablan. Si una tarea es el etiquetado de Imágenes, podrán ser imágenes.
 ## Salida Esperada
 ## Forma de medir
 
