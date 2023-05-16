@@ -44,3 +44,4 @@ En la programación clásica, el paradigma de la IA simbólica, los humanos ingr
 
 Un sistema de Machine Learning se entrena en lugar de programarse explícitamente.
 - La estructura estadística el sistema puede presentar reglas para automatizar las tareas. 
+Aunque el aprendizaje automático solo comenzó a florecer en la década de 1990, se ha convertido en el subcampo más popular y éxitoso de l aAI
