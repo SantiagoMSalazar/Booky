@@ -24,4 +24,4 @@ Es cuestión de tiempo para que se reemplace ciertos trabajos por inteligencias 
 ![image](./Images/Pasted%20image%2020230516101852.png)
 La IA es un campo general que abarca ML y DL, pero también incluye muchos más enfoques que no implican ningún aprendizaje.
 # Historia
-- Nace en la d
+- Nace en la década de 1950 - ingenieros en ciencia de la Computación
