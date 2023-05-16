@@ -44,7 +44,7 @@ Finalizado: No
 - Desafío para el ingeniero de requisitos
     - La IDR trata principalmente sobre la comunicación entre los usuario y el ingeniero de Requisitos - A veces llamado analista.
     - Los desafíos son
-        1. Entender el Dominio del problema.
+        1. Entender el **Dominio del problema**.
         2. Capturar los requisitos del usuario.
         3. Especificar los requisitos del usuario.
         4. Validar la especificación del usuario.
