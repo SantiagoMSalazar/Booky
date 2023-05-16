@@ -7,5 +7,6 @@ Con qué aplicaciones de la Web interactúa el usuario Promedio?
 ![los sitios más populares](./Images/Pasted%20image%2020230516121829.png)
 ¿Son inteligentes?
 Si
-¿Qué información recopilan de
+¿Qué información recopilan de usted?
+
 
