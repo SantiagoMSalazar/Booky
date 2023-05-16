@@ -29,4 +29,4 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 - Las reglas códificadas (Cómo los primeros bots de ajedrez)
 - En 1980 alcanza su máxima popularidad durante el auge de los sitemas expertos de la década de 1980.
 - Surge el enfoque `El aprendizaje automático` 
-- ![Ada Lovelace](./Images/Pasted%20image%2020230516103132.png) Ada Lovelace 
+- ![Ada Lovelace](./Images/Pasted%20image%2020230516103132.png) Ada Lovelace en colaboración con **"Charles Babbage"** Crean el motor analítico: la primera computadora me
