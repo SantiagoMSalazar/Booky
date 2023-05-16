@@ -14,4 +14,21 @@ Creación de sistemas para el diseño de tareas
 
 # Deep learning 
 Construcción de las redes neuronales
+### Puede una máquina pensar y comportarse como lo hacen los humanos
+El desarrollo de la inteligencia artifical comenzó con la intención de de crear una inteligencia similar a los humanos.
+|ejempos|Descripción|
+|-|-|
+|chatGPT|Asistente de chat|
+Es cuestión de tiempo para que se reemplace ciertos trabajos por inteligencias artificiales, 
 
+![image](./Images/Pasted%20image%2020230516101852.png)
+La IA es un campo general que abarca ML y DL, pero también incluye muchos más enfoques que no implican ningún aprendizaje.
+# Historia
+- Nace en la **década de 1950** - ingenieros en ciencia de la Computaciónm se empezó a creer que las computadoras pueden pensar.
+- Buscaban automatizar tareas intelectuales que solo hacían los humanos.
+- Las reglas códificadas (Cómo los primeros bots de ajedrez)
+- En 1980 alcanza su máxima popularidad durante el auge de los sitemas expertos de la década de 1980.
+- Surge el enfoque `El aprendizaje automático` 
+- ![Ada Lovelace](./Images/Pasted%20image%2020230516103132.png) Ada Lovelace en colaboración con **"Charles Babbage"** Crean el motor analítico: la primera computadora mecánica.
+	- Este motor no puede hacer nada solo, únicamente puede ayudar a poner a disposición lo que ya conocemos.
+- ![Alan Turin](./Images/Pasted%20image%2020230516103439.png) Es el padre de la `Inteligencia Artificial`
