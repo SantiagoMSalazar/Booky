@@ -40,4 +40,4 @@ Consiste en una prueba la cual consiste en usar a un usuario y preguntar si dete
 *Podría una computadora aprender estas reglas automáticamente al conservar los datos?*
 En la programación clásica, el paradigma de la IA simbólica, los humanos ingresan las reglas y los datos que procesarán de acuerdo con estas reglas salen las respuestas.
 | En el apredizaje automático los humanos ingresan los datos y los resultados u la computadora geenra las reglas.
-![E](Pasted%20image%2020230516104619.png)
+![Programación clásica VS AI](./Images/Pasted%20image%2020230516104619.png)
