@@ -10,5 +10,8 @@ Si
 ¿Qué información recopilan de usted?
 1. IP AdDress
 2. device model
-3. 
+3. SO
+4. Zona horaria
+5. Telefonía
+6. 
 
