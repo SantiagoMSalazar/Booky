@@ -32,5 +32,12 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 - ![Ada Lovelace](./Images/Pasted%20image%2020230516103132.png) Ada Lovelace en colaboración con **"Charles Babbage"** Crean el motor analítico: la primera computadora mecánica.
 	- Este motor no puede hacer nada solo, únicamente puede ayudar a poner a disposición lo que ya conocemos.
 - ![Alan Turin](./Images/Pasted%20image%2020230516103439.png) Es el padre de la `Inteligencia Artificial`
-	- Propone el Test de Turing
-- 
+	- Propone el [Test de Turing](Capítulo%201_%20Fundamentos%20de%20AI#Test%20de%20Turing)
+# Test de Turing
+Consiste en una prueba la cual consiste en usar a un usuario y preguntar si detecta que quién le está respondiendo es un humano o una computadora:
+![Test de Turing](./Images/Pasted%20image%2020230516104253.png)
+# Apredizaje Automático
+*Podría una computadora aprender estas reglas automáticamente al conservar los datos?*
+En la programación clásica, el paradigma de la IA simbólica, los humanos ingresan las reglas y los datos que procesarán de acuerdo con estas reglas salen las respuestas.
+| En el apredizaje automático los humanos ingresan los datos y los resultados u la computadora geenra las reglas.
+![Programación clásica VS AI](./Images/Pasted%20image%2020230516104619.png)
