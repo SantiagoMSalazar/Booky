@@ -36,4 +36,6 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 # Test de Turing
 Consiste en una prueba la cual consiste en usar a un usuario y preguntar si detecta que quién le está respondiendo es un humano o una computadora:
 ![Test de Turing](./Images/Pasted%20image%2020230516104253.png)
-# Aprediza
+# Apredizaje Automático
+*Podría una computadora aprender estas reglas automáticamente al conservar los datos?*
+En la programación clásica
