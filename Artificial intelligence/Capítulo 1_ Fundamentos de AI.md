@@ -43,4 +43,4 @@ En la programación clásica, el paradigma de la IA simbólica, los humanos ingr
 ![Programación clásica VS AI](./Images/Pasted%20image%2020230516104619.png)
 
 Un sistema de Machine Learning se entrena en lugar de programarse explícitamente.
-- Pro la estructura estadística el sistema puede presentar 
+- La estructura estadística el sistema puede presentar reglas para automatizar las tareas. 
