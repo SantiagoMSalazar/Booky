@@ -14,5 +14,7 @@ Si
 4. Zona horaria
 5. Telefonía
 6. Your likes
-7. 
+7. Time of view
+
+
 
