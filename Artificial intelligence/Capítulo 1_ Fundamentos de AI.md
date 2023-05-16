@@ -15,5 +15,8 @@ Creación de sistemas para el diseño de tareas
 # Deep learning 
 Construcción de las redes neuronales
 ### Puede una máquina pensar y comportarse como lo hacen los humanos
-El desarrollo de la inteligencia artifical comenzó con la intención de de crear una inteligencia solomae  
+El desarrollo de la inteligencia artifical comenzó con la intención de de crear una inteligencia similar a los humanos.
+|ejempos|
+|-|
+|char
 
