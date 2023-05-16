@@ -31,4 +31,4 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 - Surge el enfoque `El aprendizaje automático` 
 - ![Ada Lovelace](./Images/Pasted%20image%2020230516103132.png) Ada Lovelace en colaboración con **"Charles Babbage"** Crean el motor analítico: la primera computadora mecánica.
 	- Este motor no puede hacer nada solo, únicamente puede ayudar a poner a disposición lo que ya conocemos.
-- 
+- ![Alan Turin](./Images/Pasted%20image%2020230516103439.png) Es el padre de la `Inteligencia Artificial`
