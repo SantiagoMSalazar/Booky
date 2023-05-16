@@ -60,3 +60,4 @@ En una tarea de reconocmiento de voz, estas podrían ser transcripciones de arch
 	- Esta medición se usa para ajustar los datos del algoritmo y mejorar la precisión.
 
 
+
