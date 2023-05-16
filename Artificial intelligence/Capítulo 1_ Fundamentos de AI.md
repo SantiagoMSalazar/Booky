@@ -26,3 +26,4 @@ La IA es un campo general que abarca ML y DL, pero también incluye muchos más 
 # Historia
 - Nace en la **década de 1950** - ingenieros en ciencia de la Computaciónm se empezó a creer que las computadoras pueden pensar.
 - Buscaban automatizar tareas intelectuales que solo hacían los humanos.
+- Las reglas códificadas ()
