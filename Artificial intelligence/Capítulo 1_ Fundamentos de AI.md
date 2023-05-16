@@ -50,5 +50,5 @@ Aunque el aprendizaje automático solo comenzó a florecer en la década de 1990
 	Machine Learning = ML
 El aprendizaje automático descubre reglas para ejecutar una tarea de procesamiento de datos.
 # Representaciones de aprendizaje a partir de datos.
-
+Se necesitan 3 cosas 
 
