@@ -42,4 +42,4 @@ En la programación clásica, el paradigma de la IA simbólica, los humanos ingr
 | En el apredizaje automático los humanos ingresan los datos y los resultados u la computadora geenra las reglas.
 ![Programación clásica VS AI](./Images/Pasted%20image%2020230516104619.png)
 
-Un sistema de 
+Un sistema de Machine Learning se entrena en lugar de programarse explícitamente.
