@@ -8,5 +8,7 @@ Con qué aplicaciones de la Web interactúa el usuario Promedio?
 ¿Son inteligentes?
 Si
 ¿Qué información recopilan de usted?
-
+1. IP AdDress
+2. device model
+3. 
 
