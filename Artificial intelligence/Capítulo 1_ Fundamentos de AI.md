@@ -54,6 +54,7 @@ Se necesitan 3 cosas:
 ## Datos de Entrada
 Si la tarea es el reconocimiento de voz, estos puntos de datos podrían ser archivos de sonido de personas qiue hablan. Si una tarea es el etiquetado de Imágenes, podrán ser imágenes.
 ## Salida Esperada
+En una tarea de reconocmiento de voz, estas podrían ser transcripciones de archivos de sonido generadas por humanos. En una imaganes, los resultados esperados podrían ser etiquetas como 
 ## Forma de medir
 
 
