@@ -46,4 +46,7 @@ Un sistema de Machine Learning se entrena en lugar de programarse explícitament
 - La estructura estadística el sistema puede presentar reglas para automatizar las tareas. 
 Aunque el aprendizaje automático solo comenzó a florecer en la década de 1990, se ha convertido en el subcampo más popular y éxitoso de la AI, una tendencia impulsada por la disponibilidad de Hardware más rápido y conjuntos de datos más grandes.
 
-## Qué 
+## Qué hacen los algoritmos ML?
+	Machine
+El aprendizaje automático descubre reglas para ejecutar una tarea de procesamiento de datos.
+
