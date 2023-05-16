@@ -21,3 +21,4 @@ El desarrollo de la inteligencia artifical comenzó con la intención de de crea
 |chatGPT|Asistente de chat|
 Es cuestión de tiempo para que se reemplace ciertos trabajos por inteligencias artificiales, 
 
+![image](./Images/Pasted%20image%2020230516101852.png)
