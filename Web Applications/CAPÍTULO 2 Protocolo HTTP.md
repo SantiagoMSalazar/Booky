@@ -6,3 +6,7 @@
 1. **Estado sin conexión**: HTTP es un protocolo sin estado.
 2. **Métodos de Solicitud:**
 	1. Get
+	2. Post
+3. **URI (Uniform Resourse Identifier)**
+4. **Encabezado HTTP**
+5. **Códigos de estado**
