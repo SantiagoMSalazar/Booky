@@ -36,3 +36,6 @@ Nace en 1992 como una plataforma independiente la cual es:
 Varias empresas brindan soporte a OpenGL Microsoft, Nvidia, Appe.
 En la primera versión se desarrolló un principio de **Pipeline** (Cadena de producción).
 Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader:
+- Vertex Shader
+- Fragment Shader
+- Geometry Shader (Opcional)
