@@ -34,7 +34,12 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 ## Función Plenóptica de 7D
 Es la forma en la tomalos la fotogratía
 $L(x,y,z,\theta,\phi,t,\lambda)$
-
+- $x$
+- $y$
+- $z$
+- $\theta$
+- $\phi$
+- $$
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
 ## OpenGL
