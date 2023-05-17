@@ -30,4 +30,7 @@ Cómo han evolucionado las librerías de programación desde las antiguas hasta 
 Nace en 1992 como una plataforma independiente la cual es:
 - Facil de usar
 - Es cercano al hardware brindando un excelente rendimiento
-- Se enfoca en el rende
+- Se enfoca en el renderizado
+- Es independiente de los sistemas de ventadas de los sistemas operativos.
+### Evolución del OpenGL
+Varias empresas brindan soporte a 
