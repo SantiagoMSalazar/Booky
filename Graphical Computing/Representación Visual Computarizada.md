@@ -25,4 +25,6 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 ## Evolución del contexto
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
-## SGI a GL
+## OpenGL
+	Graphics Library=GL
+Nace en 1992
