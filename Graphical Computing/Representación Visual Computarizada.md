@@ -56,4 +56,6 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- GLX para sistemas de X window --> Ventanas de linux
 	- WGL para windows.
 	- AGL para Macintosh.
-	
+
+### GLFW
+Es una librería de multiplataforma, de códig
