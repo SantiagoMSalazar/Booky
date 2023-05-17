@@ -44,4 +44,6 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- Basado en OpenGL 4.3
 	- Base de Shader
 - WebGL
-- 
+	- Implementado apra la Web
+	- Implementación en Javascript
+
