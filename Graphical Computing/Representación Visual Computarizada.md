@@ -24,3 +24,5 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 - Estructura de datos y algoritmos
 ## Evolución del contexto
 # Introducción a la programación de gráficos
+Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
+## SGI a GL
