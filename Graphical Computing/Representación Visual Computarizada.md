@@ -28,7 +28,8 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 
 ## Geometría
 ### Modeling VS Rendering
-Modelar es diseñar 
+Modelar es diseñar los gráficos a partir de la geometría
+- Renderizar es partir de un modelado y capturar una imagen de tal forma que 
 
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
