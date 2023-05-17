@@ -26,6 +26,9 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 # Manejo de gráficos
 ## Sampling - Pixeles
 
+## Geometría
+### Modeling VS Rendering
+Modelar es diseñar 
 
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
