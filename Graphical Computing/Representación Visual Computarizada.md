@@ -47,3 +47,7 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- Implementado apra la Web
 	- Implementación en Javascript
 
+- ##### OpenGL Core Library
+	- OpenGL32 on Windows
+	- GL on most unix/linux systems (libGL.a)
+- 
