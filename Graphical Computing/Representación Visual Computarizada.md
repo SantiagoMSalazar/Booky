@@ -31,7 +31,9 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 - Modelar es diseñar los gráficos a partir de la geometría
 - Renderizar es partir de un modelado y capturar una imagen de tal forma que se convierte a pixeles el ejercicio de modelado.
 - #### Ejemplos de Redering
-	- 
+## Función Plenóptica de 7D
+Es la forma en la tomalos la fotogratía
+$$ $$
 
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
