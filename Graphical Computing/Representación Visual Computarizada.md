@@ -50,4 +50,5 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - ##### OpenGL Core Library
 	- OpenGL32 on Windows
 	- GL on most unix/linux systems (libGL.a)
-- 
+- ##### OpenGL Utility Library (GLU)
+	- 
