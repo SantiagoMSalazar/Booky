@@ -58,4 +58,4 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- AGL para Macintosh.
 
 ### GLFW
-Es una librería de multiplataforma, de códig
+Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, OpenGL ES y aplicaciones de desarrollo de Vulkan.
