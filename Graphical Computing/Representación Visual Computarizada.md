@@ -54,4 +54,6 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- Provee funcionalidades en el nucleo de OpenGL pero evita tener que sobreescribir código.
 - ##### Links with windows system
 	- GLX para sistemas de X window --> Ventanas de linux
-	- WGL para 
+	- WGL para windows.
+	- AGL para Macintosh.
+	
