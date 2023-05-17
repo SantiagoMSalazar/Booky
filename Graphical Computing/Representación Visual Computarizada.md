@@ -51,4 +51,5 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 	- OpenGL32 on Windows
 	- GL on most unix/linux systems (libGL.a)
 - ##### OpenGL Utility Library (GLU)
-	- 
+	- Provee funcionalidades en el nucleo de OpenGL pero evita tener que sobreescribir código.
+- #####
