@@ -2,8 +2,8 @@
 	"nodes":[
 		{"type":"file","file":"Artificial intelligence/Artificial Intelligence.md","id":"a6d337f606b6aca4","x":-620,"y":-360,"width":300,"height":400},
 		{"type":"text","text":"Task\n- [ ] Hacer resumen de Diseño\n- [x] también hacer la tarea\n- [ ] instalar Anaconda en linux","id":"79480c3d8b5485d3","x":-60,"y":-340,"width":250,"height":180,"color":"6"},
-		{"type":"file","file":"Images/Untitled 1.png","id":"400c285a9b551aaa","x":40,"y":-66,"width":400,"height":213},
-		{"type":"file","file":"Images/Schelude.png","id":"cd48aa5aeba29280","x":-773,"y":180,"width":1213,"height":780}
+		{"type":"file","file":"Images/Schelude.png","id":"cd48aa5aeba29280","x":-620,"y":-1200,"width":1213,"height":780},
+		{"type":"file","file":"Images/Untitled 1.png","id":"400c285a9b551aaa","x":-60,"y":-40,"width":400,"height":213}
 	],
 	"edges":[
 		{"id":"ebd462c132c2aad0","fromNode":"79480c3d8b5485d3","fromSide":"bottom","toNode":"400c285a9b551aaa","toSide":"left"},
