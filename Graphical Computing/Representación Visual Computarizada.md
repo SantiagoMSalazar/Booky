@@ -33,4 +33,4 @@ Nace en 1992 como una plataforma independiente la cual es:
 - Se enfoca en el renderizado
 - Es independiente de los sistemas de ventadas de los sistemas operativos.
 ### Evolución del OpenGL
-Varias empresas brindan soporte a 
+Varias empresas brindan soporte a OpenGL Microsoft, Nvidia, Appe.
