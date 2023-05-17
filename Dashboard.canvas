@@ -3,7 +3,7 @@
 		{"type":"file","file":"Artificial intelligence/Artificial Intelligence.md","id":"a6d337f606b6aca4","x":-620,"y":-360,"width":300,"height":400},
 		{"type":"text","text":"Task\n- [ ] Hacer resumen de Diseño\n- [x] también hacer la tarea\n- [ ] instalar Anaconda en linux","id":"79480c3d8b5485d3","x":-60,"y":-340,"width":250,"height":180,"color":"6"},
 		{"type":"file","file":"Images/Schelude.png","id":"cd48aa5aeba29280","x":-620,"y":-1200,"width":1213,"height":780},
-		{"type":"file","file":"Images/Untitled 1.png","id":"400c285a9b551aaa","x":-280,"y":-66,"width":400,"height":213,"color":"4"}
+		{"type":"file","file":"Images/Untitled 1.png","id":"400c285a9b551aaa","x":-280,"y":-66,"width":400,"height":213,"color":"1"}
 	],
 	"edges":[
 		{"id":"141412dc8c2714b0","fromNode":"a6d337f606b6aca4","fromSide":"right","toNode":"79480c3d8b5485d3","toSide":"left","color":"4"},
