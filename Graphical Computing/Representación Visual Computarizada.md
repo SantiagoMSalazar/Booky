@@ -39,3 +39,5 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - Vertex Shader
 - Fragment Shader
 - Geometry Shader (Opcional)
+#### OpenGL ES ans WebGL
+- O
