@@ -22,3 +22,4 @@ En esta asignatura se va a procesar graphics para procesar información
 	- Examen puede ser Jueves de 11-13h
 ==si no estoy conforme con la nota hay que hablarlo lo más rápido posible ==
 
+
