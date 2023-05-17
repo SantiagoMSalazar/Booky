@@ -59,3 +59,5 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 
 ### GLFW
 Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, OpenGL ES y aplicaciones de desarrollo de Vulkan.
+# Para el curso
+[Representación Visual Computarizada](Representación%20Visual%20Computariz
