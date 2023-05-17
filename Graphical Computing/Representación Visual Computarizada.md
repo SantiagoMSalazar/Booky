@@ -40,7 +40,7 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - Fragment Shader
 - Geometry Shader (Opcional)
 #### OpenGL ES ans WebGL
-- OpenGL ES: Está diseñado para sistemas enbebidos o para teléfonos .
+- OpenGL ES: Está diseñado para sistemas embebidos o para teléfonos .
 	- Basado en OpenGL 4.3
 	- Base de Shader
 - WebGL
@@ -60,4 +60,3 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 ### GLFW
 Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, OpenGL ES y aplicaciones de desarrollo de Vulkan.
 # Para el curso
-camion
