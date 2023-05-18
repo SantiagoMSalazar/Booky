@@ -58,7 +58,7 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - OpenGL ES: Está diseñado para sistemas embebidos o para teléfonos .
 	- Basado en OpenGL 4.3
 	- Base de Shader
-- WebGL
+- WebGL 
 	- Implementado apra la Web
 	- Implementación en Javascript
 
