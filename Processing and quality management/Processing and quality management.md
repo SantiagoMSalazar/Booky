@@ -4,7 +4,7 @@ Desde que el ser humano formó comunidades se ha evidenciado la capacidad de cre
 
 Según el economista (Weber, 1947): "Una organización se define como un grupo corporativo que busca lograr un objetivo, utilizando reglas y órdenes dirigidas por un grupo administrativo". Al pensar en la gestión realizada por las empresas públicas y privadas notamos la importancia de llevar a cabo un plan de trabajo que contemple un plan de trabajo conde se clarifique los cargos, las actividades y sus responsables para su ejecución, estas fechas deben de cubrir todos los enfoques que solventes las necesidades de la empresa, sin olvidar que todo este trabajo se rige a tiempos de entrega, de esa forma es como se plantean dos tipos de organizaciones, la tradicional y la dirigida por procesos.
 
-"La organización tradicional ... consiste en dirigir y organizar el personal y los recursos materiales hacia el mejor logro de sus metas y finalidades"(Peña,2018)
+"La organización tradicional ... consiste en dirigir y organizar el personal y los recursos materiales hacia el mejor logro de sus metas y finalidades"(Peña,2018), este enfoque se caracteriza porque 
 
 ## Bibliografía
 1. Weber, M. (1947): The Theory of Social and Economic Organization. The Free Press of Glencoe, Nueva York. Edición española: Economía y Sociedad. FCE, México, 1969
