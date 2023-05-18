@@ -6,7 +6,7 @@ La inteligencia Artificial es el campo relacionado con la automatización de tar
 Esta inteligencia aparentemente podría ser similar a la `inteligencia Humana`
 
 La AI ha logrado grandes avances, especialmente en los últimos años con la llegada de un hardware potente. (las Unidades de procesamiento gráfico GPU y las unidades de procesamiento de tensores TPU) 
-Aveces avanzan tan rápido qué parecen superbumanos. 
+A veces avanzan tan rápido qué parecen superbumanos. 
 Combinación de capacidades algortmicas y computacionales. 
 # Inteligencia Artificial 
 Creación de sistemas para el diseño de tareas
