@@ -12,4 +12,4 @@ En conclusión al mencionar el concepto de una organización como una estructura
 
 ## Bibliografía
 1. Weber, M. (1947): The Theory of Social and Economic Organization. The Free Press of Glencoe, Nueva York. Edición española: Economía y Sociedad. FCE, México, 1969
-2. Peña, G (2018): LA ORGANIZACIÓN TRADICIONAL Y SU RELACIÓN CON LA ESTRATEGIA ORGANIZACIONAL EN LA I.E. Nº 31542 “VIRGEN MARÍA ADMIRABLE” HUANCAYO, 
+2. Peña, G (2018): LA ORGANIZACIÓN TRADICIONAL Y SU RELACIÓN CON LA ESTRATEGIA ORGANIZACIONAL EN LA I.E. Nº 31542 “VIRGEN MARÍA ADMIRABLE” HUANCAYO, Perú 2018.
