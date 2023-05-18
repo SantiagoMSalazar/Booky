@@ -39,7 +39,7 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
 ## OpenGL
 	Graphics Library=GL
-Nace en 1992 como una plataforma independiente la cual es:
+Nace en 1982 como una plataforma independiente la cual es:
 - Facil de usar
 - Es cercano al hardware brindando un excelente rendimiento
 - Se enfoca en el renderizado
