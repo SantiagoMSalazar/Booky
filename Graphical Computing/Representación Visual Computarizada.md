@@ -32,7 +32,9 @@ Las `GPU` Están diseñada exclusivamente para gráficos
 - Renderizar es partir de un modelado y capturar una imagen de tal forma que se convierte a pixeles el ejercicio de modelado.
 - #### Ejemplos de Redering
 	- 
-# Color - modelos y caracterísi
+# Color - modelos y características
+## CMY
+- 
 # Introducción a la programación de gráficos
 Cómo han evolucionado las librerías de programación desde las antiguas hasta las actuales.
 ## OpenGL
