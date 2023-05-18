@@ -8,7 +8,7 @@ Según el economista (Weber, 1947): "Una organización se define como un grupo c
 
 Al comparar la Organización con un enfoque tradicional vs la que lleva un enfoque de procesos identificamos en en esta última se contempla mayor flexibilidad en cuanto a las funciones designadas ya que se secciona por procesos a cada área, maximizando la agilidad en cuanto al cumplimiento de un objetivo específico. Respecto a las decisiones, a diferencia del enfoque tradicional que la decisión tiene la máxima autoridad, el enfoque por procesos busca descentralizar la responsabilidad otorgando la participación y el compromiso a cada equipo de trabajo.
 
-
+en conclusión 
 
 ## Bibliografía
 1. Weber, M. (1947): The Theory of Social and Economic Organization. The Free Press of Glencoe, Nueva York. Edición española: Economía y Sociedad. FCE, México, 1969
