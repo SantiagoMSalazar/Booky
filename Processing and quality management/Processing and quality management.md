@@ -6,7 +6,9 @@ Según el economista (Weber, 1947): "Una organización se define como un grupo c
 
 "La organización tradicional ... consiste en dirigir y organizar el personal y los recursos materiales hacia el mejor logro de sus metas y finalidades"(Peña,2018), este enfoque se caracteriza por manejar una jerarquía piramidal donde las decisiones son tomadas por la persona que se encuentra en la punta, de tal forma que se coordine y supervise por los niveles inferiores. es importante indicar que cada area la empresa tiene sus actividades establecidas y se solventa únicamente esas necesidades.
 
-Al comparar la Organización con un enfoque tradicional vs la que lleva un enfoque de procesos identificamos en en esta última se contempla mayor flexibilidad en cuanto a las funciones designadas ya que se secciona por procesos a cada área, maximizando la agilidad en cuanto al cumplimiento de un objetivo específico. Respecto a las decisiones, a diferencia del enfoque tradicional que la decisión tiene la máxima autoridad, el enfoque por procesos busca descentralizar la res
+Al comparar la Organización con un enfoque tradicional vs la que lleva un enfoque de procesos identificamos en en esta última se contempla mayor flexibilidad en cuanto a las funciones designadas ya que se secciona por procesos a cada área, maximizando la agilidad en cuanto al cumplimiento de un objetivo específico. Respecto a las decisiones, a diferencia del enfoque tradicional que la decisión tiene la máxima autoridad, el enfoque por procesos busca descentralizar la responsabilidad otorgando la participación y el compromiso a cada equipo de trabajo.
+
+
 
 ## Bibliografía
 1. Weber, M. (1947): The Theory of Social and Economic Organization. The Free Press of Glencoe, Nueva York. Edición española: Economía y Sociedad. FCE, México, 1969
