@@ -54,7 +54,7 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - Vertex Shader
 - Fragment Shader
 - Geometry Shader (Opcional)
-#### OpenGL ES ans WebGL
+#### OpenGL ES and WebGL
 - OpenGL ES: Está diseñado para sistemas embebidos o para teléfonos .
 	- Basado en OpenGL 4.3
 	- Base de Shader
