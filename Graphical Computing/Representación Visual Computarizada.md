@@ -47,7 +47,7 @@ Nace en 1982 como una plataforma independiente la cual es:
 ### Evolución del OpenGL
 	Cronos le da soporte a OpenGL
 |==Las primitivas son la unión de vértices==
-
+ 
 Varias empresas brindan soporte a OpenGL Microsoft, Nvidia, Appe.
 En la primera versión se desarrolló un principio de **Pipeline** (Cadena de producción).
 Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader:
