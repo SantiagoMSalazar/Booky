@@ -5,4 +5,3 @@
 - **Modelo en Espiral**
 - El proceso SCRUM también es un desarrollo del diseño ágil .
 - Los diagramas de clases solo se usan en programación Orientada a objetos, cómo lo es la arquitectura de Java o laravel en PHP.
-- 
