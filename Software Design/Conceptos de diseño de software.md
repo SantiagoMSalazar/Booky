@@ -8,4 +8,8 @@
 # Tarjetas CRC
 Fueron propuestas por Ward Cunningham y Kent Beck
 	Originalmente 4x6 cm en papel
-##Clase
+## Clase
+
+## Responsabilidades
+
+## Colaboradores
