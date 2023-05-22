@@ -6,4 +6,6 @@
 - El proceso SCRUM también es un desarrollo del diseño ágil .
 - Los diagramas de clases solo se usan en programación Orientada a objetos, cómo lo es la arquitectura de Java o laravel en PHP.
 # Tarjetas CRC
-Fueron propues
+Fueron propuestas por Ward Cunningham y Kent Beck
+	Originalmente 4x6 cm en papel
+##Clase
