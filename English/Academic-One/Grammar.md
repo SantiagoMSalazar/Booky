@@ -43,4 +43,5 @@ the
 |we had never been|she said that had never been|
 |I will meet you|he said that he would meet me|
 |**Questions**||
-|||
+|Did you know about...?|I asked him if he had known about...|
+|What are||
