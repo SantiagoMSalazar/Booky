@@ -92,4 +92,5 @@ No se trata de construir seres conscientes, sino construir algoritmos que de alg
 	**Recomendación**
 	Comenzar poco a poco y construya, reevaluando su solución continuamente hata que esté satisfecho de que aborda su problema original.
 ### No son un reemplazo para los seres humanos.
-Las máquinas aprender conceptos específicos por medio de datos reelevantes, pero no pueden apender conceptos 
+Las máquinas aprender conceptos específicos por medio de datos reelevantes, pero no pueden apender conceptos fuera de su programación inicial.
+Las máquinas no van a reemplazar a los humanos, pero si pueden reemplazar actividades aparentemente simples.
