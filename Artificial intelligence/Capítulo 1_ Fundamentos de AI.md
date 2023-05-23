@@ -61,3 +61,4 @@ En una tarea de reconocmiento de voz, estas podrían ser transcripciones de arch
 
 # Ciclo de vida del desarrollo inteligente
 Hay un ciclo de vida general, adoptado del diseño de información computacional de Ben Fry. ==Puede referirse a diseñas uestras propias soluciones==
+S
