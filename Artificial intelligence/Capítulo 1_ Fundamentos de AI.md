@@ -62,3 +62,6 @@ En una tarea de reconocmiento de voz, estas podrían ser transcripciones de arch
 # Ciclo de vida del desarrollo inteligente
 Hay un ciclo de vida general, adoptado del diseño de información computacional de Ben Fry. ==Puede referirse a diseñas uestras propias soluciones==
 ![](Pasted%20image%2020230523101814.png)
+- ### Data Adquirida - Acquire Data
+	- Son los datos de entrada que nosotros conseguimos apra trabajar.
+- ### Data
