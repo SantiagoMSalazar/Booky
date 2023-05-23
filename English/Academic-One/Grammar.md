@@ -35,4 +35,6 @@ the
 # Reported speeches
 |speech|reported|
 |-|-|
-|It's a big secret|He said it was a big secret| 
+|It's a big secret|He said it was a big secret|
+|I'm getting a terrible grade|He said he was getting...|
+|They got|Hesaid |
