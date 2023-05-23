@@ -64,4 +64,5 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 ![](Pasted%20image%2020230523101814.png)
 - ### Data Adquirida - Acquire Data
 	- Son los datos de entrada que nosotros conseguimos apra trabajar.
-- ### Data
+- ### Data limpia - Parse - Clean data
+	- Son los datos organizados
