@@ -59,5 +59,5 @@ En una tarea de reconocmiento de voz, estas podrían ser transcripciones de arch
 - **Si el algoritmo está trabajando bien:** Es necesario determinar la distancia entre la salida real y la generada por el algoritmo.
 	- Esta medición se usa para ajustar los datos del algoritmo y mejorar la precisión.
 
-
-
+# Ciclo de vida del desarrollo inteligente
+Hay un ciclo de vida general, adoptado del diseño de información computacional de Ben
