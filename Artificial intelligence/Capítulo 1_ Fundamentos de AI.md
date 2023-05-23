@@ -70,4 +70,4 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 	- Identiicar los atributos de la base de datos organizada. Es necesario entender el comportamiento de la data para establecer:
 		- outlayers (Datos fuera de lo normal)
 - ### Características o estructuras extraídas.
-	- 
+	- Los modelos que se 
