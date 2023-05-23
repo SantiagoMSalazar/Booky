@@ -76,4 +76,4 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 - ### Evaluación del modelo - Evaluate model
 	- Fedback del proceso.
 ## Concepto
-Al diseñar los algoritmos inteligentes es necesario entender, limpiar y organizar la 
+Al diseñar los algoritmos inteligentes es necesario entender, limpiar y organizar la base de datos debido a que **No suelen estar limpios**
