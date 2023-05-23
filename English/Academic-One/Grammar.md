@@ -33,4 +33,6 @@ the
 
 
 # Reported speeches
-It's a big secret 
+|speech|reported|
+|-|-|
+|It's a big secret|He said it was a big secret| 
