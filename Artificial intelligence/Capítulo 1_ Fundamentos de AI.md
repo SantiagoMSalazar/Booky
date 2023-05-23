@@ -90,4 +90,4 @@ Pueden automatizar y construir cualquier proceso, pueden parecer que son indepen
 ### No son máquinas pensantes para todo uso.
 No se trata de construir seres conscientes, sino construir algoritmos que de alguna manera puedan adaptar su comportamiento específico según los datos recibidos.
 	**Recomendación**
-	Comenzar poco
+	Comenzar poco a poco y construya, reevaluando su solución continuamente hata que esté satisfecho de que aborda su problema original.
