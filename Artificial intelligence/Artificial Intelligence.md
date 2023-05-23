@@ -14,4 +14,7 @@ De 2 a 3 conclusiones
 
 # Hacer un proyecto 
 El proyecto de primer bimestre debe ser dirigido a la SEGURIDAD 
-# Tema
+# Contenidos
+1. Capitulo 1: [Fundamentos de AI](Fundamentos%20de%20AI.md)
+2. Capítulo 2: [Machine Learning y Feature Selection](Machine%20Learning%20y%20Feature%20Selection.md)
+3. 
