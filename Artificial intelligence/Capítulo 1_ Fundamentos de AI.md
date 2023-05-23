@@ -88,4 +88,6 @@ Ejemplos de algoritmos son:
 ## Un algoritmo inteligente NO ES
 Pueden automatizar y construir cualquier proceso, pueden parecer que son independientes e intelgentes mas no indica que sean ilimitados.
 ### No son máquinas pensantes para todo uso.
-No se trata de construir 
+No se trata de construir seres conscientes, sino construir algoritmos que de alguna manera puedan adaptar su comportamiento específico según los datos recibidos.
+	**Recomendación**
+	Comenzar poco
