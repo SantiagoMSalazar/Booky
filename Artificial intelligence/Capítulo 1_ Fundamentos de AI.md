@@ -86,3 +86,4 @@ Ejemplos de algoritmos son:
 4. Tiktok - Generación de filtros
 5. Netflix - Recomendaciones
 ## Un algoritmo inteligente NO ES
+Pueden automatizar y construir cualquier proceso, 
