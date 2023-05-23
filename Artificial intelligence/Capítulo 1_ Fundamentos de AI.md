@@ -73,4 +73,5 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 	- Los modelos que se crean a partir de diseño del Machine Learning
 - ### Modelo Entrenado - Train model
 	- El modelo generado por IA
-- ### 
+- ### Evaluación del modelo - Evaluate model
+	- Fedback del proceso.
