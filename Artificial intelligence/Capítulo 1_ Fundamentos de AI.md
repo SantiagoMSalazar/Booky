@@ -75,3 +75,4 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 	- El modelo generado por IA
 - ### Evaluación del modelo - Evaluate model
 	- Fedback del proceso.
+## Concepto
