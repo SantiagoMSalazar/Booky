@@ -37,4 +37,6 @@ the
 |-|-|
 |It's a big secret|He said it was a big secret|
 |I'm getting a terrible grade|He said he was getting...|
-|They got|Hesaid |
+|They got|He said he had gotten...|
+|we weren't walking|they han'd been walking|
+||
