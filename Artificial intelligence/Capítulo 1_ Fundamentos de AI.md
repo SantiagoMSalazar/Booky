@@ -69,5 +69,8 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 - ### Data comprendida - Understand Data
 	- Identiicar los atributos de la base de datos organizada. Es necesario entender el comportamiento de la data para establecer:
 		- outlayers (Datos fuera de lo normal)
-- ### Características o estructuras extraídas.
-	- Los modelos que se crean a partir de diseño del Machine Lea
+- ### Características o estructuras extraídas - Extract features or structure
+	- Los modelos que se crean a partir de diseño del Machine Learning
+- ### Modelo Entrenado - Train model
+	- El modelo generado por IA
+- ### 
