@@ -44,4 +44,4 @@ the
 |I will meet you|he said that he would meet me|
 |**Questions**||
 |Did you know about...?|I asked him if he had known about...|
-|What are||
+|What are you saying?|I asked them what they were saying.|
