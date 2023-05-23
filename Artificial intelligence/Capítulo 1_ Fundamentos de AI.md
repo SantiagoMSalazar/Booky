@@ -66,3 +66,5 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 	- Son los datos de entrada que nosotros conseguimos apra trabajar.
 - ### Data limpia - Parse - Clean data
 	- Son los datos organizados y procesados para la cración de los modelos.
+- ### Data comprendida - Understand Data
+	- los dats 
