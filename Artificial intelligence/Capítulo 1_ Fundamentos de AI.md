@@ -82,4 +82,7 @@ Al diseñar los algoritmos inteligentes es necesario entender, limpiar y organiz
 Ejemplos de algoritmos son:
 1. Google search.
 2. Google maps
-3. Motores de 
+3. Motores de búsqueda
+4. Tiktok - Generación de filtros
+5. Netflix - Recomendaciones
+## Un algoritmo inteligente NO ES
