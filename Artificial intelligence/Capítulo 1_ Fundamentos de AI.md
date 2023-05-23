@@ -76,3 +76,4 @@ Hay un ciclo de vida general, adoptado del diseño de información computacional
 - ### Evaluación del modelo - Evaluate model
 	- Fedback del proceso.
 ## Concepto
+Al diseñar al
