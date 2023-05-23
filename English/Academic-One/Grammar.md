@@ -39,4 +39,5 @@ the
 |I'm getting a terrible grade|He said he was getting...|
 |They got|He said he had gotten...|
 |we weren't walking|they han'd been walking|
+|she's been absent|He said that she had been absent|
 ||
