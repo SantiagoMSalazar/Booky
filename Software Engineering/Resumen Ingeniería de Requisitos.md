@@ -298,4 +298,4 @@ Visión general del proceso
 
 ### Modelo del proceso para la IDR
 
-![Untitled](b/Untitled%209.png)
+![Untitled](Untitled%209.png)
