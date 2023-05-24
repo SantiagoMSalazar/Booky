@@ -88,7 +88,7 @@ Dentro del proceso de construcción de un producto software, las primeras activi
 - Requisitos del software
     - Son descripciones de las necesidades funcionales y no funcionales que el software debe realizar para satisfacer los usuarios y el negocio.
 
-![Untitled](/Images/2046cUntitled%202.png)
+![Untitled](/Images/Untitled%202.png)
 
 - **Requisito a nivel de negocio**
     
@@ -143,15 +143,15 @@ Dentro del proceso de construcción de un producto software, las primeras activi
 
 ## Ingeniería de Requisitos
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%203.png)
+![Untitled](/Images/Untitled%203.png)
 
 ### Proceso y actividades
 
-![Proceso de software](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%204.png)
+![Proceso de software](Untitled%204.png)
 
 Proceso de software
 
-![Actividades de IDR](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%205.png)
+![Actividades de IDR](Untitled%205.png)
 
 Actividades de IDR
 
