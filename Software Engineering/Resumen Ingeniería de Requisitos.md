@@ -155,7 +155,7 @@ Proceso de software
 
 Actividades de IDR
 
-![Visión general del proceso](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%206.png)
+![Visión general del proceso](Untitled%206.png)
 
 Visión general del proceso
 
@@ -176,7 +176,7 @@ Visión general del proceso
     - Su capacidad de soportar cambios
     - Su adaptabilidad a nuevos entornos
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%207.png)
+![Untitled](Untitled%207.png)
 
 - ******************************************************************************************************************************Factores que determinan la calidad del software parta características operativas:******************************************************************************************************************************
     - Corrección → ¿Hace lo que quiero?
@@ -255,7 +255,7 @@ Visión general del proceso
 
 ## El proceso de ingeniería de Requisitos
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%208.png)
+![Untitled](Untitled%208.png)
 
 ### Entradas
 
@@ -298,4 +298,4 @@ Visión general del proceso
 
 ### Modelo del proceso para la IDR
 
-![Untitled](Resumen%20Ingenieri%CC%81a%20de%20Requisitos%2046c79fb660024f3192bf4985d11c3feb/Untitled%209.png)
+![Untitled](b/Untitled%209.png)
