@@ -88,7 +88,7 @@ Dentro del proceso de construcción de un producto software, las primeras activi
 - Requisitos del software
     - Son descripciones de las necesidades funcionales y no funcionales que el software debe realizar para satisfacer los usuarios y el negocio.
 
-![Untitled](/Images/2046c79fb660024f3192bf4985d11c3feb/Untitled%202.png)
+![Untitled](/Images/2046cUntitled%202.png)
 
 - **Requisito a nivel de negocio**
     
