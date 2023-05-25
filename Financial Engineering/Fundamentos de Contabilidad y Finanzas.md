@@ -54,4 +54,5 @@ Los informes sirven para la toma de decisiones de las organizaciones.
 Es otra forma de comparar empresas de diferentes tamaños
 ### 1. Razones de liquidez o solvencia.
 ### 2. Razones de apalancamiento financiero o solvencia a largo plazo.
-### 3. Razones 
+### 3. Razones de actividad o rotación de activos.
+### 
