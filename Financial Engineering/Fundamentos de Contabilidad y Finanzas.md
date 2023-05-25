@@ -50,3 +50,4 @@ $$Activos\ Totales = pasivos Totales+Capital$$
 ### Flujo de efectivo.
 ### Otros.
 Los informes sirven para la toma de decisiones de las organizaciones.
+# Razones financieras 
