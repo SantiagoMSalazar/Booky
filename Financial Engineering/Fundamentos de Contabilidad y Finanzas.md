@@ -56,3 +56,4 @@ Es otra forma de comparar empresas de diferentes tamaños
 ### 2. Razones de apalancamiento financiero o solvencia a largo plazo.
 ### 3. Razones de actividad o rotación de activos.
 ### 4. Razones de rentabilidad.
+### 5. Razones de valor de mercado
