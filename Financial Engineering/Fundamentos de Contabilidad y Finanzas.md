@@ -51,3 +51,4 @@ $$Activos\ Totales = pasivos Totales+Capital$$
 ### Otros.
 Los informes sirven para la toma de decisiones de las organizaciones.
 # Razones financieras 
+E otra forma de comparar empresa
