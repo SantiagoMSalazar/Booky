@@ -16,3 +16,5 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 ## Colaboradores
 ![](Pasted%20image%2020230522171806.png)
 
+# Modelo de vista 4+1 de la arquitectura
+![](Pasted%20image%2020230529163129.png)
