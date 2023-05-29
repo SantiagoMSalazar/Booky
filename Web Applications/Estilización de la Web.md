@@ -7,3 +7,6 @@ HTML no permite establecer una distinta apariencia.
 <body bgcolor="red">
 ```
 *Los campos en apariencia dependían del proveedor del Navegador.*
+<p>
+Colocar est
+</p>
