@@ -29,4 +29,4 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 - ### Notación.
 	- Notación de Booch.
 	- ![](Pasted%20image%2020230529163432.png)
-- 
+	- Se deriva de la notación de Booch. Esta se simplifica considerablemente 
