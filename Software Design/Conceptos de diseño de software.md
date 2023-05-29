@@ -40,4 +40,5 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 - ### Considera
 	- Requisitos no funcionales. (Escalabilidad, simultaneidad y rendimiento)
 - ### Estilo
-	- Estilos d
+	- Estilos de la arquitectura de Garlan y Shaw.
+	- 
