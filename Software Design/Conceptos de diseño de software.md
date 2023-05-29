@@ -34,4 +34,8 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 	- ![](Pasted%20image%2020230529163946.png)
 ## Vista de Proceso
 - ### Vista de proceso
-	- Captura los aspectos de concurrencua y sincronización del diseñ
+	- Captura los aspectos de concurrencia y sincronización del diseño. (La descomposición del proceso.)
+- ### Visor
+	- Integradores
+- ### Considera
+	- 
