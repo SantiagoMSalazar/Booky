@@ -15,3 +15,4 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 
 ## Colaboradores
 ![](Pasted%20image%2020230522171806.png)
+
