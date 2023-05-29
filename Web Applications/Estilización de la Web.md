@@ -1,2 +1,3 @@
 # CSS
-_**Casca**_
+_**Cascade Style Shets**_
+HTML no permite establecer una distinta apariencia. 
