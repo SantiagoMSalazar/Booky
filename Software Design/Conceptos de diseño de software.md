@@ -21,4 +21,8 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 ## Vista lógica
 - ### vista lógica
 	- Es el modelo de objetos de diseño (Cuando se utiliza un método de diseño orientado a objetos)
-- 
+- ### Visor
+	- Usuario final.
+- ### Considera
+	- Considera requisitos funcionales. Cuáles son los servicios que debe proporcional el sistema a los usuarios.
+- ### Contación
