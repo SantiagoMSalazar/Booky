@@ -7,7 +7,7 @@ HTML no permite establecer una distinta apariencia.
 <body bgcolor="red">
 ```
 *Los campos en apariencia dependían del proveedor del Navegador.*
-<p style="color:#FF0000;border-width: 2px;border-style: solid;border-color: rgba(0,255,200,80)">
+<p style="color:#F0F450;border-width: 2px;border-style: solid;border-color: rgba(0,255,200,80); border-radius: 20px; ">
 Colocar estilos en línea con html
 </p>
 
