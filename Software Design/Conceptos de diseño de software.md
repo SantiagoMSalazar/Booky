@@ -25,4 +25,7 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 	- Usuario final.
 - ### Considera
 	- Considera requisitos funcionales. Cuáles son los servicios que debe proporcional el sistema a los usuarios.
-- ### Contación
+- ### Notación.
+	- Notación de Booch.
+	- ![](Pasted%20image%2020230529163432.png)
+- 
