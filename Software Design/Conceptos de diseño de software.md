@@ -18,6 +18,7 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 
 # Modelo de vista 4+1 de la arquitectura
 ![](Pasted%20image%2020230529163129.png)
+==Las cuatro vistas lógicas deben juntarse en un escenario.==
 ## Vista lógica
 - ### vista lógica
 	- Es el modelo de objetos de diseño (Cuando se utiliza un método de diseño orientado a objetos)
