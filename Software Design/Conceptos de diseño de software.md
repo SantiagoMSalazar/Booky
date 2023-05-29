@@ -38,4 +38,6 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 - ### Visor
 	- Integradores
 - ### Considera
-	- 
+	- Requisitos no funcionales. (Escalabilidad, simultaneidad y rendimiento)
+- ### Estilo
+	- Estilos d
