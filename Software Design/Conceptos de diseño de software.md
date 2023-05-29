@@ -29,4 +29,6 @@ Fueron propuestas por Ward Cunningham y Kent Beck
 - ### Notación.
 	- Notación de Booch.
 	- ![](Pasted%20image%2020230529163432.png)
-	- Se deriva de la notación de Booch. Esta se simplifica considerablemente 
+	- Se deriva de la notación de Booch. Esta se simplifica considerablemente para tener en cuanto solo los items reelevantes para la arquitectura.
+	- ![](Pasted%20image%2020230529163908.png)
+	- ![](Pasted%20image%2020230529163946.png)
