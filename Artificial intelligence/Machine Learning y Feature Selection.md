@@ -17,6 +17,15 @@ Una de las herramientas más populares para realizar transformaciones  es `Apach
 
 Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de la base de datos (SQL Server y Azure SLQ ya tienen funciones específicas de el aprendizaje automático).
 *La explicación inicial de los datos a menudo se realiza en notebooks de Jupyter*
+### Data cleansing
+
+
+
+
+
+
+
+
 # Clasificación, Regresión, Clusterización
 
 # Feature Selection
