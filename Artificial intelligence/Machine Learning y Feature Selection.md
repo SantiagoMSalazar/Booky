@@ -90,7 +90,8 @@ Para la implementación se puede considerar:
 	- Los datos solo tienen atributos descriptivos.
 	- ==Clustering es no supervisado== 
 	  ![](Pasted%20image%2020230530115740.png)
-- 
+- **Aprendizaje supervisado**
+  ![](Pasted%20image%2020230530120145.png)
 
 # Feature Selection
 
