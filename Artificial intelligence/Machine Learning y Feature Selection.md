@@ -100,7 +100,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 - ### Clasificación
 	- O inducción supervisada es la más común de todas las tareas de aprendizaje automático.
 	- Analiza la data histórica almacenada en la base de datos.
-	- La esperanza es e
+	- La esperanza es que el modelo pueda usarse para **Predecir las clases de otros registros no clasificados**, sirve para predecir eventos futuros reales.
+	- 
 
 # Feature Selection
 
