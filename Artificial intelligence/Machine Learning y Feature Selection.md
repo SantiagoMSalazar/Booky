@@ -1,7 +1,7 @@
 # ML Pipeline
-## Clasificación, Regresión, Clusterización
+# Clasificación, Regresión, Clusterización
 
-## Feature Selection
+# Feature Selection
 
 ## Feature Engineering
 
