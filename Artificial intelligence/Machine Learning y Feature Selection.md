@@ -81,7 +81,8 @@ Para la implementación se puede considerar:
 - Existen dos principales patrones:
 	- **Predicción:** cuentan la naturaleza de las concurrencias futuras de ciertos eventos. predecir o pronosticar algo.
 	- **Clústeres:** Se identifican como agrupaciones naturales de cosas en función de sus características conocidas, como asignar clientes en diferentes segmentos.
-- Los algoritmos de aprendisaje se clasifican en `Supervisado`
+- Los algoritmos de aprendisaje se clasifican en `Supervisado` y `No supervisado`
+- ### 
 # Feature Selection
 
 # Feature Engineering
