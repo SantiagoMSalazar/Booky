@@ -24,7 +24,7 @@ Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
 - **Imputación usando mediana:** Un valor razonable para asignar a los datos faltantes es la mediana de todos los demás valores que no faltan para esa variable, la alternativa es fácil y rápida de calcular y funciona para conjuntos y no considera correlaciones con otras variables.
 - **Imputación utilizando el valor más frecuente o una constante:** una opción es asignar una contante como cero, funciona muy bien para ==Variables no numéricas== No tiene en cuanta las correlaciones con otras variables. dependiendo de la frecuencia de los nulos puede introducir un sesgo.
 #### Registros o valores duplicados.
-
+El problema es cuando los valores identifican a la misma entidad 
 
 
 
