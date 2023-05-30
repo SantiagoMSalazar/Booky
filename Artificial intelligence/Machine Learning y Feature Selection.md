@@ -92,6 +92,9 @@ Para la implementación se puede considerar:
 	- ==Clustering es no supervisado== 
 	  ![](Pasted%20image%2020230530115740.png)
 	  ![](Pasted%20image%2020230530120246.png)
+## Predicción
+Predicting and forecasting son sinónimos en IA.
+Dependiendo de lo que se predice, la predicción puede ser una clasificación
 
 
 # Feature Selection
