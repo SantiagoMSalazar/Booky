@@ -1,7 +1,8 @@
 # ML Pipeline
 
 ## Preparación de datos
-Una de las herramientas más pop
+Una de las herramientas más populares para realizar transformaciones  es `Apache Spark`, pero necesita un almacén de datos. algunos pueden ser:
+1. 
 
 # Clasificación, Regresión, Clusterización
 
