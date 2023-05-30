@@ -27,7 +27,7 @@ Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
 El problema es cuando los valores identifican a la misma entidad pero se diferencia ligeramente entre los dos valores.
 Es muy difícil de detectar si diferentes registros se refieren a la misma entidad.  
 - Generalmente los datos duplicados suelen ser **Falsos Positivos**.
-	- <div style="border"> </div>
+	- <div style="border-color: rgb(0,200,200)">Dos personas pueden compartir el mismo nombre, dirección y fecha de nacimiento pero siguen siend </div>
 
 
 
