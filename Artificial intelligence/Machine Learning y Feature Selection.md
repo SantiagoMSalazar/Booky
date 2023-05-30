@@ -62,7 +62,11 @@ Una vez que se elige y finaliza un modelo se debe hacer el proceso de despliegue
 Para la implementación se puede considerar:
 - ¿El sistema necesita poder hacer predicciones en tiempo real.?
 - Con qué frecuencia debe actualizarse el modelo?
-- Qué cantidad de
+- Qué cantidad de trafico se espera?
+- Cuál es el tamaño de los conjuntos de datos?
+- Existen regulaciones o políticas a cumplir?
+### Supervisión del rendimiento
+- Debe monitorearse 
 
 
 
