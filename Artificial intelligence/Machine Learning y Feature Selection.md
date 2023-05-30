@@ -56,7 +56,7 @@ se puede entrenar los el modelo con los datos de entrenamiento: ==El conjunto de
 Un paso muy importante es seleccionar el modelo que sea óptimo para el problema en cuestión.
 No siempre suele elegirse el modelo con mejor rendimiento, puede que el que funciona bien con los datos no funcione bien en producción porque esté sobre ajustado.
 ## Despliegue del modelo
-
+![](Pasted%20image%2020230530112210.png)
 
 
 
