@@ -106,7 +106,9 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- Busca predecir un valor numérico continuo para los nuevos registros.
 	- Le pedimos que nos devuelva un valor como `Cuál es la probabilidad de...`
 	  ![](Pasted%20image%2020230530123635.png)
-	  
+	  - #### Predicción del error
+		  - ![](Pasted%20image%2020230530123747.png)
+	  - 
 
 # Feature Selection
 
