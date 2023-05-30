@@ -97,6 +97,9 @@ Predicting and forecasting son sinónimos en IA.
 Dependiendo de lo que se predice, la predicción puede ser una clasificación o una regresión(Donde de lo predicho es un número real.)
 ![](Pasted%20image%2020230530121504.png)
 
+- ### Clasificación
+	- O inducción supervisada es la más común de todas las tareas de aprendizaje automático.
+	- Analiza la data is
 
 # Feature Selection
 
