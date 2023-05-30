@@ -111,7 +111,9 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		    ![](Pasted%20image%2020230530123747.png)
 		- En clasificación:
 		    ![](Pasted%20image%2020230530123918.png)
-		- 
+		- y para calcular:
+		  ![](Pasted%20image%2020230530124235.png)
+		  
 
 # Feature Selection
 
