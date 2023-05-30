@@ -84,12 +84,13 @@ Para la implementación se puede considerar:
 - Los algoritmos de aprendizaje se clasifican en `Supervisado` y `No supervisado`
 - _**Supervisado**_
 	- Los algoritmos de entrenamiento incluyen tanto atributos descriptivos(Variables independientes o de decisión) como el atributo de clase (Salida de la variable).
-	- ==Predicción es supervisaje==
+	- ==Predicción es supervisado==
 	  ![](Pasted%20image%2020230530115637.png)
 - _**No supervisado**_
 	- Los datos solo tienen atributos descriptivos.
-	- ==Clustering es no supervizado== 
+	- ==Clustering es no supervisado== 
 	  ![](Pasted%20image%2020230530115740.png)
+- 
 
 # Feature Selection
 
