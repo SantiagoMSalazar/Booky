@@ -21,7 +21,7 @@ Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de
 #### Valores faltantes
 Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
 - **No hacer nada:** puede que no siempre necesitemos hacer algo con los valores faltantes, XGBoost es un ejemplo de los que si pueden manejar valores faltantes.
- 
+- **Imputación usando mediana:** Un valor razonable para asignar a los datos faltantes es la mediana de todos los demás valores que no faltan para esa variable, la alternativa es f 
 
 
 
