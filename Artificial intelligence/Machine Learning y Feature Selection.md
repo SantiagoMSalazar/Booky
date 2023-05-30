@@ -85,7 +85,10 @@ Para la implementación se puede considerar:
 - _**Supervisado**_
 	- Los algoritmos de entrenamiento incluyen tanto atributos descriptivos(Variables independientes o de decisión) como el atributo de clase (Salida de la variable)
 	  ![](Pasted%20image%2020230530115637.png)
-- ****
+- _**No supervisado**_
+	- Los datos solo tienen atributos descriptivos.
+	  ![](Pasted%20image%2020230530115740.png)
+
 # Feature Selection
 
 # Feature Engineering
