@@ -22,7 +22,9 @@ Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de
 Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
 - **No hacer nada:** puede que no siempre necesitemos hacer algo con los valores faltantes, XGBoost es un ejemplo de los que si pueden manejar valores faltantes.
 - **Imputación usando mediana:** Un valor razonable para asignar a los datos faltantes es la mediana de todos los demás valores que no faltan para esa variable, la alternativa es fácil y rápida de calcular y funciona para conjuntos y no considera correlaciones con otras variables.
-- **Imputación utilizando el valor mpas frecuente:** 
+- **Imputación utilizando el valor más frecuente o una constante:** una opción es asignar una contante como cero, funciona muy bien para ==Variables no numéricas== No tiene en cuanta las correlaciones con otras variables. dependiendo de la frecuencia de los nulos puede introducir un sesgo.
+#### Registros o valores duplicados.
+
 
 
 
