@@ -104,7 +104,9 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	  ![](Pasted%20image%2020230530123431.png)
 - ### Regresión
 	- Busca predecir un valor numérico continuo para los nuevos registros.
-	- Le pedimos que nos devuelva un valo
+	- Le pedimos que nos devuelva un valor como `Cuál es la probabilidad de...`
+	  ![](Pasted%20image%2020230530123635.png)
+	  
 
 # Feature Selection
 
