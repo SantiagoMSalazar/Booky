@@ -19,8 +19,9 @@ Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de
 *La explicación inicial de los datos a menudo se realiza en notebooks de Jupyter*
 ### Data cleansing
 #### Valores Faltantes
-Generalmente existen valores faltantes en 
-
+Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
+- **No hacer nada:** puede que no siempre necesitemos hacer algo con los valores faltantes
+ 
 
 
 
