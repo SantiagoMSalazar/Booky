@@ -42,7 +42,7 @@ Suelen presentarse de distintas formas:
 - 5th Av
 - 5th Av.
 Para nosotros es fácil pero para las computadoras es difícil detectar esto.
-Para limpiar esto se pueden establecer reglas de 
+Para limpiar esto se pueden establecer reglas o 
 
 
 
