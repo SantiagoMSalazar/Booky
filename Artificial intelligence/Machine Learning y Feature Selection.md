@@ -42,7 +42,10 @@ Suelen presentarse de distintas formas:
 - 5th Av
 - 5th Av.
 Para nosotros es fácil pero para las computadoras es difícil detectar esto.
-Para limpiar esto se pueden establecer reglas o 
+Para limpiar esto se pueden establecer reglas o que aprenda basados en ejemplo.
+## Segregación de datos.
+Para entrenar un modelo se recomienda dividir los datos en dos subconjuntos
+1. Datos de 
 
 
 
