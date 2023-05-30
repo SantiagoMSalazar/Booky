@@ -30,6 +30,8 @@ Es muy difícil de detectar si diferentes registros se refieren a la misma entid
 <p style="border-style:solid;border-color: rgb(0,150,100)">Dos personas pueden compartir el mismo nombre, dirección y fecha de nacimiento pero siguen siendo persosns diferentes. </p>
 #### Escalado de características
 Muchos algoritmos utilizan la distancia euclidiana entre los puntos de datos para sus cálculos. si no hacemos este ajuste, las características con un alto orden de magnitud tendrán un impacto sobre ponderado en los resultados. 
+##### Métodos
+- Reescalado (Normalización min-max)
 
 
 
