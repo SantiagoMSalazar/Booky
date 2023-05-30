@@ -51,7 +51,7 @@ O pueden ser tres:
 1. Datos de entrenamiento
 2. datos de validación
 3. Datos de prueba.
-
+se puede entrenar los el modelo con los datos de entrenamiento 
 
 
 
