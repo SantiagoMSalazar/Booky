@@ -18,9 +18,9 @@ Una de las herramientas más populares para realizar transformaciones  es `Apach
 Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de la base de datos (SQL Server y Azure SLQ ya tienen funciones específicas de el aprendizaje automático).
 *La explicación inicial de los datos a menudo se realiza en notebooks de Jupyter*
 ### Data cleansing
-#### Valores Faltantes
+#### Valores faltantes
 Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
-- **No hacer nada:** puede que no siempre necesitemos hacer algo con los valores faltantes
+- **No hacer nada:** puede que no siempre necesitemos hacer algo con los valores faltantes, XGBoost es un ejemplo de los que si pueden manejar valores faltantes.
  
 
 
