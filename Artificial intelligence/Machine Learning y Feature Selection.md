@@ -72,7 +72,10 @@ Para la implementación se puede considerar:
 # Clasificación, Regresión, Clusterización
 ![](Pasted%20image%2020230530114651.png)
 - Usando datos, el aprendizaje automático ontruye modelos para descubrir patrones entre los atributos.
-- 
+- Los modelos son las representaciones matemáticas
+	- Relaciones
+	- Afinidades lineales y no lineales.
+	- relaciones complejas
 # Feature Selection
 
 # Feature Engineering
