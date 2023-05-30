@@ -110,7 +110,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		  - En regresión:
 		    ![](Pasted%20image%2020230530123747.png)
 		  - En clasificación:
-		  - 
+		    ![](Pasted%20image%2020230530123918.png)
+
 
 # Feature Selection
 
