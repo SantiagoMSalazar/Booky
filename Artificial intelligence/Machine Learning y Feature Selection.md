@@ -78,7 +78,8 @@ Para la implementación se puede considerar:
 	- relaciones complejas
 	- relaciones altamente no lineales.
 - Algunos patrones son **Explicativos:** Explicando las afinidades entre los atributos. Mientras que otros son **Predictivos:** Prediciendo valores futuros de ciertos atributos.
-- 
+- Existen dos principales patrones:
+	- **Predicción:** cuentan la naturaleza de las concurrencias futuras de ciertos eventos. predecir o pr
 # Feature Selection
 
 # Feature Engineering
