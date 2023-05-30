@@ -109,9 +109,9 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	  - #### Predicción del error
 		  - En regresión:
 		    ![](Pasted%20image%2020230530123747.png)
-		  - En clasificación:
+		- En clasificación:
 		    ![](Pasted%20image%2020230530123918.png)
-
+		- 
 
 # Feature Selection
 
