@@ -59,6 +59,8 @@ No siempre suele elegirse el modelo con mejor rendimiento, puede que el que func
 ![](Pasted%20image%2020230530112210.png)
 
 Una vez que se elige y finaliza un modelo se debe hacer el proceso de despliegue.
+Para la implementación se puede considerar:
+- ¿El sistema necesita poder hacer predi?
 
 
 
