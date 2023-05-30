@@ -32,6 +32,10 @@ Es muy difícil de detectar si diferentes registros se refieren a la misma entid
 Muchos algoritmos utilizan la distancia euclidiana entre los puntos de datos para sus cálculos. si no hacemos este ajuste, las características con un alto orden de magnitud tendrán un impacto sobre ponderado en los resultados. 
 ##### Métodos
 - Reescalado (Normalización min-max)
+- Normalización de la media
+- Estandarización (Normalización de Z score)
+- Escalado a la longitud de la unidad.
+
 
 
 
