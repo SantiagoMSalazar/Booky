@@ -36,7 +36,12 @@ Muchos algoritmos utilizan la distancia euclidiana entre los puntos de datos par
 - Estandarización (Normalización de Z score)
 - Escalado a la longitud de la unidad.
 #### Valores inconsistentes
-
+Suelen presentarse de distintas formas:
+- 5th Avenue
+- 5th Ave
+- 5th Av
+- 5th Av.
+Para nosotros es fácil pero para ls 
 
 
 
