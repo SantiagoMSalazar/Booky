@@ -49,7 +49,9 @@ Para entrenar un modelo se recomienda dividir los datos en dos subconjuntos
 2. Datos de prueba.
 O pueden ser tres:
 1. Datos de entrenamiento
-2. datos de validaci
+2. datos de validación
+3. Datos de prueba.
+
 
 
 
