@@ -70,6 +70,7 @@ Para la implementación se puede considerar:
 
 
 # Clasificación, Regresión, Clusterización
+![](Pasted%20image%2020230530114651.png)
 
 # Feature Selection
 
