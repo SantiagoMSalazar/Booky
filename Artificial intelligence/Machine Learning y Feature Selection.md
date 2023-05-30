@@ -41,7 +41,8 @@ Suelen presentarse de distintas formas:
 - 5th Ave
 - 5th Av
 - 5th Av.
-Para nosotros es fácil pero para ls 
+Para nosotros es fácil pero para las computadoras es difícil detectar esto.
+
 
 
 
