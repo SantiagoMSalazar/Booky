@@ -66,10 +66,7 @@ Para la implementación se puede considerar:
 - Cuál es el tamaño de los conjuntos de datos?
 - Existen regulaciones o políticas a cumplir?
 ### Supervisión del rendimiento
-- Debe monitorearse 
-
-
-
+- Debe monitorearse de cerca para asegurarse que el modelo funcione correctamente.
 
 
 # Clasificación, Regresión, Clusterización
