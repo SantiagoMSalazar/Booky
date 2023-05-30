@@ -53,7 +53,8 @@ O pueden ser tres:
 3. Datos de prueba.
 se puede entrenar los el modelo con los datos de entrenamiento: ==El conjunto de entrenamiento es visible para el modelo y se entrena con estos datos.==
 ### Evaluación y selección de los modelos candidatos.
-Un paso muy importante es seleccionar el modelo que sea óptimo para el problema en cue
+Un paso muy importante es seleccionar el modelo que sea óptimo para el problema en cuestión.
+no siempre suele elegirse el modelo  
 
 
 
