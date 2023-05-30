@@ -35,6 +35,7 @@ Muchos algoritmos utilizan la distancia euclidiana entre los puntos de datos par
 - Normalización de la media
 - Estandarización (Normalización de Z score)
 - Escalado a la longitud de la unidad.
+#### Valores inconsistentes
 
 
 
