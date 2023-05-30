@@ -101,8 +101,10 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- O inducción supervisada es la más común de todas las tareas de aprendizaje automático.
 	- Analiza la data histórica almacenada en la base de datos.
 	- La esperanza es que el modelo pueda usarse para **Predecir las clases de otros registros no clasificados**, sirve para predecir eventos futuros reales.
+	  ![](Pasted%20image%2020230530123431.png)
 - ### Regresión
 	- Busca predecir un valor numérico continuo para los nuevos registros.
+	- Le pedimos que 
 
 # Feature Selection
 
