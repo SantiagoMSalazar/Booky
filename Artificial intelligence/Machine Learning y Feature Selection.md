@@ -1,6 +1,13 @@
 # ML Pipeline
 
 ## Preparación de datos
+El siguiente paso es la transformación o prepocesamiento de datos crudos (**Raw Data**)
+- Data Cleaning
+- Filtration
+- Aggregation
+- Augmentation
+- Consolidation
+- Storage
 Una de las herramientas más populares para realizar transformaciones  es `Apache Spark`, pero necesita un almacén de datos. algunos pueden ser:
 1. Hadoop Distributed file system?
 2. HBase
