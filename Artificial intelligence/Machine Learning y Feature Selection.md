@@ -107,8 +107,10 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- Le pedimos que nos devuelva un valor como `Cuál es la probabilidad de...`
 	  ![](Pasted%20image%2020230530123635.png)
 	  - #### Predicción del error
-		  - ![](Pasted%20image%2020230530123747.png)
-	  - 
+		  - En regresión:
+		    ![](Pasted%20image%2020230530123747.png)
+		  - En clasificación:
+		  - 
 
 # Feature Selection
 
