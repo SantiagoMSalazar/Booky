@@ -81,7 +81,7 @@ Para la implementación se puede considerar:
 - Existen dos principales patrones:
 	- **Predicción:** cuentan la naturaleza de las concurrencias futuras de ciertos eventos. predecir o pronosticar algo.
 	- **Clústeres:** Se identifican como agrupaciones naturales de cosas en función de sus características conocidas, como asignar clientes en diferentes segmentos.
-- Los algoritmos de aprendisaje se clasifican en `Supervisado` y `No supervisado`
+- Los algoritmos de aprendizaje se clasifican en `Supervisado` y `No supervisado`
 - _**Supervisado**_
 	- Los algoritmos de entrenamiento incluyen tanto atributos descriptivos(Variables independientes o de decisión) como el atributo de clase (Salida de la variable)
 	  ![](Pasted%20image%2020230530115637.png)
