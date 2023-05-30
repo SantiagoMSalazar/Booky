@@ -25,7 +25,7 @@ Generalmente existen valores faltantes o valores reemplazados por 0 en la data.
 - **Imputación utilizando el valor más frecuente o una constante:** una opción es asignar una contante como cero, funciona muy bien para ==Variables no numéricas== No tiene en cuanta las correlaciones con otras variables. dependiendo de la frecuencia de los nulos puede introducir un sesgo.
 #### Registros o valores duplicados.
 El problema es cuando los valores identifican a la misma entidad pero se diferencia ligeramente entre los dos valores.
-Es muy difici
+Es muy difícil de detectar si diferentes registros se refieren a la misma entidad. Generalmente los datos duplicados suelen ser **Falsos Positivo**
 
 
 
