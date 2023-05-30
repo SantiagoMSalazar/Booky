@@ -15,6 +15,7 @@ Una de las herramientas más populares para realizar transformaciones  es `Apach
 4. Amazon S3
 5. Azure Blob Storage
 
+Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de la base de datos (SQL Server y Azure SLQ ya tienen funciones específicas para el aprendijza)
 # Clasificación, Regresión, Clusterización
 
 # Feature Selection
