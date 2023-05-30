@@ -1,4 +1,8 @@
 # ML Pipeline
+
+## Preparación de datos
+Una de las herramientas más pop
+
 # Clasificación, Regresión, Clusterización
 
 # Feature Selection
