@@ -77,7 +77,8 @@ Para la implementación se puede considerar:
 	- Afinidades lineales y no lineales.
 	- relaciones complejas
 	- relaciones altamente no lineales.
-- Algunos patrones son **Explicativos:** Explicando las  
+- Algunos patrones son **Explicativos:** Explicando las afinidades entre los atributos. Mientras que otros son **Predictivos:** Prediciendo valores futuros de ciertos atributos.
+- 
 # Feature Selection
 
 # Feature Engineering
