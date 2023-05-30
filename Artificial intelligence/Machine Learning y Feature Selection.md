@@ -45,7 +45,11 @@ Para nosotros es fácil pero para las computadoras es difícil detectar esto.
 Para limpiar esto se pueden establecer reglas o que aprenda basados en ejemplo.
 ## Segregación de datos.
 Para entrenar un modelo se recomienda dividir los datos en dos subconjuntos
-1. Datos de 
+1. Datos de entrenamiento.
+2. Datos de prueba.
+O pueden ser tres:
+1. Datos de entrenamiento
+2. datos de validaci
 
 
 
