@@ -76,6 +76,8 @@ Para la implementación se puede considerar:
 	- Relaciones
 	- Afinidades lineales y no lineales.
 	- relaciones complejas
+	- relaciones altamente no lineales.
+- Algunos patrones son **Explicativos:** Explicando las  
 # Feature Selection
 
 # Feature Engineering
