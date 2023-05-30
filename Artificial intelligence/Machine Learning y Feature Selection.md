@@ -3,12 +3,12 @@
 
 # Feature Selection
 
-## Feature Engineering
+# Feature Engineering
 
-## One-hot encoding
+# One-hot encoding
 
-## Escalamiento
+# Escalamiento
 
-## Training, Testing y Validation
+# Training, Testing y Validation
 
-## Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
+# Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
