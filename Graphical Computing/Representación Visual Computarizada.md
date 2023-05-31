@@ -99,4 +99,4 @@ cuando hablemos de **SHADER** Estamos hablando de código ejecutado en la GPU
 </div>
 
 ## Representing shapes
-- 3d Shape son una colección de vertices que construyen triangulos o cuadrados
+- 3d Shape son una colección de vertices que construyen triangulos o cuadrados 
