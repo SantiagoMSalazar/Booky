@@ -86,6 +86,7 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 - ==En cualquiera de estas librerías se puede crear la misma aplicación pero con sus diferencias en ejecución==
 - ### A Retained-mode API
 	- Es creclarativa, construye la escena de los grpaficos primitivos, la librería almacena un modelo de la escena en memoria.
+	- Es menos flexible que el modo inmediate, requiere más recursos del sistema 
 - ### An inmidiate-mode API
 	- Es procedural
 	- Cada vez es una nueva escena sin guardar ningún modelo en memoria.
