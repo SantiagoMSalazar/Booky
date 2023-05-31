@@ -51,7 +51,7 @@ O pueden ser tres:
 1. Datos de entrenamiento
 2. datos de validación
 3. Datos de prueba.
-se puede entrenar los el modelo con los datos de entrenamiento: ==El conjunto de entrenamiento es visible para el modelo y se entrena con estos datos.==
+Se puede entrenar los el modelo con los datos de entrenamiento: ==El conjunto de entrenamiento es visible para el modelo y se entrena con estos datos.==
 ### Evaluación y selección de los modelos candidatos.
 Un paso muy importante es seleccionar el modelo que sea óptimo para el problema en cuestión.
 No siempre suele elegirse el modelo con mejor rendimiento, puede que el que funciona bien con los datos no funcione bien en producción porque esté sobre ajustado.
