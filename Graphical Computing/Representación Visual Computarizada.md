@@ -92,4 +92,4 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 	- Cada vez es una nueva escena sin guardar ningún modelo en memoria.
 	- Es más complicado de programar, ay que inicializar, y otras cosas, pero puedo generar mis propias opciones del modelo.
 	- Tienes control de todo pero es más difícil de programar.
-	- Múcho mejor rendimiento.
+	- `Mucho mejor rendimiento.`
