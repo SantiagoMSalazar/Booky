@@ -81,3 +81,5 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 - Ejecución en distintos ambientes
 
 ## Imediate mode vs Retained Mode
+- El modo inmediate no guarda las primitivas de la escena.
+- El modo Retained 
