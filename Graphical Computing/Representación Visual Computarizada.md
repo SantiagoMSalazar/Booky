@@ -93,6 +93,6 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 	- Es más complicado de programar, ay que inicializar, y otras cosas, pero puedo generar mis propias opciones del modelo.
 	- Tienes control de todo pero es más difícil de programar.
 	- `Mucho mejor rendimiento.`
-<div>
+<div style="border-state:solid; border-color; rgb(80,120,230)">
 cuando hablemos de **SHADER** Estamos hablando de código ejecutado en la GPU
 </div>
