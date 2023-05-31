@@ -79,4 +79,5 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 
 # Modern Graphics Plataforms
 - Ejecución en distintos ambientes
-- 
+
+## Imediate mode vs Retained Mode
