@@ -101,4 +101,3 @@ cuando hablemos de **SHADER** Estamos hablando de código ejecutado en la GPU
 ## Representing shapes
 - 3d Shape son una colección de vertices que construyen triangulos o cuadrados.
 - Para guardar los valores en flotante existe el standar IEEE 754
-- 
