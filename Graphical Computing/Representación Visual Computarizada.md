@@ -90,4 +90,6 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 - ### An inmidiate-mode API
 	- Es procedural
 	- Cada vez es una nueva escena sin guardar ningún modelo en memoria.
-	- Es mpas complicado de programar, ay que inicializar, y otras cosas, pero puedo generar mis propias opciones de
+	- Es más complicado de programar, ay que inicializar, y otras cosas, pero puedo generar mis propias opciones del modelo.
+	- Tienes control de todo pero es más difícil de programar.
+	- Múcho mejor rendimiento.
