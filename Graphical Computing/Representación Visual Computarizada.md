@@ -88,4 +88,4 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 	- Es creclarativa, construye la escena de los grpaficos primitivos, la librería almacena un modelo de la escena en memoria.
 - ### An inmidiate-mode API
 	- Es procedural
-	- Cada vez es una nueva escena sin guardar ningun 
+	- Cada vez es una nueva escena sin guardar ningún modelo en memoria.
