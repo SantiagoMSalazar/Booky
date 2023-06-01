@@ -131,4 +131,4 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 
 
-# Introducci
+# Introducción
