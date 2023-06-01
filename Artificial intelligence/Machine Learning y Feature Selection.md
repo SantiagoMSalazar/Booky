@@ -136,4 +136,4 @@ Los cuadernos de Jupyter-lab son una forma adecuada en la que los analistas y ci
 
 En este informe se va a identificar la sintaxis de Markdown para el uso dentro de los cuadernos de Jupyter-lab, Se identificará la forma de fusión (Con sus características y funcionalidades ) para la documentación de las prácticas de laboratorio en la Asignatura de Inteligencia Artificial.
 
-Es importante mencionar que esta explicación viene acompañada del motor de renderizado `Quarto` para el desarrollo de los informes, 
+Es importante mencionar que esta explicación viene acompañada del motor de renderizado `Quarto` para el desarrollo de los informes. Para este informe se platea una serie de ejercicios que permitan al usuario ambientarse en el proceso de 
