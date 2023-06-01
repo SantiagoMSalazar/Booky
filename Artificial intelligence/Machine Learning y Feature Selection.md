@@ -132,6 +132,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 
 # Introducción
-Los cuadernos de Jupyter-lab son una forma adecuada en la que los analistas y científicos de datos, programadores y estudiantes desarrollan la documentación del código, Es una herramienta que combina texto marcado con Markdown para estilizar los documentos. Markdown es un lenguaje de marcado de uso simplificado, Permite el uso de encabezados, listas, enlaces, imágenes, tablas, etc, en los cuadernos de Jupyter otorga la ventaja de obtener una estructura clara, acompañada de enlaces, tablas e imagenes que 
+Los cuadernos de Jupyter-lab son una forma adecuada en la que los analistas y científicos de datos, programadores y estudiantes desarrollan la documentación del código, Es una herramienta que combina texto marcado con Markdown para estilizar los documentos. Markdown es un lenguaje de marcado de uso simplificado, Permite el uso de encabezados, listas, enlaces, imágenes, tablas, etc, en los cuadernos de Jupyter otorga la ventaja de obtener una estructura clara, acompañada de enlaces, tablas e imágenes que enriquezcan la explicación del código.
 
 En este informe se va a identificar la sintaxis de Markdown para el uso dentro de los cuadernos de Jupyter-lab, Se identificará la forma de fusión (Con sus características y funcionalidades ) para la documentación de las prácticas de laboratorio en la Asignatura de Inteligencia Artificial.
+
+Es importante mencionar que esta explicación viene acompañada de 
