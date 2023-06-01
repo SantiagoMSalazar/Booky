@@ -138,4 +138,5 @@ En este informe se va a identificar la sintaxis de Markdown para el uso dentro d
 
 Es importante mencionar que esta explicación viene acompañada del motor de renderizado `Quarto` para el desarrollo de los informes. Para este informe se platea una serie de ejercicios que permitan al usuario ambientarse en el entorno de programación los cuales complementen el uso de las funcionalidades de marcado para la explicación de los ejercicios.
 ## Conclusiones 
-Se logró identificar las principales funcionalidades del lenguaje de marcado Markdown dentro del entorno de Jupyter-Lab, se identificó la sintaxis correcta para imágenes, tablas, enlaces y cómo el uso de encabezados ayuda a estructurar  
+- Se logró identificar las principales funcionalidades del lenguaje de marcado Markdown dentro del entorno de Jupyter-Lab, se identificó la sintaxis correcta para imágenes, tablas, enlaces y cómo el uso de encabezados ayuda a estructurar  el diseño del informe.
+- Se pudo comprende
