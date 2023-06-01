@@ -132,4 +132,4 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 
 # Introducción
-En este informe se va a identificar la sintaxis de Markdown para el uso dentro de l
+En este informe se va a identificar la sintaxis de Markdown para el uso dentro de los cuadernos de Jupyter-lab, Se identificará la forma en la que 
