@@ -13,5 +13,7 @@ Colocar estilos en línea con html
 
 
 
-
+- [ ] recordar ir a clases mañana, hacer las tareas de Web y hablar con el profesor sobre los mokups
+- [ ] es otra tarea que debemos haceeñr
+- [ ] 
 

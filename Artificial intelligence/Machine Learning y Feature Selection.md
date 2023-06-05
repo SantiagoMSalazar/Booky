@@ -126,17 +126,3 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 # Training, Testing y Validation
 
 # Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
-
-
-
-
-
-# Introducción
-Los cuadernos de Jupyter-lab son una forma adecuada en la que los analistas y científicos de datos, programadores y estudiantes desarrollan la documentación del código, Es una herramienta que combina texto marcado con Markdown para estilizar los documentos. Markdown es un lenguaje de marcado de uso simplificado, Permite el uso de encabezados, listas, enlaces, imágenes, tablas, etc, en los cuadernos de Jupyter otorga la ventaja de obtener una estructura clara, acompañada de enlaces, tablas e imágenes que enriquezcan la explicación del código.
-
-En este informe se va a identificar la sintaxis de Markdown para el uso dentro de los cuadernos de Jupyter-lab, Se identificará la forma de fusión (Con sus características y funcionalidades ) para la documentación de las prácticas de laboratorio en la Asignatura de Inteligencia Artificial.
-
-Es importante mencionar que esta explicación viene acompañada del motor de renderizado `Quarto` para el desarrollo de los informes. Para este informe se platea una serie de ejercicios que permitan al usuario ambientarse en el entorno de programación los cuales complementen el uso de las funcionalidades de marcado para la explicación de los ejercicios.
-## Conclusiones 
-- Se logró identificar las principales funcionalidades del lenguaje de marcado Markdown dentro del entorno de Jupyter-Lab, se identificó la sintaxis correcta para imágenes, tablas, enlaces y cómo el uso de encabezados ayuda a estructurar  el diseño del informe.
-- Se comprendió el funcionamiento de markdown dentro de Jupyter, esto ayudó a explicar los fragmentos de código, gracias al comportamiento de los cuadernos Jupyter-notebooks se puede diseñar los informes en conjunto con el desarrollo de la práctica y luego establecer un renderizado con quarto y Tinnytex.
