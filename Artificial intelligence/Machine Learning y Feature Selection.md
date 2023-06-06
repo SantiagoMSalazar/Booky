@@ -128,6 +128,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 - Aprender el concepto de Correlación
 - ## Introducción
 	- La selección de características, conocida como selección de variables o atributos, es utilizado para seleccionar un subconjuntos de características.
+	- **Featu**
 - 
 
 # Feature Engineering
