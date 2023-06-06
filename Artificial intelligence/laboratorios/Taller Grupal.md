@@ -4,7 +4,7 @@ Con qué aplicaciones de la Web interactúa el usuario Promedio?
 - WhatsApp
 - TikTok
 - WeChat
-![los sitios más populares](./Images/Pasted%20image%2020230516121829.png)
+![los sitios más populares](Pasted%20image%2020230516121829.png)
 ¿Son inteligentes?
 Si
 ¿Qué información recopilan de usted?
