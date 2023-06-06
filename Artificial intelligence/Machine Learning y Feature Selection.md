@@ -129,7 +129,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 - ## Introducción
 	- La selección de características, conocida como selección de variables o atributos, es utilizado para seleccionar un subconjuntos de características.
 	- **FEATURE SELECTION** es un paso clave en el proceso de creación de modelos de aprendizaje automático, puede involucrarse en el impacto en el rendimiento del modelo.
-	- Elegir las variables correctas puede ayudar a que no se de sobreajuste 
+	- 
+	- Elegir las variables correctas puede ayudar a que no se de sobre ajuste  
 
 # Feature Engineering
 
