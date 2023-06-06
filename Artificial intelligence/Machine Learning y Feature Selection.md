@@ -114,7 +114,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		- y para calcular:
 		  ![](Pasted%20image%2020230530124235.png)
 - ## Clustering
-	- El agrupamiento divide una conexión de cosas (objetos, eventos, structure Data) en clusters
+	- El agrupamiento divide una conexión de cosas (objetos, eventos, structure Data) en clusters, segmentos (Agrupaciones naturales) cuyos miembros comparten características similares.
+	- Suele ser utilizado en el área de **Marketing**, se recolectan dato
 
 # Feature Selection
 
