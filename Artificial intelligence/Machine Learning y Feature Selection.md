@@ -133,7 +133,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		- Elegir las variables correctas puede ayudar a que no se de sobre ajuste .
 	- ### ¿Cómo definir si hay redundancia entre variables independientes?
 		- Si $X_1$ y $X_3$ tienen alta correlación entre ellas puede existir redundancia.
-		- Si $x_2$ tiene baja co
+		- Si $x_2$ tiene baja correlación 
 
 # Feature Engineering
 
