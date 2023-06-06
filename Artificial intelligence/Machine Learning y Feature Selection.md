@@ -115,6 +115,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		  ![](Pasted%20image%2020230530124235.png)
 - ## Clustering
 	- El agrupamiento divide una conexión de cosas (objetos, eventos, structure Data) en clusters, segmentos (Agrupaciones naturales) cuyos miembros comparten características similares.
+- ![En esta imagen se puede observar cómo agrupo la ](Pasted%20image%2020230606121422.png)
 	- Suele ser utilizado en el área de **Marketing**, suelen recolectar datos bajo encuestas en un análisis de mercado.
 	- Se evalúa la similaridad en las variables independientes.
 	- El clustering suele ser ocupado también para detectar `outliers`.
