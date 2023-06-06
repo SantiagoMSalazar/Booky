@@ -131,7 +131,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- **FEATURE SELECTION** es un paso clave en el proceso de creación de modelos de aprendizaje automático, puede involucrarse en el impacto en el rendimiento del modelo.
 	- ### Overfiting
 		- Elegir las variables correctas puede ayudar a que no se de sobre ajuste .
-	- ### ¿Cómo definir si hay redundancia entre variables indetpendientes?
+	- ### ¿Cómo definir si hay redundancia entre variables independientes?
+		- Si X_1 y X_3$
 
 # Feature Engineering
 
