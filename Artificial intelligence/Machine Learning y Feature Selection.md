@@ -118,7 +118,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- Suele ser utilizado en el área de **Marketing**, suelen recolectar datos bajo encuestas en un análisis de mercado.
 	- Se evalúa la similaridad en las variables independientes.
 	- El clustering suele ser ocupado también para detectar `outliers`.
-	- Diferentes algoritmos pueden determinar con diferentes conjuntos de custers para el mismo conjunto de datos -> antes de que los resultados de las técnicas 
+	- Diferentes algoritmos pueden determinar con diferentes conjuntos de custers para el mismo conjunto de datos -> antes de que los resultados de las técnicas de clusters se pongan en práctica. Puede ser necesario que un experto interprete y/o modifique los grupos sugeridos.
+	- 
 
 # Feature Selection
 
