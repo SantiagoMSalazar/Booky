@@ -116,6 +116,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 - ## Clustering
 	- El agrupamiento divide una conexión de cosas (objetos, eventos, structure Data) en clusters, segmentos (Agrupaciones naturales) cuyos miembros comparten características similares.
 	- Suele ser utilizado en el área de **Marketing**, suelen recolectar datos bajo encuestas en un análisis de mercado.
+	- Se evalúa la similaridad en las variables independientes.
+	- El clustering
 
 # Feature Selection
 
