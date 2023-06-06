@@ -127,7 +127,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 - En esta sección se debe decidir cuando es necesario eliminar variables, si una característia debe eliminarse o no.
 - Aprender el concepto de Correlación
 - ## Introducción
-	- La selección de caracteríticas, conocida como selección de variables o atributos
+	- La selección de características, conocida como selección de variables o atributos, es utilizado para seleccionar un subconjuntos de características.
 - 
 
 # Feature Engineering
