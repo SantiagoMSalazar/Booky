@@ -125,7 +125,10 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 # Feature Selection
 - En esta sección se debe decidir cuando es necesario eliminar variables, si una característia debe eliminarse o no.
-- Aprender el conceptop de [[Machine Learning y Feature Selection.md#]]
+- Aprender el concepto de Correlación
+- ## Introducción
+- 
+- 
 
 # Feature Engineering
 
