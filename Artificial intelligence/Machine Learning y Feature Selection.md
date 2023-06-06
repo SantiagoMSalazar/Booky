@@ -15,7 +15,7 @@ Una de las herramientas más populares para realizar transformaciones  es `Apach
 4. Amazon S3
 5. Azure Blob Storage
 
-Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de la base de datos (SQL Server y Azure SLQ ya tienen funciones específicas de el aprendizaje automático).
+Es posible procesar datos, para el aprendizaje autmático en el lugar, dentro de la base de datos (SQL Server y Azure SQL ya tienen funciones específicas de el aprendizaje automático).
 *La explicación inicial de los datos a menudo se realiza en notebooks de Jupyter*
 ### Data cleansing
 #### Valores faltantes
