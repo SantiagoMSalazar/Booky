@@ -113,7 +113,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		    ![](Pasted%20image%2020230530123918.png)
 		- y para calcular:
 		  ![](Pasted%20image%2020230530124235.png)
-- ## cLUSTERING
+- ## Clustering
+	- El agrupamiento divide una conexión de cosas (objetos, eventos, structure Data) en clusters
 
 # Feature Selection
 
