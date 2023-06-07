@@ -1,7 +1,9 @@
 # What is computer Graphics?
-<div style="border-radius=10px;border: solid #126AAF">
-qué es compa
+<div style="psding:10px;border-radius=10px;border: solid #126AAF">
+**Qué es computación gráfica?**
+sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
+
 # What is Interactive Computer Graphics?
 - Scretchpad System
 # What is Batch Computer Graphics?
