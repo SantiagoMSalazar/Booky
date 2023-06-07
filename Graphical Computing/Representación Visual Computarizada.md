@@ -1,4 +1,6 @@
-# What is computer 
+# What is computer Graphics?
+<div style="border-radius=">
+</div>
 # What is Interactive Computer Graphics?
 - Scretchpad System
 # What is Batch Computer Graphics?
