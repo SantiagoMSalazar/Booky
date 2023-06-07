@@ -8,7 +8,7 @@ suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 # What is Interactive Computer Graphics?
 <div style="padding:10px;border-radius=10px;border: solid #126AAF">
 <b>Qué es gráficos de computadora interativos?</b><br>
-El usuario contrala el contenido, la estructura y la apariencia de los objetos en su 
+El usuario contrala el contenido, la estructura y la apariencia de los objetos en su pantalla via rapid visual 
 </div>
 - Scretchpad System
 - 
