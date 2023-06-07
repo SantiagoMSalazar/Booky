@@ -1,5 +1,6 @@
 # What is computer Graphics?
-<div style="border-radius=">
+<div style="border-radius=10px;border: solid #126AAF">
+qué es compa
 </div>
 # What is Interactive Computer Graphics?
 - Scretchpad System
