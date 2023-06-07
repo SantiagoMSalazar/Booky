@@ -1,3 +1,4 @@
+# What is computer 
 # What is Interactive Computer Graphics?
 - Scretchpad System
 # What is Batch Computer Graphics?
