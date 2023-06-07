@@ -4,7 +4,7 @@ Qué es computación gráfica?<br>
 sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
 - Estos modelos vienen con diversas configuraciones para distintos campos, incluyendo ciencias físicas, biológicas, matemáticas, artísticas y estructuras abstractas o conceptuales. 
-- 
+- William Fetter acuñó el termino gráficos por computadora en 1960 para describir nuevos métodos de diseño usados para un proyecto propio.
 # What is Interactive Computer Graphics?
 - Scretchpad System
 # What is Batch Computer Graphics?
