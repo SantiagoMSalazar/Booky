@@ -40,7 +40,7 @@ Cómo han evolucionado las librerías de programación desde las antiguas hasta 
 ## OpenGL
 	Graphics Library=GL
 Nace en 1982 como una plataforma independiente la cual es:
-- Facil de usar
+- Fácil de usar
 - Es cercano al hardware brindando un excelente rendimiento
 - Se enfoca en el renderizado
 - Es independiente de los sistemas de ventadas de los sistemas operativos.
