@@ -3,7 +3,7 @@
 Qué es computación gráfica?<br>
 sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
-
+estos modelos vienen con diversas configuraciones 
 # What is Interactive Computer Graphics?
 - Scretchpad System
 # What is Batch Computer Graphics?
