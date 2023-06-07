@@ -1,14 +1,14 @@
 # What is computer Graphics?
 <div style="padding:10px;border-radius=10px;border: solid #126AAF">
 Qué es computación gráfica?<br>
-sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
+suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
 - Estos modelos vienen con diversas configuraciones para distintos campos, incluyendo ciencias físicas, biológicas, matemáticas, artísticas y estructuras abstractas o conceptuales. 
 - William Fetter acuñó el termino gráficos por computadora en 1960 para describir nuevos métodos de diseño usados para un proyecto propio.
 # What is Interactive Computer Graphics?
 <div style="padding:10px;border-radius=10px;border: solid #126AAF">
-<b>Qué es gráficos </b><br>
-sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
+<b>Qué es gráficos de computadora interativos?</b><br>
+El usuario contrala el contenido, la estructura y la apariencia de los objetos en su 
 </div>
 - Scretchpad System
 - 
