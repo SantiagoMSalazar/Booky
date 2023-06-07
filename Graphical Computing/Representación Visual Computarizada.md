@@ -6,7 +6,12 @@ sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
 - Estos modelos vienen con diversas configuraciones para distintos campos, incluyendo ciencias físicas, biológicas, matemáticas, artísticas y estructuras abstractas o conceptuales. 
 - William Fetter acuñó el termino gráficos por computadora en 1960 para describir nuevos métodos de diseño usados para un proyecto propio.
 # What is Interactive Computer Graphics?
+<div style="padding:10px;border-radius=10px;border: solid #126AAF">
+Qué es computación gráfica?<br>
+sieñe ser la creación, almacenamiento y manipulación de modelos e imágenes
+</div>
 - Scretchpad System
+- 
 # What is Batch Computer Graphics?
 También es conocida como "Rendering offline" que hace un renderizado fuera de linea, no se lleva en tiempo real
 ## Computer Graphics applications
