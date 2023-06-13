@@ -137,7 +137,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 # Feature Engineering
 Al igual que la seleccipon sistemática de características, donde eliminados _Datos redundates e irrelevantes_ 
- 
+- Siempre el modelo debe de ser 
 # One-hot encoding
 
 # Escalamiento
