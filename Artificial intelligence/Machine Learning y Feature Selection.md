@@ -141,7 +141,8 @@ Al igual que la seleccipon sistemática de características, donde eliminados _D
 ## Objetivos
 Entender el concepto e importancia de Feature Engineering como parte de la fase de preparación de datos.
 - ## ¿Qué es la Feature engineering?
-	- Similar a la [[Machine Learning y Feature Selection#Feature Selection]] Donde se elimina las redundancias y las irrelevancias para ayudar a que los modelos sean mpas rápidos y eficientes
+	- Similar a la [[Machine Learning y Feature Selection#Feature Selection]] Donde se elimina las redundancias y las irrelevancias para ayudar a que los modelos sean más rápidos y eficientes, la **Feature engineering puede ayudar a agregar nuevas características**
+	- Las características que se agregan no so
 
 # One-hot encoding
 
