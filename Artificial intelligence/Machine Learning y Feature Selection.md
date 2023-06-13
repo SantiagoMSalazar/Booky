@@ -143,7 +143,7 @@ Entender el concepto e importancia de Feature Engineering como parte de la fase 
 - ## ¿Qué es la Feature engineering?
 	- Similar a la [[Machine Learning y Feature Selection#Feature Selection]] Donde se elimina las redundancias y las irrelevancias para ayudar a que los modelos sean más rápidos y eficientes, la **Feature engineering puede ayudar a agregar nuevas características**
 	- Las características que se agregan NO son las que se eliminaron en Feature Selection.
-	- Siempre es necesario considerar que 
+	- Siempre es necesario considerar que ***Si las caracteríticas de entrada no son reelevantes, nunca podrá producir resultados útiles.***
 
 # One-hot encoding
 
