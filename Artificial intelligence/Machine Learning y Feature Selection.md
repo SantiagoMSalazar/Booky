@@ -136,7 +136,8 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 		- Si $x_2$ tiene baja correlación 
 
 # Feature Engineering
-
+Al igual que la seleccipon sistemática de características, donde eliminados _Datos redundates e irrelevantes_ 
+ 
 # One-hot encoding
 
 # Escalamiento
