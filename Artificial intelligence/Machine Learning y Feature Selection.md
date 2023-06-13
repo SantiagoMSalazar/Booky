@@ -156,4 +156,7 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 
 # Training, Testing y Validation
 
+
+
+
 # Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
