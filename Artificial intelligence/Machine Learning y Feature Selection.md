@@ -140,7 +140,9 @@ Al igual que la seleccipon sistemática de características, donde eliminados _D
 <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>¿Cómo podemos crear nuevas variables que harán que nuestros modelos sean más eficaces?</b></p>
 ## Objetivos
 Entender el concepto e importancia de Feature Engineering como parte de la fase de preparación de datos.
-## ¿Qué es la Feature?
+- ## ¿Qué es la Feature engineering?
+	- Similar a la [[Machine Learning y Feature Selection#]]
+
 # One-hot encoding
 
 # Escalamiento
