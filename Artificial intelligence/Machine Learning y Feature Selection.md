@@ -137,7 +137,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 
 # Feature Engineering
 Al igual que la seleccipon sistemática de características, donde eliminados _Datos redundates e irrelevantes_ 
-<h3 style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)">Dos pe. </h3>
+<p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>¿Cómo podemos creae nuevas variables que harán que nuestros modelos sean más eficaces?</b></p>
 # One-hot encoding
 
 # Escalamiento
