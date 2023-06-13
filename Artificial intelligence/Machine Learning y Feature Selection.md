@@ -150,6 +150,7 @@ Entender el concepto e importancia de Feature Engineering como parte de la fase 
 # One-hot encoding
 Es una técnica de uso frecuente en el aprendizaje automático para el procesamiento de características.
 ![](Pasted%20image%2020230613105849.png)
+Cuando los valores 
 # Escalamiento
 
 # Training, Testing y Validation
