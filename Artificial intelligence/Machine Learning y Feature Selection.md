@@ -153,6 +153,7 @@ Es una técnica de uso frecuente en el aprendizaje automático para el procesami
 Cuando los valores son nominales (Que se puede clasificar en valores.)
 # Escalamiento
 
+
 # Training, Testing y Validation
 
 # Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
