@@ -145,7 +145,8 @@ Entender el concepto e importancia de Feature Engineering como parte de la fase 
 	- Las características que se agregan NO son las que se eliminaron en Feature Selection.
 	- Siempre es necesario considerar que ***Si las caracteríticas de entrada no son relevantes, nunca podrá producir resultados útiles.***
 	- ![[Pasted image 20230613102852.png]]
-- ## Técn
+- ## Técnicas para manejar valores faltantes
+	- 
 # One-hot encoding
 
 # Escalamiento
