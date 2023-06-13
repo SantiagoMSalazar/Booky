@@ -148,7 +148,7 @@ Entender el concepto e importancia de Feature Engineering como parte de la fase 
 - ## Técnicas para manejar valores faltantes
 	- 
 # One-hot encoding
-
+Es una técnica de uso frecuente en el aprendizaje automático para el procesamiento 
 # Escalamiento
 
 # Training, Testing y Validation
