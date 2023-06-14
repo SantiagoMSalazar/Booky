@@ -8,5 +8,9 @@ Crear los mismos dos triangulos usando dos VAOs y VBOs diferentes para casa dato
 
 Tenemos un triangulo:
 ```cpp
-floa
+float* firstTriangle={
+
+}
 ```
+Después debemos tener la configuración de segundo array:
+
