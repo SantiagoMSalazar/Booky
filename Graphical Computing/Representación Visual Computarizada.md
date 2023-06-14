@@ -108,7 +108,7 @@ Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, 
 	- `Mucho mejor rendimiento.`
 
 <div style="padding:10px;border-style:solid; border-color; rgb(80,120,230)">
-cuando hablemos de **SHADER** Estamos hablando de código ejecutado en la GPU
+cuando hablemos de <b>SHADER</b> Estamos hablando de código ejecutado en la GPU
 </div>
 
 ## Representing shapes
