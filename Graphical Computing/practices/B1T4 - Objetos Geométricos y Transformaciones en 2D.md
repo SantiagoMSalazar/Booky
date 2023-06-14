@@ -1,4 +1,7 @@
 Se incluyen las librerías
-```c++
-
+```C++
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include <iostream>
 ```
+
