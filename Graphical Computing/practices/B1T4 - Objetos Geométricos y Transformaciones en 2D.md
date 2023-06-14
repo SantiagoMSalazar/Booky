@@ -1,5 +1,5 @@
-Se incluyen las librerías
+# Ejemplo 1
 ```C++
-}
+
 ```
 
