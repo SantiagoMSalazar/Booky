@@ -11,7 +11,13 @@ Es un documento activo que registra en detalle las tareas y responsables.
 	- el mapa de procesos es visual
 - ## Documento de procesos PASOS
 	1. Determinar el alcance
-		- Objetv
-	2. Definir los límites
-	3. Estableces entradas y salidas
-	4. 
+		- Objetivos Claros
+		- participantes
+		- cronograma
+		- Actividades
+	1. Definir los límites
+		- Delimita dónde se enmarca el proceso.
+	2. Estableces entradas y salidas
+		- Las entradas son los recursos necesarios o requisitos.
+		- Las salidas so
+	1. 
