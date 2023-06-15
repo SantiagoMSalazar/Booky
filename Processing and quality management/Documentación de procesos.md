@@ -4,4 +4,8 @@ Es un documento activo que registra en detalle las tareas y responsables.
 - ## Tecnicas
 	- rescriptiva
 	- narrativa
-	- con hoperví
+	- con hopervínculos
+	- por niveles
+- ## Comparativa
+	- la documentación es un documento escrito que detalla.
+	- el mapa de proces
