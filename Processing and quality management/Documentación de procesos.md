@@ -26,4 +26,7 @@ Es un documento activo que registra en detalle las tareas y responsables.
 	6. **Crear un diagrama de flujo del proceso**
 	7. **Indicar las excepciones del flujo del proceso**
 	8. **Poner a pruba el proceso**
-- ## Be
+- ## Beneficios de la documentación
+	- ### Eliminar los errores
+		- Error es un fallo no intencional.
+		- 
