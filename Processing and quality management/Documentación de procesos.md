@@ -35,4 +35,5 @@ Es un documento activo que registra en detalle las tareas y responsables.
 		- Trabajo duplicado
 	- ### Optimizar la asignación de recursos
 	- ### Mejorar la comunicación
+- ## Ejemplos de Documentación
 	- 
