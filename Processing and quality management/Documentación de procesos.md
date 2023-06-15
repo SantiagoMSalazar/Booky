@@ -19,5 +19,5 @@ Es un documento activo que registra en detalle las tareas y responsables.
 		- Delimita dónde se enmarca el proceso.
 	2. Estableces entradas y salidas
 		- Las entradas son los recursos necesarios o requisitos.
-		- Las salidas so
+		- Las salidas son todo aquello que se 
 	1. 
