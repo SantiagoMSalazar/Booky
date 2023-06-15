@@ -24,3 +24,5 @@ Es un documento activo que registra en detalle las tareas y responsables.
 		- 
 	5. **Asignar los roles en el proyecto**
 	6. **Crear un diagrama de flujo del proceso**
+	7. **Indicar las excepciones del flujo del proceso**
+	8. 
