@@ -1,5 +1,5 @@
 # What is computer Graphics?
-<div style="padding:10px;border-radius:10px;border: solid #126AAF">
+<div style="padding:10px;border-radius:10px;border: solid #">
 Qué es computación gráfica?<br>
 suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
