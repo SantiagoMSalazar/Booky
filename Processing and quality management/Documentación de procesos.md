@@ -9,5 +9,9 @@ Es un documento activo que registra en detalle las tareas y responsables.
 - ## Comparativa
 	- la documentación es un documento escrito que detalla.
 	- el mapa de procesos es visual
-- ## Documento de procesos
-	- 
+- ## Documento de procesos PASOS
+	1. Determinar el alcance
+		- Objetv
+	2. Definir los límites
+	3. Estableces entradas y salidas
+	4. 
