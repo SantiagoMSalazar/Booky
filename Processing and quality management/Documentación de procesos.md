@@ -36,4 +36,4 @@ Es un documento activo que registra en detalle las tareas y responsables.
 	- ### Optimizar la asignación de recursos
 	- ### Mejorar la comunicación
 - ## Ejemplos de Documentación
-	- 
+	- ![](Imagen%20de%20WhatsApp%202023-06-15%20a%20las%2015.02.10.jpg)
