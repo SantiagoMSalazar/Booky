@@ -8,4 +8,6 @@ Es un documento activo que registra en detalle las tareas y responsables.
 	- por niveles
 - ## Comparativa
 	- la documentación es un documento escrito que detalla.
-	- el mapa de proces
+	- el mapa de procesos es visual
+- ## documento
+- 
