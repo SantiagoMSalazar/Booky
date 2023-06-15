@@ -33,4 +33,6 @@ Es un documento activo que registra en detalle las tareas y responsables.
 	- ### Reduce el trabajo repetitivo
 		- Reuniones frecuentes
 		- Trabajo duplicado
-		- 
+	- ### Optimizar la asignación de recursos
+	- ### Mejorar la comunicación
+	- 
