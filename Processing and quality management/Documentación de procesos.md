@@ -32,4 +32,5 @@ Es un documento activo que registra en detalle las tareas y responsables.
 		- La falta de comunicación, el salto de pasos y eliminar objetivos son ejemplo de errores.
 	- ### Reduce el trabajo repetitivo
 		- Reuniones frecuentes
+		- Trabajo duplicado
 		- 
