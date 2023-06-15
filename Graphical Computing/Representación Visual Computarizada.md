@@ -1,6 +1,6 @@
 # What is computer Graphics?
 <div style="padding:10px;border-radius:10px;border: solid #FFFF00;background:#FFFF00; color:000000">
-<b>Qué es computación gráfica?</b>
+<b>Qué es computación gráfica?</b><br>
 suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
 - Estos modelos vienen con diversas configuraciones para distintos campos, incluyendo ciencias físicas, biológicas, matemáticas, artísticas y estructuras abstractas o conceptuales. 
