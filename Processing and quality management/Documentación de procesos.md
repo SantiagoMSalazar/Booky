@@ -2,12 +2,12 @@ Es un documento activo que registra en detalle las tareas y responsables.
 - Sirve para verificar flujo de tareas y estándares.
 - es una hoja de ruta para establecer los pasos del proceso.
 - ## Técnicas
-	- descriptiva
-	- narrativa
-	- con hipervínculos
-	- por niveles
+	- ### Descriptiva
+	- ### Narrativa
+	- ### Con hipervínculos
+	- ### Por niveles
 - ## Comparativa
 	- la documentación es un documento escrito que detalla.
 	- el mapa de procesos es visual
-- ## Documento
+- ## Documento de procesos
 	- 
