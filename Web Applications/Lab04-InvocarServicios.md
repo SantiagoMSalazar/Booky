@@ -117,34 +117,35 @@ console.error("Error en la solicitud: " + error);
 	![](Pasted%20image%2020230619165321.png)
 - #### Crear el código de una invocación usando la libreria Axios y promesas
 	```html
-	<!DOCTYPE html>
-<html>
-<head>
-<title>Ejemplo de invocación de la API de la NASA con Axios y Promesas</title>
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-</head>
-<body>
-<h1>Invocación de la API de la NASA con Axios y Promesas</h1>
-<div id="imageContainer"></div>
-<script type="text/javascript">
-var url = "https://api.nasa.gov/planetary/apod";
-var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM";
-axios.get(url, {
-params: {
-api_key: apiKey
-}
-})
-.then(function (response) {
-console.log(response.data);
-var imageContainer = document.getElementById("imageContainer");
-var imageElement = document.createElement("img");
-imageElement.src = response.data.url;
-imageContainer.appendChild(imageElement);
-})
-.catch(function (error) {
-console.error("Error en la solicitud: " + error);
-});
-</script>
-</body>
-</html>
-    ```
+		<!DOCTYPE html>
+	<html>
+	<head>
+	<title>Ejemplo de invocación de la API de la NASA con Axios y Promesas</title>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	</head>
+	<body>
+	<h1>Invocación de la API de la NASA con Axios y Promesas</h1>
+	<div id="imageContainer"></div>
+	<script type="text/javascript">
+	var url = "https://api.nasa.gov/planetary/apod";
+	var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM";
+	axios.get(url, {
+	params: {
+	api_key: apiKey
+	}
+	})
+	.then(function (response) {
+	console.log(response.data);
+	var imageContainer = document.getElementById("imageContainer");
+	var imageElement = document.createElement("img");
+	imageElement.src = response.data.url;
+	imageContainer.appendChild(imageElement);
+	})
+	.catch(function (error) {
+	console.error("Error en la solicitud: " + error);
+	});
+	</script>
+	</body>
+	</html>
+	 ```
+
