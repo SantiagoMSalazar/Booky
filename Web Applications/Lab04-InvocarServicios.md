@@ -43,4 +43,7 @@ Asignatura: Aplicaciones Web
 	- Este código sirve para recibir una fotografía de la NASA
 	![](Pasted%20image%2020230619160424.png)
 - #### Crear el código de una invocación usando la API Fetch, realizar esto de forma asíncrona
-	- Para elaborar es
+	- código:
+	```html
+	
+	```
