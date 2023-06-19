@@ -76,6 +76,6 @@ request.send();
 
 </html>
 ```
-Este código nos va a permitir visualizar una fotografía del día otorgada por la NASA, cada día va a presentarse una fotografía nueva.
+Este código nos va a recibir una 
 ![](Pasted%20image%2020230619154418.png)
 - #### 
