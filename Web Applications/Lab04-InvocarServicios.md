@@ -49,60 +49,32 @@ Asignatura: Aplicaciones Web
 <html>
 <head>
 <title>Ejemplo de invocación de la API de la NASA con Fetch</title>
-
 </head>
-
 <body>
-
 <h1>Invocación de la API de la NASA con Fetch</h1>
-
 <div id="imageContainer"></div>
-
 <script type="text/javascript">
-
 var url = "https://api.nasa.gov/planetary/apod";
-
 var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM";
-
 fetch(url + "?api_key=" + apiKey)
-
 .then(function(response) {
-
 if (response.ok) {
-
 return response.json();
-
 } else {
-
 throw new Error("Error en la solicitud. Estado: " + response.status);
-
 }
-
 })
-
 .then(function(data) {
-
 console.log(data);
-
 var imageContainer = document.getElementById("imageContainer");
-
 var imageElement = document.createElement("img");
-
 imageElement.src = data.url;
-
 imageContainer.appendChild(imageElement);
-
 })
-
 .catch(function(error) {
-
 console.error("Error de conexión: ", error);
-
 });
-
 </script>
-
 </body>
-
 </html>
-	```
+```
