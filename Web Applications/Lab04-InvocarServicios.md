@@ -67,15 +67,16 @@ throw new Error("Error en la solicitud. Estado: " + response.status);
 .then(function(data) {
 console.log(data);
 var imageContainer = document.getElementById("imageContainer");
-var imageElement = document.createElement("img");
-imageElement.src = data.url;
-imageContainer.appendChild(imageElement);
-})
-.catch(function(error) {
-console.error("Error de conexión: ", error);
-});
-</script>
-</body>
-</html>
-```
-Este script devuelve una imagen que otorga la API de la NASA:
+	var imageElement = document.createElement("img");
+	imageElement.src = data.url;
+	imageContainer.appendChild(imageElement);
+	})
+	.catch(function(error) {
+	console.error("Error de conexión: ", error);
+	});
+	</script>
+	</body>
+	</html>
+	```
+	Este script devuelve una imagen que otorga la API de la NASA:
+	![](Pasted%20image%2020230619163514.png)
