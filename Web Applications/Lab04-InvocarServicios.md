@@ -80,4 +80,5 @@ Asignatura: Aplicaciones Web
 	```
 	Este script devuelve una imagen que otorga la API de la NASA:
 	![](Pasted%20image%2020230619163514.png)
-- #### 
+- #### Crear el código de una invocación usando las librería Jquery (+Ajax)
+	- 
