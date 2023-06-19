@@ -84,8 +84,7 @@ Asignatura: Aplicaciones Web
 	- Código
 	```html
 	<!DOCTYPE html>
-
-<html>|
+<html>
 <head>
 <title>Ejemplo de invocación de la API de la NASA con jQuery</title>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
