@@ -82,4 +82,82 @@ Asignatura: Aplicaciones Web
 	![](Pasted%20image%2020230619163514.png)
 - #### Crear el código de una invocación usando las librería Jquery (+Ajax)
 	- Código
+	```html
+	<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Ejemplo de invocación de la API de la NASA con jQuery</title>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+
+<body>
+
+<h1>Invocación de la API de la NASA con jQuery</h1>
+
+<div id="imageContainer"></div>
+
+  
+
+<script type="text/javascript">
+
+// URL de la API de la NASA
+
+var url = "https://api.nasa.gov/planetary/apod";
+
+  
+
+// Parámetros de la solicitud GET
+
+var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM"; // Reemplaza "TU_API_KEY" con tu propia clave API de la NASA
+
+  
+
+// Realizar la solicitud utilizando jQuery Ajax
+
+$.ajax({
+
+url: url,
+
+data: { api_key: apiKey },
+
+method: "GET",
+
+success: function(response) {
+
+// Hacer algo con la respuesta obtenida
+
+console.log(response);
+
+// Mostrar la imagen en el contenedor
+
+var imageContainer = $("#imageContainer");
+
+var imageElement = $("<img>").attr("src", response.url);
+
+imageContainer.append(imageElement);
+
+},
+
+error: function(xhr, status, error) {
+
+// Manejar cualquier error ocurrido durante la solicitud
+
+console.error("Error en la solicitud: " + error);
+
+}
+
+});
+
+</script>
+
+</body>
+
+</html>
+	```
+	![](Pasted%20image%2020230619165321.png)
 		
