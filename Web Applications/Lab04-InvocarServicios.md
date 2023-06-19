@@ -126,37 +126,19 @@ url: url,
 data: { api_key: apiKey },
 
 method: "GET",
-
 success: function(response) {
-
-// Hacer algo con la respuesta obtenida
-
 console.log(response);
 
-// Mostrar la imagen en el contenedor
-
 var imageContainer = $("#imageContainer");
-
 var imageElement = $("<img>").attr("src", response.url);
-
 imageContainer.append(imageElement);
-
 },
-
 error: function(xhr, status, error) {
-
-// Manejar cualquier error ocurrido durante la solicitud
-
 console.error("Error en la solicitud: " + error);
-
 }
-
 });
-
 </script>
-
 </body>
-
 </html>
 	```
 	![](Pasted%20image%2020230619165321.png)
