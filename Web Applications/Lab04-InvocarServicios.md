@@ -78,4 +78,4 @@ console.error("Error de conexión: ", error);
 </body>
 </html>
 ```
-Este script devuelve la c
+Este script devuelve una imagen que otorga la API de la NASA:
