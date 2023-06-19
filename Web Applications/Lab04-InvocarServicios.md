@@ -10,5 +10,70 @@ Asignatura: Aplicaciones Web
 - #### Crear el código de una invocación usando el objeto XMLHttpRequest
 	- Vamos a ocupar la API de la NASA [APOD](https://github.com/nasa/apod-api)
 ```html
+<!DOCTYPE html>
 
+<html>
+
+<head>
+
+<title>Ejemplo de invocación de la API de la NASA</title>
+
+<script type="text/javascript">
+
+function makeRequest() {
+
+// Crear un nuevo objeto XMLHttpRequest
+
+var request = new XMLHttpRequest();
+
+var url = "https://api.nasa.gov/planetary/apod";
+
+var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM";
+
+request.open('GET', url + "?api_key=" + apiKey, true);
+
+request.onload = function() {
+
+if (request.status >= 200 && request.status < 400) {
+
+var response = JSON.parse(request.responseText);
+
+var imageUrl = response.url;
+
+document.getElementById("image").src = imageUrl;
+
+} else {
+
+console.error("Error en la solicitud. Estado: " + request.status);
+
+}
+
+};
+
+request.onerror = function() {
+
+console.error("Error de conexión");
+
+};
+
+request.send();
+
+}
+
+</script>
+
+</head>
+
+<body>
+
+<button onclick="makeRequest()">Realizar solicitud a la API de la NASA</button>
+
+<br>
+
+<img id="image" src="" alt="Imagen de la API de la NASA">
+
+</body>
+
+</html>
 ```
+Este código nos va a permitir 
