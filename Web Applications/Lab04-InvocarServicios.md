@@ -116,3 +116,6 @@ console.error("Error en la solicitud: " + error);
 	```
 	![](Pasted%20image%2020230619165321.png)
 - #### 
+	```html
+	// URL de la API de la NASA var url = "https://api.nasa.gov/planetary/apod"; // Parámetros de la solicitud GET var apiKey = "TU_API_KEY"; // Reemplaza "TU_API_KEY" con tu propia clave API de la NASA // Realizar la solicitud utilizando Axios y promesas axios.get(url, { params: { api_key: apiKey } }) .then(function (response) { // Hacer algo con la respuesta obtenida console.log(response.data); // Mostrar la imagen en el contenedor var imageContainer = document.getElementById("imageContainer"); var imageElement = document.createElement("img"); imageElement.src = response.data.url; imageContainer.appendChild(imageElement); }) .catch(function (error) { // Manejar cualquier error ocurrido durante la solicitud console.error("Error en la solicitud: " + error); });
+    ```
