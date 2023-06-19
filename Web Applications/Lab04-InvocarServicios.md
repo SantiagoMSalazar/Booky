@@ -76,4 +76,4 @@ request.send();
 
 </html>
 ```
-Este código nos va a permitir 
+Este código nos va a permitir visualizar una fotografía del día otorgada por la NASA,
