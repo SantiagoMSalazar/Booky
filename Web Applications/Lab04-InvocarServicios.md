@@ -85,46 +85,20 @@ Asignatura: Aplicaciones Web
 	```html
 	<!DOCTYPE html>
 
-<html>
-
+<html>|
 <head>
-
 <title>Ejemplo de invocación de la API de la NASA con jQuery</title>
-
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
 </head>
-
 <body>
-
 <h1>Invocación de la API de la NASA con jQuery</h1>
-
 <div id="imageContainer"></div>
-
-  
-
 <script type="text/javascript">
-
-// URL de la API de la NASA
-
 var url = "https://api.nasa.gov/planetary/apod";
-
-  
-
-// Parámetros de la solicitud GET
-
-var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM"; // Reemplaza "TU_API_KEY" con tu propia clave API de la NASA
-
-  
-
-// Realizar la solicitud utilizando jQuery Ajax
-
+var apiKey = "oWNlgwDypCxHLpSzbVXYnepZUgNcIEq67fueSVnM";
 $.ajax({
-
 url: url,
-
 data: { api_key: apiKey },
-
 method: "GET",
 success: function(response) {
 console.log(response);
