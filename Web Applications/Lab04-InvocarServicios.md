@@ -76,6 +76,6 @@ request.send();
 
 </html>
 ```
-Este código nos va a recibir una 
-![](Pasted%20image%2020230619154418.png)
+Este código sirve para recibir una fotografía de la NASA
+![](Pasted%20image%2020230619160424.png)
 - #### 
