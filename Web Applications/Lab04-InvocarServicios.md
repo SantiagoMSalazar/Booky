@@ -78,3 +78,4 @@ console.error("Error de conexión: ", error);
 </body>
 </html>
 ```
+Este script devuelve la c
