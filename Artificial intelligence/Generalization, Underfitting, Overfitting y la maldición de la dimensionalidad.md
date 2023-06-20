@@ -9,4 +9,4 @@ Es un sobreajuste del modelo, esto provoca que no pueda adaptarse a nuevas varia
 	Suele ser la partición más grande, es la que contiene los datos para construir los modelos.
 	Se puede usar la misma partición de la data para desarrollar distintos modelos.
 - ## Partición de prueba
-	También llamada holdout se usa para evaluar el rendimiento del modelo.
+	También llamada holdout se usa para evaluar el rendimiento del modelo pero con nuevos datos.
