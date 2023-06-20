@@ -6,3 +6,6 @@ Es un sobreajuste del modelo, esto provoca que no pueda adaptarse a nuevas varia
 - <div style="border: solid 2px red; padding: 10px;border-radius: 10px">Esta taza de error es engañosa porque porbablemente incluye efectos que son específicos de los 100 individuos, no analiza más allá de la muestra.</div>
 - ==Puede tomar variables que no tengan que ver con el sistema, pero debido a que el modelo observa que las personas con esa características cumplen con la predicción la toma como una característica importante.==
 ## Partición del entrenamiento.
+Suele ser la partición más grande, es la que contiene los datos para construir los modelos.
+Se puede usar la misma partición de la data para desarrollar distintos modelos.
+## Pa
