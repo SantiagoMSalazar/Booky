@@ -164,3 +164,4 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- La división simple (Holdout) divide los datos en **Dos subconjuntos Mutuamente excluyentes**.
 	- ==Conjunto de prueba== y ==Conjunto de training==
 	 <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>"2/3" del conjunto de datos suele ser para entrenamiento y "1/3" para prueba</b></p>
+	- La idea es retener una porción de datos para realizar pruebas, esto se llama validación o **Holdout**
