@@ -181,4 +181,6 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 		- El modelo **Asume** que los datos en los subconjuntos son del mismo tipo (Mismas propiedades)
 		- Se debe usar un muestreo estratificado para no tomar datos organizados y clasificados.
 - ## K-Fold Cross Validation
-	- es una metodología donde el conjunto de datos divide aleatoriamente en k subconjuntos que se excluyen mutuamente, de tamaño parecido. 
+	- Es una metodología donde el conjunto de datos divide aleatoriamente en k subconjuntos que se excluyen mutuamente, de tamaño parecido. 
+	- <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>El modelo de clasificación se entrena y se prueba k veces</b></p>
+	- 
