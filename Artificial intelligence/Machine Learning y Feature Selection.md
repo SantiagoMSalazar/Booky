@@ -180,4 +180,5 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 		- El modelo no se entrena con todos los datos disponibles y no se evalúa con todos los datos disponibles.
 		- El modelo **Asume** que los datos en los subconjuntos son del mismo tipo (Mismas propiedades)
 		- Se debe usar un muestreo estratificado para no tomar datos organizados y clasificados.
+- ## K-Fold Cross Validation
 	- 
