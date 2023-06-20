@@ -190,4 +190,4 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- donde: 
 		A= [Acourancy](Dictionary.md#^986787)
 		![](Pasted%20image%2020230620111943.png)
-		
+#
