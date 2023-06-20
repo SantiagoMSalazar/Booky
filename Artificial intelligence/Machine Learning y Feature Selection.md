@@ -155,7 +155,7 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 
 
 # Training, Testing y Validation
-
+- #### 
 
 
 
