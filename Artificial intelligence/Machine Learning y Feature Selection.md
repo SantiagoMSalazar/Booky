@@ -183,4 +183,6 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 - ## K-Fold Cross Validation
 	- Es una metodología donde el conjunto de datos divide aleatoriamente en k subconjuntos que se excluyen mutuamente, de tamaño parecido. 
 	- <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>El modelo de clasificación se entrena y se prueba k veces</b></p>
+	- Se entrena en todas las particiones menos una y se pueda en la partición única restante.
+	- ![](Pasted%20image%2020230620111456.png)
 	- 
