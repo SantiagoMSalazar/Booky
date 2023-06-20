@@ -174,3 +174,5 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- ![](Pasted%20image%2020230620103938.png)
 	- ### Puntos débiles
 		- El rendimiento del modelo depende mayormente de las pocas observaciones que se seleccionaron para el testing.
+		- El modelo no se entrena con todos los datos disponibles y no se evalúa con todos los datos disponibles.
+		- El modelo **Asume** que los datos 
