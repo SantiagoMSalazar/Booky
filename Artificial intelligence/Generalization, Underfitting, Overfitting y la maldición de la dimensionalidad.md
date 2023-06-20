@@ -4,4 +4,5 @@ Es un sobreajuste del modelo, esto provoca que no pueda adaptarse a nuevas varia
 - Para predecir si contribuye o no se puede identificar los ingresos, el tamaño de la familia, el código postal de las personas.
 - <div style="border: solid 2px green; padding: 10px;border-radius: 10px">Si agregamos predictores se puede mejorar el rendimiento del modelo con los datos disponibles y reducir el error de clasificación a un nivel insignificante.</div>
 - <div style="border: solid 2px red; padding: 10px;border-radius: 10px">Esta taza de error es engañosa porque porbablemente incluye efectos que son específicos de los 100 individuos, no analiza más allá de la muestra.</div>
-- ==Puede tomar variables que no tengan que ver con el sistema, pero debido a que el modelo observa que las personas con esa características ==
+- ==Puede tomar variables que no tengan que ver con el sistema, pero debido a que el modelo observa que las personas con esa características cumplen con la predicción la toma como una característica importante.==
+## Partición del entrenamiento.
