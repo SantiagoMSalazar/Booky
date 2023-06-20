@@ -188,4 +188,6 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- **Para calcular se promedia las k medidas de precisión individuales**
 	- $$CVA=\frac{1}{k}\Sigma_{i=1}^{k}{A_i}$$
 	- donde: 
-		A= [Acourance](Dictionary.md#^986787)
+		A= [Acourancy](Dictionary.md#^986787)
+		![](Pasted%20image%2020230620111943.png)
+		
