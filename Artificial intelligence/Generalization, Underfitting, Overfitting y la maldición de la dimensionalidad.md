@@ -10,3 +10,4 @@ Es un sobreajuste del modelo, esto provoca que no pueda adaptarse a nuevas varia
 	Se puede usar la misma partición de la data para desarrollar distintos modelos.
 - ## Partición de prueba
 	También llamada holdout se usa para evaluar el rendimiento del modelo pero con nuevos datos.
+	Es mejor usar las dos particiones de prueba y de testing para 
