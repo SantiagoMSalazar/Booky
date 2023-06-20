@@ -185,4 +185,4 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>El modelo de clasificación se entrena y se prueba k veces</b></p>
 	- Se entrena en todas las particiones menos una y se pueda en la partición única restante.
 	- ![](Pasted%20image%2020230620111456.png)
-	- 
+	- **PAra calcular se promedia las k medidas de precisión individuales**
