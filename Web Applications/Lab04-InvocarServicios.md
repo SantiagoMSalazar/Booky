@@ -117,9 +117,9 @@ console.error("Error en la solicitud: " + error);
 
 ![](Pasted%20image%2020230619165321.png)
 	
-- #### Crear el código de una invocación usando la libreria Axios y promesas
+- #### Crear el código de una invocación usando la librería Axios y promesas
 	```html
-<!DOCTYPE html>
+ <!DOCTYPE html>
 	<html>
 	<head>
 	<title>Ejemplo de invocación de la API de la NASA con Axios y Promesas</title>
