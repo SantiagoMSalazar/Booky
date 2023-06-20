@@ -167,5 +167,5 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- La idea es retener una porción de datos para realizar pruebas, esto se llama validación o **Holdout**
 	- Para la evaluación, se usa el testing dataset.
 	- Entrenamos al modelo con todo el dataset y con la variable target para que sepa que predecir.
-	- ![Cómo funciona e](Pasted%20image%2020230620103423.png)
+	- ![Cómo funciona el simple split](Pasted%20image%2020230620103423.png)
 	- 
