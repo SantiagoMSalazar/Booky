@@ -155,7 +155,8 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 
 
 # Training, Testing y Validation
-- #### 
+- #### MAE
+	- Tomamos el error de los datos en cada una de las 
 
 
 
