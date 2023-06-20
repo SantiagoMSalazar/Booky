@@ -157,7 +157,7 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 # Training, Testing y Validation
 - #### Mean Absolute Error
 	- Tomamos el error absoluto de los datos y dividimos para el total de datos.
-	- $MAE=$
+	- $MAE=\Sigma_{i=1}^{total\ de\ errores}$
 	- 
 
 
