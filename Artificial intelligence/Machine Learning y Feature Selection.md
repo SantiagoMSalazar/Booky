@@ -186,5 +186,5 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- Se entrena en todas las particiones menos una y se pueda en la partición única restante.
 	- ![](Pasted%20image%2020230620111456.png)
 	- **Para calcular se promedia las k medidas de precisión individuales**
-	- $$CVA=1/k\Sigma_{i=1}^{k}{A_i}$$
+	- $$CVA=\frac{1}{k}\Sigma_{i=1}^{k}{A_i}$$
 	- 
