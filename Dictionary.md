@@ -1,1 +1,1 @@
-1. Accuracy 
+1. **Accuracy** : Rendimiento de los datos. 
