@@ -169,4 +169,5 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 	- Entrenamos al modelo con todo el dataset y con la variable target para que sepa que predecir.
 	- ![Cómo funciona el simple split](Pasted%20image%2020230620103423.png)
 	- El conjunto de entrenamiento es utilizado para hacer el "**Fit**"del modelo.
-	- Una excepción es cuando el
+	- Una excepción es cuando el clasificador es una red neuronal artificial.
+	- Para este casi los datos se dividen en 3: ****
