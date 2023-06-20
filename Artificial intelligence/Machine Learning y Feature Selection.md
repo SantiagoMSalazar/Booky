@@ -161,4 +161,4 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 
 # Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
 - ## Split: Training Set y Testing Set
-	- La división simple
+	- La división simple (Holdout) 
