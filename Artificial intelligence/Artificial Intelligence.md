@@ -17,4 +17,6 @@ El proyecto de primer bimestre debe ser dirigido a la SEGURIDAD
 # Contenidos
 1. Capitulo 1: [Fundamentos de AI](Fundamentos%20de%20AI.md)
 2. Capítulo 2: [Machine Learning y Feature Selection](Machine%20Learning%20y%20Feature%20Selection.md)
-3. 
+3. Capítulo 3: Clasificación y Regresión con aprendizaje supervisado.
+	1. [Aprendizaje Supervisado vs No Supervisado](Aprendizaje%20Supervisado%20vs%20No%20Supervisado.md)
+	2. 
