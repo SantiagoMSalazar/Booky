@@ -161,5 +161,6 @@ Cuando los valores son nominales (Que se puede clasificar en valores.)
 
 # Generalización, Underfitting, Overfitting y la maldición de la dimensionalidad
 - ## Split: Training Set y Testing Set
-	- La división simple (Holdout) divide los datos en **Dos subconjutos Mútuamente excluyentes**.
-	- 
+	- La división simple (Holdout) divide los datos en **Dos subconjuntos Mutuamente excluyentes**.
+	- ==Conjunto de prueba== y ==Conjunto de training==
+	- <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>¿Cómo podemos crear nuevas variables que harán que nuestros modelos sean más eficaces?</b></p>
