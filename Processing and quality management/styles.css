@@ -9,3 +9,11 @@ summary {
     font-weight: bold;
     cursor: pointer;
 }
+
+.tipIdea{
+padding:10px;
+border-radius:10px;
+border: solid #FFFF00;
+background:#FFFF00; 
+color:000000
+}
