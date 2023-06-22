@@ -1,5 +1,6 @@
 ---
-css: ./styles.css
+css: 
+- ./styles.css
 ---
 
 Es la base para saber que se está obteniendo, en qué dirección van los resultados.
@@ -35,3 +36,4 @@ Taza de retención de clientes
 </div>
 
 
+Costo de Marketing y ventas
