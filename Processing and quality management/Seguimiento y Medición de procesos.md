@@ -34,3 +34,4 @@ Se debe hacer una medición periódica con una frecuencia usualmente trimestral
 Taza de retención de clientes
 </div>
 
+
