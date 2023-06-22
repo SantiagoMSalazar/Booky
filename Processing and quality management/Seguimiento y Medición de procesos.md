@@ -9,7 +9,7 @@ Los flujos de conocimiento son importantes porque afectan directamente a la vida
 - #### Indicadores de medición.
 - #### Determinar el tipo de problemas.
 ## Indicadores del proceso
-Recopila información reelevante y con esto determina la eficacia y capacidad del proceso.
+Recopila información relevante y con esto determina la eficacia y capacidad del proceso.
 Las empresas dependen de los indicadores,.
 ### Indicadores:
 - Sensibilidad
@@ -17,3 +17,9 @@ Las empresas dependen de los indicadores,.
 - Rentabilidad
 - Representatividad
 - Relatividad
+## Seguimiento de los indicadores
+Se debe hacer una medición periódica con una frecuencia usualmente trimestral
+1. Proceso asociado
+2. Periodicidad
+3. Valor periodico anual
+4. 
