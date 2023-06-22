@@ -9,5 +9,4 @@ Los flujos de conocimiento son importantes porque afectan directamente a la vida
 - #### Indicadores de medición.
 - #### Determinar el tipo de problemas.
 ## Indicadores del proceso
-Recopila información reelevante y con esto determina la eficacia y capacidad del proceso.
-Si el 
+Recopila información reelevante y con esto determina la eficacia y capacidad del proceso.LAs empresas dependen de los indicadores, 
