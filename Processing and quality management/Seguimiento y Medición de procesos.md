@@ -24,3 +24,4 @@ Se debe hacer una medición periódica con una frecuencia usualmente trimestral
 3. Valor periódico anual
 4. rango aceptable
 5. Descripción del proceso.
+<details style=""> <summary>Click to toggle</summary> Your hidden content goes here. </details>
