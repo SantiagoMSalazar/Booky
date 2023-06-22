@@ -7,4 +7,5 @@ Los flujos de conocimiento son importantes porque afectan directamente a la vida
 ## puntos importantes:
 - #### Detectar el punto de fallo de los procesos.
 - #### Indicadores de medición.
-- #### Determina
+- #### Determinar el tipo de problemas.
+## Indicadores del proceso
