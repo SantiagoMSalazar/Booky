@@ -21,5 +21,7 @@ Las empresas dependen de los indicadores,.
 Se debe hacer una medición periódica con una frecuencia usualmente trimestral
 1. Proceso asociado
 2. Periodicidad
-3. Valor periodico anual
-4. 
+3. Valor periódico anual
+4. rango aceptable
+5. Descripción del proceso.
+6. 
