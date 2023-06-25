@@ -11,7 +11,7 @@ Suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 El usuario contrala el contenido, la estructura y la apariencia de los objetos en su pantalla via rapid visual 
 </div>
 - Scretchpad System
-- ## Componentes básicos de un systema de gráficos interactivos
+- ## Componentes básicos de un sistema de gráficos interactivos
 	- input -> entradas
 # What is Batch Computer Graphics?
 También es conocida como "Rendering offline" que hace un renderizado fuera de línea, no se lleva en tiempo real
@@ -58,8 +58,8 @@ Nace en 1982 como una plataforma independiente la cual es:
 - Se enfoca en el renderizado
 - Es independiente de los sistemas de ventadas de los sistemas operativos.
 ### Evolución del OpenGL
-	Cronos le da soporte a OpenGL
-|==Las primitivas son la unión de vértices==
+Cronos le da soporte a OpenGL
+==Las primitivas son la unión de vértices==
  
 Varias empresas brindan soporte a OpenGL Microsoft, Nvidia, Appe.
 En la primera versión se desarrolló un principio de **Pipeline** (Cadena de producción).
