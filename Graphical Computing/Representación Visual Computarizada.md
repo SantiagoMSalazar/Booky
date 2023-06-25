@@ -71,7 +71,7 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 - OpenGL ES: Está diseñado para sistemas embebidos o para teléfonos .
 	- Basado en OpenGL 4.3
 	- Base de Shader
-- WebGL 
+- **WebGL** 
 	- Implementado apra la Web
 	- Implementación en Javascript
 
@@ -87,12 +87,8 @@ Las aplicaciones que se van a realizar solo pueden ser modificadas en los Shader
 
 ### GLFW
 Es una librería de multiplataforma, de código abierto y gratuita para OpenGL, OpenGL ES y aplicaciones de desarrollo de Vulkan.
-
-
-
 # Modern Graphics Plataforms
 - Ejecución en distintos ambientes
-
 ## Imediate mode vs Retained Mode
 - El modo inmediate no guarda las primitivas de la escena.
 - El modo Retained guarda las primitivas.
