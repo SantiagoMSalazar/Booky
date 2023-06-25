@@ -1,5 +1,5 @@
 # What is computer Graphics?
-<div class="tipBox">
+<div class="nota">
 <b>Qué es computación gráfica?</b><br>
 Suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 </div>
