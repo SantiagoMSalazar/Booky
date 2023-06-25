@@ -11,10 +11,10 @@ Suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 El usuario contrala el contenido, la estructura y la apariencia de los objetos en su pantalla via rapid visual 
 </div>
 - Scretchpad System
-- ## Componentes básicos de un systema de gráficos interativos
+- ## Componentes básicos de un systema de gráficos interactivos
 	- input -> entradas
 # What is Batch Computer Graphics?
-También es conocida como "Rendering offline" que hace un renderizado fuera de linea, no se lleva en tiempo real
+También es conocida como "Rendering offline" que hace un renderizado fuera de línea, no se lleva en tiempo real
 ## Computer Graphics applications
 - **Realidad Virtual**
 	-  Cambair la persepción a un entorno Digital.
