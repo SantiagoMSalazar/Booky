@@ -19,7 +19,7 @@ También es conocida como "Rendering offline" que hace un renderizado fuera de l
 - **Realidad Virtual**
 	-  Cambair la persepción a un entorno Digital.
 - **Realidad aumentada**
-	- Modificar solo parte de la realidad sin cambiar por completo el contexto.
+	- Modificar solo parte de la realildad sin cambiar por completo el contexto.
 - **Scietific Visualization**
 	- Buscar modelos gráficos que representen información.
 - **Medical Imaging**
