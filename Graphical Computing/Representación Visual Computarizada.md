@@ -6,7 +6,7 @@ Suele ser la creación, almacenamiento y manipulación de modelos e imágenes
 - Estos modelos vienen con diversas configuraciones para distintos campos, incluyendo ciencias físicas, biológicas, matemáticas, artísticas y estructuras abstractas o conceptuales. 
 - William Fetter acuñó el termino gráficos por computadora en 1960 para describir nuevos métodos de diseño usados para un proyecto propio.
 # What is Interactive Computer Graphics?
-<div >
+<div class="mainBox">
 <b>Qué es gráficos de computadora interativos?</b><br>
 El usuario contrala el contenido, la estructura y la apariencia de los objetos en su pantalla via rapid visual 
 </div>
