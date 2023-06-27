@@ -23,4 +23,5 @@ En esta asignatura se va a procesar graphics para procesar información
 ==si no estoy conforme con la nota hay que hablarlo lo más rápido posible ==
 # Contenido
 1. [Representación Visual Computarizada](Representación%20Visual%20Computarizada.md)
+2. 
 
