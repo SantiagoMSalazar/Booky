@@ -26,5 +26,6 @@ En esta asignatura se va a procesar graphics para procesar información
 2. [[Objetos Geométricos y transformaciones]]
 	1. -
 	2. [[Transformaciones Geométricas en 2D]]
-		1. 
+		1. [[Shaders]]
+		2. 
 
