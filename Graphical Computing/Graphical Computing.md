@@ -24,5 +24,7 @@ En esta asignatura se va a procesar graphics para procesar información
 # Contenido
 1. [Representación Visual Computarizada](Representación%20Visual%20Computarizada.md)
 2. [[Objetos Geométricos y transformaciones]]
-	1. 
+	1. -
+	2. [[Transformaciones Geométricas en 2D]]
+		1. 
 
