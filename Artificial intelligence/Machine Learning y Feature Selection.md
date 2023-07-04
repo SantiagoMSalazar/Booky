@@ -123,9 +123,12 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 	- **El objetivo del clustering** es crear grupos de modo que los miembros dentro de cada grupo **_Tengan la máxima similitud y los miembros entre los grupos tengan la mínima similitud._**
 	- ![](Pasted%20image%2020230606123050.png)
 
+
 # Feature Selection
+
 - En esta sección se debe decidir cuando es necesario eliminar variables, si una característica debe eliminarse o no.
 - Aprender el concepto de Correlación
+
 - ## Introducción
 	- La selección de características, conocida como selección de variables o atributos, es utilizado para seleccionar un subconjuntos de características.
 	- **FEATURE SELECTION** es un paso clave en el proceso de creación de modelos de aprendizaje automático, puede involucrarse en el impacto en el rendimiento del modelo.
@@ -139,6 +142,7 @@ Dependiendo de lo que se predice, la predicción puede ser una clasificación o 
 Al igual que la seleccipon sistemática de características, donde eliminados _Datos redundates e irrelevantes_ 
 <p style="border-style:solid;border-color: rgb(90,130,100); padding: 10px; border-radius: 20px;color:rbg(110,120,130)"><b>¿Cómo podemos crear nuevas variables que harán que nuestros modelos sean más eficaces?</b></p>
 ## Objetivos
+
 Entender el concepto e importancia de Feature Engineering como parte de la fase de preparación de datos.
 - ## ¿Qué es la Feature engineering?
 	- Similar a la [Feature Selection](Machine%20Learning%20y%20Feature%20Selection.md#Feature%20Selection) Donde se elimina las redundancias y las irrelevancias para ayudar a que los modelos sean más rápidos y eficientes, la **Feature engineering puede ayudar a agregar nuevas características**
