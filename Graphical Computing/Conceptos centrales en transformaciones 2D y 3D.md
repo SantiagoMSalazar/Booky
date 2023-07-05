@@ -6,11 +6,13 @@ Day: tuesday
 - Un vector tiene una dirección y una magnitud.
 - Cuando describimos un vector generalmente se lo describe con una flecha de la siguiente forma:
   $$\vec{v}= \begin{pmatrix} a \\ b \\ c \\ \end{pmatrix}$$
-  ## suma
+  ## Suma
 Sea  $\vec{v}= \begin{pmatrix} 1 \\ 2 \\ 3 \\ \end{pmatrix}$ y $\vec{k}=\begin{pmatrix}4\\5\\6\end{pmatrix}$
 Entonces:
 $$\vec{v}+\vec{k}=\begin{pmatrix}1+4\\2+5\\3+6\end{pmatrix}$$
-## Módul del vector
+## Módulo del vector
+$$||\vec{v}||=\sqrt{x^2+y^2}$$
+
 # Scaling
 
 Cuando nosotros estamos escalando un vector estamos incrementando el tamaño del módulo l 
