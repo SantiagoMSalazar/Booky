@@ -16,7 +16,7 @@ $$||\vec{v}||=\sqrt{x^2+y^2}$$
 $$\vec{n}=\frac{\vec{v}}{||\vec{v}||}$$
 ## Multiplicación
 ### Producto punto - Dot product
-$$\vec{v} . $$
+$$\vec{v}\cdot\vec{k}=||\vec{v}||  $$
 # Scaling
 
 Cuando nosotros estamos escalando un vector estamos incrementando el tamaño del módulo l 
