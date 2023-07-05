@@ -8,8 +8,9 @@ Day: tuesday
   $$\vec{v}= \begin{pmatrix} a \\ b \\ c \\ \end{pmatrix}$$
   ## suma
 Sea  $\vec{v}= \begin{pmatrix} 1 \\ 2 \\ 3 \\ \end{pmatrix}$ y $\vec{k}=\begin{pmatrix}4\\5\\6\end{pmatrix}$
-Entonces
-
+Entonces:
+$$\vec{v}+\vec{k}=\begin{pmatrix}1+4\\2+5\\3+6\end{pmatrix}$$
+## Módul del vector
 # Scaling
 
 Cuando nosotros estamos escalando un vector estamos incrementando el tamaño del módulo l 
