@@ -7,7 +7,9 @@ Day: tuesday
 - Cuando describimos un vector generalmente se lo describe con una flecha de la siguiente forma:
   $$\vec{v}= \begin{pmatrix} a \\ b \\ c \\ \end{pmatrix}$$
   ## suma
-Sea  $\vec{v}= \begin{pmatrix} a \\ b \\ c \\ \end{pmatrix}$ y $\vec{k}=\pmatrix$
+Sea  $\vec{v}= \begin{pmatrix} 1 \\ 2 \\ 3 \\ \end{pmatrix}$ y $\vec{k}=\begin{pmatrix}4\\5\\6\end{pmatrix}$
+Entonces
+
 # Scaling
 
 Cuando nosotros estamos escalando un vector estamos incrementando el tamaño del módulo l 
