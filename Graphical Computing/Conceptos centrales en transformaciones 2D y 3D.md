@@ -12,6 +12,8 @@ Entonces:
 $$\vec{v}+\vec{k}=\begin{pmatrix}1+4\\2+5\\3+6\end{pmatrix}$$
 ## Módulo del vector
 $$||\vec{v}||=\sqrt{x^2+y^2}$$
+### Vector unitario
+$$\vec{n}=\frac{\vec{v}}{||\vec{v}||}$$
 
 # Scaling
 
