@@ -17,7 +17,8 @@ $$\vec{n}=\frac{\vec{v}}{||\vec{v}||}$$
 ## Multiplicación
 ### Producto punto - Dot product
 $$\vec{v}\cdot\vec{k}=||\vec{v}||\cdot||\vec{k}||\cdot cos\ \theta  $$
-
+## Producto cruz - Cross product
+- Es un producto que dev
 # Scaling
 
 Cuando nosotros estamos escalando un vector estamos incrementando el tamaño del módulo l 
