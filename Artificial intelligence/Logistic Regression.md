@@ -4,6 +4,7 @@ Incluso los conjuntos de datos pequeños se pueden usar para construir clasifica
 </div>
 
 - Las variables predictores $x_1,x_2,x_3,...,x_k$ pueden ser las variables categóricas, variables continuas o una mezcla de ambas.
-- <div class="noteBox">
-Con las c
+<div class="noteBox">
+Con las categóricas deben ser transformadas a dummies.
 </div>
+En la regresión logística El objetivo es predecir a qué clase pertenecerá un nuevo registro, o simplemente *Clasificar* el registro en una de la clases.
