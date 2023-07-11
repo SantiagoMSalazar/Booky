@@ -1,4 +1,8 @@
 .obsidian/
-!.obsidian/snippets/
-!.obsidian/themes/Obsidian gruvbox/
+.obsidian/snippets/
+!.obsidian/snippets/styles.css
+.obsidian/themes/
+.obsidian/themes/Obsidian gruvbox/
+!.obsidian/themes/Obsidian gruvbox/manifest.json
+!.obsidian/themes/Obsidian gruvbox/theme.css
 .trash/
