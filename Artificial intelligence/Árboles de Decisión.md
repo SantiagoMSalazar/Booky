@@ -14,3 +14,6 @@ fecha: 13-07-2023
 Árbol para clasificar a los clientes bancarios que reciben una oferta de préstamo como aceptantes o no:
 ![[Pasted image 20230713092627.png]]
 # Estructura de un árbol
+<div class="tipBox">
+<h2><h2
+</div>
