@@ -61,9 +61,6 @@
 
 
 
-
-A continuación te presento un cuadro sinóptico en formato de tabla de Markdown basado en el texto proporcionado:
-
 | Sección                                            | Artículo | Contenido                                                                                                                                                                      |
 |----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | DEL ORGANISMO DE ACREDITACIÓN ECUATORIANO - OAE    | Art. 58  | El OAE es el organismo oficial de acreditación en Ecuador que evalúa la competencia técnica, transparencia e independencia de las entidades de evaluación de la conformidad. |
@@ -80,5 +77,3 @@ A continuación te presento un cuadro sinóptico en formato de tabla de Markdown
 | DEL CONSEJO TÉCNICO CONSULTIVO DEL OAE             | Art. 69  | Requisitos para formar parte del CTC-OAE: experiencia en calidad y/o evaluación de la conformidad, formación profesional en temas relacionados.                              |
 | DEL CONSEJO TÉCNICO CONSULTIVO DEL OAE             | Art. 70  | Composición del CTC-OAE: representantes de federaciones nacionales, academia y OECs acreditados.                                                                              |
 | DEL CONSEJO TÉCNICO CONSULTIVO DEL OAE             | Art. 71  | Proceso de selección de delegados para el CTC-OAE.                                                                                                                            |
-
-Espero que este cuadro sinóptico en formato de tabla de Markdown te sea útil para visualizar y resumir la información del texto.
