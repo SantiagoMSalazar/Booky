@@ -70,7 +70,7 @@ body {
   max-width: 45rem;
   margin: 0 auto;
   padding: 1.5rem;
-  background-color: yellow;
+  background-color: rgba(255, 255, 0, 0);
 }
 
 .card {
@@ -90,8 +90,8 @@ body {
   right: 0px;
   border-bottom: 20px solid #006767;
   border-left: 20px solid #006767;
-  border-right: 20px solid yellow;
-  border-top: 20px solid yellow;
+  border-right: 20px solid rgba(255, 255, 0, 0);
+  border-top: 20px solid rgba(255, 255, 0, 0);
   position: absolute;
   filter: drop-shadow(-5px 5px 3px rgba(0, 0, 0, 0.5));
 }
@@ -102,8 +102,8 @@ body {
   height: 0px;
   border-top: 40px solid #006767;
   border-right: 40px solid #006767;
-  border-left: 40px solid yellow;
-  border-bottom: 40px solid yellow;
+  border-left: 40px solid rgba(255, 255, 0, 0);
+  border-bottom: 40px solid rgba(255, 255, 0, 0);
   bottom: 0px;
   left: 0px;
   position: absolute;
