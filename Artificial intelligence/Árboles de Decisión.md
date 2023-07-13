@@ -10,4 +10,6 @@ fecha: 13-07-2023
 - Entre los métodos basados en datos, los árboles son los más transparentes y fáciles de interpretar.
 - Los árboles se basan en separar observaciones en subgrupos creando divisiones en las variables predictoras.
 - Estas divisiones crean las *Reglas lógicas*
-- 
+## Ejemplo
+Árbol para clasificar a los clientes bancarios que reciben una oferta de préstamo como aceptantes o no:
+![[Pasted image 20230713092627.png]]
