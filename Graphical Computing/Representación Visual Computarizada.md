@@ -114,3 +114,15 @@ cuando hablemos de <b>SHADER</b> Estamos hablando de código ejecutado en la GPU
 ## Representing shapes
 - 3d Shape son una colección de vertices que construyen triangulos o cuadrados.
 - Para guardar los valores en flotante existe el standar IEEE 754
+
+<div class="row">
+    <div class="card">
+      <h2>Titel Lorem</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam culpa blanditiis sit, laboriosam at praesentium maxime esse voluptas. Quos aliquid, possimus eum itaque accusamus nihil reprehenderit nesciunt excepturi quas sint.</p>
+    </div>
+    <div class="card">
+      <h2>Titel Lorem</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam culpa blanditiis sit, laboriosam at praesentium maxime esse voluptas. Quos aliquid, possimus eum itaque accusamus nihil reprehenderit nesciunt excepturi quas sint.</p>
+    </div>
+  </div>
+
