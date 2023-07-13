@@ -1,5 +1,7 @@
 ---
-Nombres: Paul Roman, David Yanez, Santiago Salazar
+Nombres: Paul Román, David Yánez, Santiago Salazar
+Capítulo: 4 - Organismo de Acreditación Ecuatoriano (OAE)
+fecha: 13-07-2023
 ---
 # Organismo de Acreditación Ecuatoriano (OAE)
 
