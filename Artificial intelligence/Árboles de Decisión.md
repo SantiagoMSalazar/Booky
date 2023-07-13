@@ -18,3 +18,4 @@ fecha: 13-07-2023
 <h2 style="color: black">Graficar</h2>
 Para graficar usamos "plotDecisionTree"
 </div>
+Todos los nodos contienen información sobre el número de registros en ese nodo, la distribución de las clases a la clase mayoritaria de ese nodo, coloreamos los nodos por el valor promedio del n
