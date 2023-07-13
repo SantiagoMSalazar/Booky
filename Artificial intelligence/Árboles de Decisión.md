@@ -6,5 +6,4 @@ fecha: 13-07-2023
 <h2>Concepto</h2>
 <p>Son un método flexible basa en datos que pueden usarse tanto para la clasificación, como para la regresión</p>
 </div>
-</div>
 
