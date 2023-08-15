@@ -5,3 +5,4 @@ Los valores que nos dan en la regresión son valores reales y de valor continuo.
 
 - La regresión, las variables de salida dependen de las variables de entrada.
 	- Existen dos tipos de correlación, positiva y negativa.
+	- 
