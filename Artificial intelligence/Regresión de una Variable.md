@@ -4,4 +4,4 @@ Los valores que nos dan en la regresión son valores reales y de valor continuo.
 <div class="noteBox"> En clasificación las clases pertenecen a un conjunto finito de posibilidades</div>
 
 - La regresión, las variables de salida dependen de las variables de entrada.
-	- Las variables 
+	- Existen dos tipos de correlación, positiva y negativa.
