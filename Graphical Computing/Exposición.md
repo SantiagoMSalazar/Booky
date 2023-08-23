@@ -22,7 +22,7 @@ Los conceptos y tecnologías de la Industria 4.0 pueden aplicarse a todo tipo de
 # Ejemplos de Computación gráfica dentro de la industria 4.0
 - ## Creación de simulaciones en la industria 4.0
 - ## Paneles de control de las aplicaciones IoT
-- ## 
+- ## Machine learning para detección facial
 La realidad virtual (RV) es una forma de computación gráfica, pero va más allá de la mera representación de imágenes en una pantalla. La realidad virtual es una tecnología que crea un entorno inmersivo y tridimensional generado por computadora, en el cual los usuarios pueden interactuar y explorar de manera casi realista. La computación gráfica desempeña un papel crucial en la creación y representación de estos entornos virtuales.
 
 La realidad virtual utiliza técnicas avanzadas de computación gráfica para crear un espacio simulado en el cual los usuarios pueden sumergirse a través de dispositivos como visores de RV y controladores. Algunos componentes de la realidad virtual que involucran computación gráfica incluyen:
