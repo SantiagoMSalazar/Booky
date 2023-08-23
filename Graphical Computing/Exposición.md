@@ -6,3 +6,16 @@ La computación gráfica se aplica en diversas industrias y campos, como el entr
 En términos técnicos, la computación gráfica involucra conceptos de geometría computacional, cálculo vectorial, álgebra lineal, procesamiento de señales, programación de shaders (programas que controlan el aspecto visual de objetos en pantalla), técnicas de iluminación y sombreado, mapeo de texturas, transformaciones geométricas y matrices, así como técnicas avanzadas como la física de partículas, simulación de fluidos y comportamientos físicos realistas.
 
 En resumen, la computación gráfica es una disciplina multidisciplinaria que se enfoca en la creación y manipulación de imágenes visuales mediante la aplicación de principios matemáticos y técnicas informáticas, y su aplicación abarca una amplia variedad de campos y sectores industriales.
+
+# Fundamentos de Inf¿dustria 4.0
+La Industria 4.0 está revolucionando la forma en que las empresas producen, mejoran y distribuyen sus productos. Los fabricantes están incorporando nuevas tecnologías en las instalaciones de producción y en todas sus operaciones, como el internet de las cosas (IoT), análisis y cloud computing, IA y machine learning.
+
+Estas fábricas inteligentes están equipadas con sensores avanzados, software integrado y robótica que recogen y analizan datos, de modo que mejoran la toma de decisiones. El valor aumenta aún más cuando los datos de las operaciones de producción se combinan con los datos operativos del ERP, la cadena de suministro, el servicio al cliente y otros sistemas empresariales para llevar la visibilidad y el conocimiento a otro nivel a partir de información que antes estaba compartimentada.
+
+Estas tecnologías digitales conducen a una mayor automatización, al mantenimiento predictivo, a la optimización automática de las mejoras de procesos y, sobre todo, a un nivel de eficiencia y capacidad de respuesta a los clientes que antes no era posible.
+
+El desarrollo de fábricas inteligentes proporciona una oportunidad increíble a la industria manufacturera: les abre el camino a la cuarta revolución industrial. El análisis de las grandes cantidades de big data recogidas por los sensores en la fábrica garantiza la visibilidad en tiempo real de los activos de fabricación y puede proporcionar herramientas para realizar un mantenimiento predictivo con el fin de minimizar el tiempo de inactividad de los equipos. 
+
+El uso de dispositivos de IoT de alta tecnología en las fábricas inteligentes aumenta la productividad y mejora la calidad. La sustitución de modelos de negocio en los que la inspección se realiza manualmente por conocimientos visuales basados en IA reduce los errores de producción y ahorra tanto tiempo como dinero. Con una mínima inversión, el personal de control de calidad puede configurar un smartphone conectado al cloud para supervisar procesos de fabricación desde prácticamente cualquier lugar. Al emplear algoritmos de machine learning, los fabricantes pueden detectar errores al instante en lugar de hacerlo en fases posteriores, cuando las reparaciones también son más caras.  
+
+Los conceptos y tecnologías de la Industria 4.0 pueden aplicarse a todo tipo de empresas industriales, incluidas las de fabricación discreta y de procesos, así como las de petróleo y gas, minería u otros segmentos industriales.
