@@ -36,7 +36,106 @@ La realidad virtual utiliza técnicas avanzadas de computación gráfica para cr
 4. **Interacción en tiempo real:** Los usuarios de RV pueden interactuar con el entorno virtual y los objetos dentro de él. La computación gráfica permite que estas interacciones se reflejen instantáneamente en la pantalla del visor, lo que proporciona una experiencia interactiva fluida y receptiva.
     
 5. **Sensación de presencia:** La combinación de imágenes en 3D, seguimiento de movimiento y sonido envolvente crea la sensación de presencia, donde los usuarios sienten que están realmente "dentro" del entorno virtual.
-    
 
 En resumen, la realidad virtual es una forma avanzada de computación gráfica que va más allá de la simple representación de imágenes en una pantalla. Utiliza técnicas gráficas para crear entornos virtuales inmersivos y permite a los usuarios interactuar con ellos de manera realista. La combinación de elementos visuales y de interacción en la RV crea experiencias únicas y emocionantes en diversos campos como los videojuegos, la educación, la medicina y la simulación industrial.
+
+# Técnicas de rendizado
+
+LOS PRINCIPALES TIPOS DE TÉCNICAS DE RENDERIZADO
+Antes de embarcarse en un proyecto, es mejor establecer los principales objetivos y condiciones para los renders. También puede ver diferentes técnicas de renderizado 3D para elegir la que mejor se adapte a sus necesidades.
+
+Línea de escaneo
+
+Este método es una de las técnicas de renderizado tradicionales. La esencia de la técnica scanline es el algoritmo para calcular la superficie de los gráficos por computadora. En términos simples, el algoritmo escanea la fila superior de coordenadas y de cada poli (formas poligonales que componen el modelo en el modelado poligonal) de un objeto 3D. Además, la información digital (color, textura, efectos) se lee de cada poli y se convierte en una imagen 2D.
+
+Por lo tanto, los vértices poli se ordenan, durante los cuales las esquinas superiores forman el renderizado, y el resto complementa la imagen a medida que aumenta y se recalcula cada eje de coordenadas siguiente. Este proceso se lleva a cabo en tiempo real, reduciendo así el tiempo de descarga del render digital.
+
+Pros:
+
+Requisitos de almacenamiento óptimos
+Proceso eficiente en el tiempo
+Disponibilidad de las herramientas necesarias en software estándar
+Contras:
+
+El algoritmo es difícil de personalizar
+Z-Buffer
+
+Z-Buffer es un sistema de datos bidimensional utilizado para calcular, optimizar y almacenar el valor de profundidad de cada píxel. Por ejemplo, al crear un renderizado, el algoritmo convierte el objeto 3D en una imagen píxel por píxel, utilizando primero los píxeles más cercanos a la cámara. En este caso, el valor de la distancia del píxel se almacena en una celda Z-Buffer.
+
+El propósito principal de esta técnica es transmitir información sobre la distancia de varios objetos renderizados entre sí y con la cámara / espectador. Z-Buffer se utiliza a menudo junto con el efecto de profundidad de campo (DoF) que se encuentra en la barra de herramientas de muchos programas como 3DS Max. Esta función crea el desenfoque natural del fondo del objeto y agudiza el objeto renderizado en sí.
+
+Pros:
+
+Algoritmo de ordenación
+Software amigable para desarrolladores
+Proceso eficiente en el tiempo
+Efectos naturales de alta calidad
+Contras:
+
+Se necesita mucho espacio de almacenamiento
+Sombreado e iluminación
+
+El proceso de sombreado manipula los niveles de luz y oscuridad utilizando efectos de software. De esta manera, el artista de renderizado agrega un efecto natural y hace que los objetos parezcan más voluminosos. Por ejemplo, el sombreado plano puede agudizar las esquinas de un objeto. También puede utilizar el fundido para crear una transición sutil entre los píxeles y polígonos de una forma.
+
+La iluminación realiza la misma función que el sombreado: hace que la escena sea más natural y voluminosa. Por ejemplo, puede usar luz artificial o diurna, dependiendo de la configuración de un renderizado. Puede agregar efectos de iluminación volumétrica, como la forma en que los rayos del sol se filtran a través de una ventana o se dividen con el tipo de iluminación volumétrica. Otro método es la refracción, que permite que los rayos de luz se doblen en superficies translúcidas.
+
+Pros:
+
+Efectos naturales de alta calidad
+Alto nivel de detalles
+El volumen realista de un objeto
+Contras:
+
+Fuertes requisitos técnicos
+Mapeo de texturas/protuberancias
+
+La textura es la capa superior de un modelo 3D, que muestra información sobre el color, el material y los detalles del objeto. Normalmente, una textura tiene varias capas y envuelve un modelo como papel de regalo. Durante la representación, la información sobre las texturas 3D se convierte en una imagen plana. Esto requiere la técnica de mapeo de texturas: transformar los vectores del modelo 3D y su textura en píxeles mediante el desempaquetado de un modelo.
+
+El mapeo de baches es similar al mapeo de texturas en su principio; solo el primero es responsable de renderizar el relieve 3D. Esto significa que en una imagen 2D, varias protuberancias deben verse tridimensionales. El mapeo de baches no es solo una imitación de golpes, sino también la transferencia de detalles relacionados. Por ejemplo, si está renderizando una imagen de rocas o paisajes, debe transferir no solo el relieve sino también grietas, acantilados, etc.
+
+Pros:
+
+Se puede renderizar en motores estándar
+Hace que un objeto parezca fotorrealista
+Permite utilizar menos polígonos en el modelado
+Contras:
+
+Puede ser menos realista al acercar
+Trazado de rayos y fundición de rayos
+
+Una técnica para trabajar con iluminación y una técnica de renderizado útil es el trazado de rayos. Con él, puede configurar un efecto de iluminación muy natural que imita cómo funciona la iluminación natural. Por ejemplo, este método ajusta la luz basándose en el principio de difusión (refracción de un haz de luz) y reflexión, y también utiliza efectos como sombras suaves. Por lo general, este método se aplica con fines comerciales como publicidad y presentación de productos.
+
+Pros:
+
+Logro del realismo
+Posibilidad de almacenar en discos
+Maneja bien la iluminación especular
+Contras:
+
+Algoritmo complejo
+Consume mucho tiempo
+El trazado de rayos rara vez se usa en el renderizado en tiempo real en lugar de la fundición de rayos. La fundición de rayos es el segundo método de simulación de luz natural, generalmente considerado más fácil de lograr. Por lo tanto, la escena se representa con intersección de rayos. En este caso, los artistas no utilizan la refracción de la luz y otros efectos naturales. Este método lleva menos tiempo, pero el resultado es menos natural.
+
+Pros:
+
+Aplicable a superficies planas
+Carga de hardware más ligera
+Más eficaz en el tiempo
+Contras:
+
+Menor calidad y nivel de detalle
+Radiosidad
+
+La radiosidad es un método de renderizado que utiliza iluminación que proviene no solo de la fuente de luz, sino también de los objetos en la escena que reflejan la luz. Usando el algoritmo de radiosidad, la emisión de luz se calcula de modo que los rayos de luz de sus fuentes se dispersan sobre los objetos renderizados y, al colisionar con su superficie, se rompen en partículas más pequeñas, extendiendo así la luz por toda la escena. Por lo tanto, el render se ve muy fotorrealista.
+
+Pros:
+
+Más preciso físicamente
+La superficie de cada objeto está cubierta
+Efectos de luz realistas
+Permite la interreflexión difusa
+Contras:
+
+Difícil de visualizar
+
 
