@@ -4,13 +4,14 @@
    - Propósito de los requerimientos.
 	   - estos requerimientos buscan dar una mejor explicación acerca de las necesidades identificadas gerencia de proyectos.
    - Audiencia a la que va dirigido.
-	- La aplicación busca solventar sobre todo necesidades a nivel gerencial con la intención de acelerar procesos
+	- La aplicación busca solventar sobre todo necesidades a nivel gerencial con la intención de acelerar procesos de aprobación de proyectos y solicitudes
 ## 2. Visión General del Proyecto
    - Descripción general del proyecto.
    - Contexto y alcance del sistema o producto.
 
 ## 3. Requerimientos Funcionales
    - Funcionalidades específicas del sistema/producto.
+	   - el sistema busca automatizar el proceso de su humillado de un correo electrónico el cual cuenta con las fases de realización de un screenshot del correo electrónico escritura de aprobado la firma o
    - Descripción detallada de cada requisito funcional.
 
 ## 4. Requerimientos No Funcionales
