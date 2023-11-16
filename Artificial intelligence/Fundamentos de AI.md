@@ -97,3 +97,5 @@ Las máquinas aprender conceptos específicos por medio de datos reelevantes, pe
 Las máquinas no van a reemplazar a los humanos, pero si pueden reemplazar actividades aparentemente simples.
 ### No se crean por accidente.
 Para la creación de la 
+
+
