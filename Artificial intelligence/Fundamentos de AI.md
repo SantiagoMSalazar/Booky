@@ -99,3 +99,4 @@ Las máquinas no van a reemplazar a los humanos, pero si pueden reemplazar activ
 Para la creación de la 
 
 
+$$\sum_{i=\infty}$$
