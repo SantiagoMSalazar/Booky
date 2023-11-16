@@ -11,7 +11,7 @@
 
 ## 3. Requerimientos Funcionales
    - Funcionalidades específicas del sistema/producto.
-	   - el sistema busca automatizar el proceso de su humillado de un correo electrónico el cual cuenta con las fases de realización de un screenshot del correo electrónico escritura de aprobado la firma o
+	   - el sistema busca automatizar el proceso de su humillado de un correo electrónico el cual cuenta con las fases de realización de un screenshot del correo electrónico escritura de aprobado la firma o sumilla y el envío mediante el aplicativo de WhatsApp a una secretaria
    - Descripción detallada de cada requisito funcional.
 
 ## 4. Requerimientos No Funcionales
