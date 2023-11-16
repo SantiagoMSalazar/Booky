@@ -2,7 +2,7 @@
    - Objetivo del manual
 	   - Identificar los requerimientos necesarios para cumplir con el servicio de sumillado para usuarios que necesitan enviar el servicio a un auxiliar.
    - Propósito de los requerimientos.
-	   - estos requerimientos buscan dar una mejor explicación acerca de los
+	   - estos requerimientos buscan dar una mejor explicación acerca de las necesidades identificadas
    - Audiencia a la que va dirigido.
 
 ## 2. Visión General del Proyecto
