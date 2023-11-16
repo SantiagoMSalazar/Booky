@@ -1,10 +1,6 @@
-Claro, aquí tienes la estructura del manual de requerimientos en formato Markdown:
-
-```markdown
-# Manual de Requerimientos
-
 ## 1. Introducción
-   - Objetivo del manual.
+   - Objetivo del manual
+	   - Identificar los requerimientos necesarios para cumplir con el servicio de 
    - Propósito de los requerimientos.
    - Audiencia a la que va dirigido.
 
