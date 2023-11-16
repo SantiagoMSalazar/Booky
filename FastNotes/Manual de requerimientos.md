@@ -2,9 +2,9 @@
    - Objetivo del manual
 	   - Identificar los requerimientos necesarios para cumplir con el servicio de sumillado para usuarios que necesitan enviar el servicio a un auxiliar.
    - Propósito de los requerimientos.
-	   - estos requerimientos buscan dar una mejor explicación acerca de las necesidades identificadas
+	   - estos requerimientos buscan dar una mejor explicación acerca de las necesidades identificadas gerencia de proyectos.
    - Audiencia a la que va dirigido.
-
+	- La aplicación busca solventar sobre todo necesidades a nivel gerencial con la intención de acelerar procesos
 ## 2. Visión General del Proyecto
    - Descripción general del proyecto.
    - Contexto y alcance del sistema o producto.
