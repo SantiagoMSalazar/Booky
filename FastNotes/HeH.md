@@ -1,1 +1,2 @@
-Empezar
+- [ ] en qué bloques hay que poner tomas reguladas
+- [ ] 
