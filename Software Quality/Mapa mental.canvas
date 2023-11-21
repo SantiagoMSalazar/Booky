@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"bb4763011994495d","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"Evoluci[on de]"}
+		{"id":"bb4763011994495d","x":-140,"y":-100,"width":250,"height":60,"type":"text","text":"Evoluci[on de la calidad del software]"}
 	],
 	"edges":[]
 }
