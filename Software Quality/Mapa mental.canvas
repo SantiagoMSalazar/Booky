@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"bb4763011994495d","x":-200,"y":0,"width":250,"height":50,"type":"text","text":"Evolución de la calidad de software"},
-		{"id":"fea448905c54f0ec","x":-460,"y":-5,"width":146,"height":60,"type":"text","text":"1840-1950"},
-		{"id":"3dfbbe391ccd7543","x":140,"y":-5,"width":140,"height":60,"type":"text","text":"1971-2000"},
+		{"id":"bb4763011994495d","x":-200,"y":0,"width":250,"height":50,"color":"4","type":"text","text":"Evolución de la calidad de software"},
+		{"id":"fea448905c54f0ec","x":-460,"y":-5,"width":146,"height":60,"color":"3","type":"text","text":"1840-1950"},
+		{"id":"3dfbbe391ccd7543","x":140,"y":-5,"width":140,"height":60,"color":"3","type":"text","text":"1971-2000"},
 		{"id":"a62b9ec59900004c","x":-145,"y":160,"width":140,"height":60,"type":"text","text":"2001-2020"},
-		{"id":"fd442fb1bd34a9e9","x":-137,"y":-160,"width":125,"height":60,"type":"text","text":"1951-1970"}
+		{"id":"fd442fb1bd34a9e9","x":-137,"y":-160,"width":125,"height":60,"color":"3","type":"text","text":"1951-1970"}
 	],
 	"edges":[
 		{"id":"b044b60c1754c434","fromNode":"bb4763011994495d","fromSide":"right","toNode":"3dfbbe391ccd7543","toSide":"left"},
