@@ -22,7 +22,8 @@
 		{"id":"d50603eccb57946b","x":574,"y":680,"width":201,"height":85,"type":"text","text":"# Thomas J. McCabe"},
 		{"id":"73dd4cf79f98e796","x":574,"y":900,"width":201,"height":80,"type":"text","text":"# Glenford Myers"},
 		{"id":"df4a2f4b119b2dc3","x":574,"y":1061,"width":201,"height":99,"type":"text","text":"# William C. Howden"},
-		{"id":"6f63c211353fd525","x":574,"y":1246,"width":201,"height":94,"type":"text","text":"# James Martin"}
+		{"id":"6f63c211353fd525","x":574,"y":1246,"width":201,"height":94,"type":"text","text":"# James Martin"},
+		{"id":"b92fc3d71ba77463","x":574,"y":1408,"width":201,"height":92,"type":"text","text":"# Paul E. Rook"}
 	],
 	"edges":[
 		{"id":"b044b60c1754c434","fromNode":"bb4763011994495d","fromSide":"right","toNode":"3dfbbe391ccd7543","toSide":"left","color":"3"},
@@ -46,6 +47,7 @@
 		{"id":"46950eeb8fe345d3","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"d50603eccb57946b","toSide":"left"},
 		{"id":"860f6144e4b6260b","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"73dd4cf79f98e796","toSide":"left"},
 		{"id":"ea438f0359de9fd8","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"df4a2f4b119b2dc3","toSide":"left"},
-		{"id":"208fdc4d1127715c","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"6f63c211353fd525","toSide":"left"}
+		{"id":"208fdc4d1127715c","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"6f63c211353fd525","toSide":"left"},
+		{"id":"5739405b37533082","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"b92fc3d71ba77463","toSide":"left"}
 	]
 }
