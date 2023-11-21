@@ -5,14 +5,17 @@
 		{"id":"3dfbbe391ccd7543","x":140,"y":-5,"width":140,"height":60,"color":"3","type":"text","text":"1971-2000"},
 		{"id":"a62b9ec59900004c","x":-145,"y":160,"width":140,"height":60,"color":"3","type":"text","text":"2001-2020"},
 		{"id":"fd442fb1bd34a9e9","x":-137,"y":-160,"width":125,"height":60,"color":"3","type":"text","text":"1951-1970"},
-		{"id":"85e482897da5a90c","x":443,"y":-213,"width":137,"height":60,"type":"text","text":"Ada Lovelace"},
-		{"id":"5d2bdd379f0834a1","type":"text","text":"Alan Turing","x":443,"y":100,"width":137,"height":60}
+		{"id":"5d2bdd379f0834a1","type":"text","text":"Alan Turing","x":443,"y":130,"width":137,"height":60},
+		{"id":"85e482897da5a90c","x":443,"y":-160,"width":137,"height":60,"type":"text","text":"Ada Lovelace"},
+		{"id":"f757f4ff50e18231","x":688,"y":-164,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b044b60c1754c434","fromNode":"bb4763011994495d","fromSide":"right","toNode":"3dfbbe391ccd7543","toSide":"left","color":"3"},
 		{"id":"022d57392e65da97","fromNode":"bb4763011994495d","fromSide":"top","toNode":"fd442fb1bd34a9e9","toSide":"bottom","color":"3"},
 		{"id":"10563e46e86d0ac5","fromNode":"bb4763011994495d","fromSide":"left","toNode":"fea448905c54f0ec","toSide":"right","color":"3"},
 		{"id":"286f307ff46c4698","fromNode":"bb4763011994495d","fromSide":"bottom","toNode":"a62b9ec59900004c","toSide":"top","color":"3"},
-		{"id":"943d92813ecc98ac","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"85e482897da5a90c","toSide":"left"}
+		{"id":"943d92813ecc98ac","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"85e482897da5a90c","toSide":"left"},
+		{"id":"5bf61c930c28debd","fromNode":"3dfbbe391ccd7543","fromSide":"right","toNode":"5d2bdd379f0834a1","toSide":"left"},
+		{"id":"59fdeba42e5e93e2","fromNode":"85e482897da5a90c","fromSide":"right","toNode":"f757f4ff50e18231","toSide":"left"}
 	]
 }
