@@ -27,3 +27,10 @@ hsdfg bkeedjg;lsdjlg ssdlk gldfg dafg
 ```javascript
 console.log(@sadasdasdasd "asdasdasdasd"+asdasdasd)
 ```
+
+das
+da
+d
+a
+sd
+asdasd asd asd
