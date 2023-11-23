@@ -25,5 +25,5 @@ hsdfg bkeedjg;lsdjlg ssdlk gldfg dafg
 '''dfgda 
 
 ```javascript
-console.log(@sadasdasdasd)
+console.log(@sadasdasdasd "asdasdasdasd"+asdasdasd)
 ```
