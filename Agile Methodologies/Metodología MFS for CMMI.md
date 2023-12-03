@@ -10,6 +10,7 @@
 	2. Lead Developer
 	3. Development Manager
 	4. ==Build Engineer==
+		- 
 - **Test**
 	1. Tester
 	2. Test Manager
@@ -22,7 +23,7 @@
 		- Se centra en la redacción técnica centrada en el consumidor, *refuerza o mejora el valor del producto y ayuda a hacer realidad la visión del producto*.
 		- Trabaja en los manuales de productos, ayuda en línea, manuales de operaciones, manuales de mantenimiento, manuales de capacitación y cualquier otra documentación que pueda servir para dar valor agregado al producto.
 		- Trabaja estrechamente con el arquitecto de experiencia de usuario.
-		- Si hay mucha documentación, 
+		- Si hay mucha documentación, la experiencia de usuario es deficiente.
 - **Product Management**
 	1. Product Manager
 	2. Auditor
