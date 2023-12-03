@@ -8,4 +8,10 @@ Roles
 7. Development Manager
 8. Build Engineer
 9. Tester
-10. 
+10. Test Manager
+11. Release Manager
+12. User Experience Architect
+13. User Education Specialist
+14. Product Manager
+15. Auditor
+16. 
