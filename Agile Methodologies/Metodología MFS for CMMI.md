@@ -14,4 +14,6 @@ Roles
 13. User Education Specialist
 14. Product Manager
 15. Auditor
-16. 
+16. Subject Matter Expert
+17. Sponsor
+18. Bussines 
