@@ -39,9 +39,11 @@
 - Propone tecnologías o herramientas para construcción e integración de la aplicación polibooks.
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
-- Ayuda a definir l
+- Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 
 ## Desarrollo - Developing
+- configura los diseños de los scripts para automatizar
+- 
 ## Estabilización - Stabilizing
 
 ## Despliegue - Deploying
