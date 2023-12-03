@@ -17,7 +17,7 @@ Roles
 	1. Release Manager
 - **User Experience**
 	1. User Experience Architect
-	2. User Education Specialist
+	2. ==User Education Specialist==
 - **Product Management**
 	1. Product Manager
 	2. Auditor
