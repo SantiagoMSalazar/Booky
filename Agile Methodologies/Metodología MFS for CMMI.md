@@ -18,7 +18,8 @@
 - **User Experience**
 	1. User Experience Architect
 	2. ==User Education Specialist==
-		- Es un redactor técnico que aboga por la experiencia de usuario
+		- Es un redactor técnico que aboga por la experiencia de usuario.
+		- Se centra en la redacción técnica centrada en el cosumidor, *refuerza o mejora el valor del producto y ayuda a hacer realidad la visión del producto*
 - **Product Management**
 	1. Product Manager
 	2. Auditor
