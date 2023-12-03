@@ -10,7 +10,7 @@
 	2. Lead Developer
 	3. Development Manager
 	4. ==Build Engineer==
-		- 
+		- Es un roll especializado que se centra en 
 - **Test**
 	1. Tester
 	2. Test Manager
