@@ -11,7 +11,8 @@
 	3. Development Manager
 	4. ==Build Engineer==
 		- Es un roll especializado que se centra en facilitar la integración y compilación del código fuente.
-		- Aboga por el desarrollo en el modelo de equi
+		- Aboga por el desarrollo en el modelo de equipo de MSF.
+		- Ejecuta la compilación, desarrollo scripts para automatizar el proceso de compilación y automatiza la generación de informes.
 - **Test**
 	1. Tester
 	2. Test Manager
