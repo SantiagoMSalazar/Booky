@@ -55,6 +55,8 @@
 - Facilita crear paquetes de despliegue en ambientes de producción.
 - Monitorea que no existan problemas de compilación durante el despliegue.
 ## Operación - Operating
+- Da mantenimiento a los ambientes de compilación del código.
+- Se encarga de gestionar y actualizar las 
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
