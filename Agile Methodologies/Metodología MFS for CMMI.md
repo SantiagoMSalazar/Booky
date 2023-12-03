@@ -10,7 +10,8 @@
 	2. Lead Developer
 	3. Development Manager
 	4. ==Build Engineer==
-		- Es un roll especializado que se centra en 
+		- Es un roll especializado que se centra en facilitar la integración y compilación del código fuente.
+		- Aboga por el desarrollo en el modelo de equi
 - **Test**
 	1. Tester
 	2. Test Manager
