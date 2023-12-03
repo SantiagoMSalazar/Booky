@@ -21,6 +21,6 @@ Roles
 - **Product Management**
 	1. Product Manager
 	2. Auditor
-1. Subject Matter Expert
-2. Sponsor
-3. Business Analyst
+	3. Subject Matter Expert
+	4. Sponsor
+	5. Business Analyst
