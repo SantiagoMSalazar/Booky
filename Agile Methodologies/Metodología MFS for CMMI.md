@@ -24,9 +24,4 @@
 	3. Subject Matter Expert
 	4. Sponsor
 	5. Business Analyst
-	6. 
-
-| Columna Izquierda | Columna Derecha | Columna Centro |
-|:-----------------|----------------:|:--------------:|
-| Alineado a izq.   | Alineado a der. |   Alineado     |
 
