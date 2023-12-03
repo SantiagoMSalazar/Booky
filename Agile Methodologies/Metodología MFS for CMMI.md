@@ -21,7 +21,8 @@
 		- Es un redactor técnico que aboga por la experiencia de usuario.
 		- Se centra en la redacción técnica centrada en el consumidor, *refuerza o mejora el valor del producto y ayuda a hacer realidad la visión del producto*.
 		- Trabaja en los manuales de productos, ayuda en línea, manuales de operaciones, manuales de mantenimiento, manuales de capacitación y cualquier otra documentación que pueda servir para dar valor agregado al producto.
-		- trabaja estrechamente con el arquitecto de experiencia de usuario.
+		- Trabaja estrechamente con el arquitecto de experiencia de usuario.
+		- Si hay mucha documentación, 
 - **Product Management**
 	1. Product Manager
 	2. Auditor
