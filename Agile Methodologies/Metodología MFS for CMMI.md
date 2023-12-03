@@ -18,7 +18,7 @@
 - **User Experience**
 	1. User Experience Architect
 	2. ==User Education Specialist==
-		- Es un 
+		- Es un redactor técnico que aboga por la experiencia de usuario
 - **Product Management**
 	1. Product Manager
 	2. Auditor
