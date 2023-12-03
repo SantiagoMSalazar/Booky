@@ -34,3 +34,4 @@
 	5. Business Analyst
 
 # Fases
+## Estratégia y Alcance
