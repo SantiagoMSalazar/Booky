@@ -44,8 +44,9 @@
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
 - Soluciona los problemas relacionados la compilación.
-- trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilaci
+- trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 ## Estabilización - Stabilizing
+- implementa los procesos de integración continua para facilitar la automatización de las pruebas 
 
 ## Despliegue - Deploying
 
