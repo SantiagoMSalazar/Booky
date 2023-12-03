@@ -34,13 +34,13 @@
 	5. Business Analyst
 
 # Fases
-## Estrategia y Alcance
+## Estrategia y Alcance - Envisioning
 
-## Planificación y Prueba de concepto
+## Planificación y Prueba de concepto - Planning
 
-## Estabilización
+## Estabilización - Stabilizing
 
-## Despliegue
+## Despliegue - Deploying
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
