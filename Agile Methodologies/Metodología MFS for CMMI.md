@@ -35,7 +35,8 @@
 
 # Fases
 ## Estrategia y Alcance - Envisioning
-
+- Ayuda al equipo a comprender los requisitos para la compilación y despliegue de la aplicación polibooks
+- 
 ## Planificación y Prueba de concepto - Planning
 
 ## Desarrollo - Developing
