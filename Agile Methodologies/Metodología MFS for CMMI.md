@@ -41,3 +41,7 @@
 ## Estabilización
 
 ## Despliegue
+
+# CLICOS E ITERACIONES
+1. Project Setup Plan
+2. Plan Develop &
