@@ -34,4 +34,10 @@
 	5. Business Analyst
 
 # Fases
-## Estratégia y Alcance
+## Estrategia y Alcance
+
+## Planificación y Pueba de concepto
+
+## Estabilización
+
+## Despliegue
