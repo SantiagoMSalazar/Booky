@@ -52,7 +52,8 @@
 
 ## Despliegue - Deploying
 - Ayuda a implementar procesos de despliegue automatizado.
-- Facilita crear paquetes de desplie
+- Facilita crear paquetes de despliegue en ambientes de producción.
+- Monitorea que no existan problemas de compilación durante el despliegue.
 ## Operación - Operating
 
 # CICLOS E ITERACIONES
