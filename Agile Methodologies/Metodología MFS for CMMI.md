@@ -48,10 +48,11 @@
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
 - Garantiza de los scripts de automatización de las compilaciones sean estables
-- Asegura que la versión candidata para el despliegue sea de calidad y pueda desevo
+- Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 
 ## Despliegue - Deploying
-
+- Ayuda a implementar procesos de despliegue automatizado.
+- Facilita crear paquetes de desplie
 ## Operación - Operating
 
 # CICLOS E ITERACIONES
