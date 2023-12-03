@@ -38,9 +38,12 @@
 
 ## Planificación y Prueba de concepto - Planning
 
+## Desarrollo - Developing
 ## Estabilización - Stabilizing
 
 ## Despliegue - Deploying
+
+## Operación - Operating
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
