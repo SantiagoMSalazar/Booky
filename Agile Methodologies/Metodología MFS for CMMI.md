@@ -36,7 +36,7 @@
 # Fases
 ## Estrategia y Alcance
 
-## Planificación y Pueba de concepto
+## Planificación y Prueba de concepto
 
 ## Estabilización
 
