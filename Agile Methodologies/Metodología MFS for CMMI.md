@@ -35,6 +35,7 @@
 
 # Fases
 ## Estrategia y Alcance - Envisioning
+###
 - Ayuda al equipo a comprender los requisitos para la compilación y despliegue de la aplicación polibooks
 - Propone tecnologías o herramientas para construcción e integración de la aplicación polibooks.
 ## Planificación y Prueba de concepto - Planning
@@ -56,7 +57,8 @@
 - Monitorea que no existan problemas de compilación durante el despliegue.
 ## Operación - Operating
 - Da mantenimiento a los ambientes de compilación del código.
-- Se encarga de gestionar y actualizar las 
+- Se encarga de gestionar y actualizar las herramientas de construction.
+- Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
