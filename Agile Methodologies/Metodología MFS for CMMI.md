@@ -45,4 +45,5 @@
 # CLICOS E ITERACIONES
 1. Project Setup Plan
 2. Plan Develop & Test feedback
-3. Plan Develop y test feedback
+3. Plan Develop & Test feedback
+4. Develop & Release Product
