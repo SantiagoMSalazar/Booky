@@ -47,7 +47,8 @@
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
-- Garantiza de los script 
+- Garantiza de los scripts de automatización de las compilaciones sean estables
+- Asegura que la versión candidata para el despliegue sea de calidad y pueda desevo
 
 ## Despliegue - Deploying
 
