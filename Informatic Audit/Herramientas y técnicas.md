@@ -9,4 +9,5 @@ Como auditores tenemos la responsabilidad.
 - Muestreo estadístico para extrapolar a todo el universo de datos.
 ## Normativas 2126 y 771 de la super de bancos
 # CONTROLES INTERNOS
-Los controles son 
+**Los controles son una respuesta para mitigar los riesgos**
+Riesgos $\rightarrow$ posibilidad que s
