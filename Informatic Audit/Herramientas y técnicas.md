@@ -57,5 +57,7 @@ Procedimientos adicionales de control de SI
 - Planificar el desarrollo de una pre auditoría
 - Determinar procesos.
 ## Fase de trabajo de campo
+- Obtener los datos
+- Probar los controles
 - 
 ## Fase de reporte
