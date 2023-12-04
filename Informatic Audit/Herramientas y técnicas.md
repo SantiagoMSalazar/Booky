@@ -14,4 +14,6 @@ Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 - Las empresas tienen una serie de políticas para reducir los riesgos
 - LAs empresas tienen una filosofía organizacional para minimizar riesgos
 ## Clasificación de controles
-
+### Preventivo
+- **funciones**
+	- D
