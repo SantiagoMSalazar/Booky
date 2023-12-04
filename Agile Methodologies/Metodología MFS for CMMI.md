@@ -47,7 +47,8 @@
 	- Github para trabajar en conjunto
 	- VSCode para desarrollo
 ### User Education Specialist
-
+- Ayuda a documentar los requisitos de formación para los usuarios finales.
+- Analiza las habilidades del usuario final y los requisitos para preparar un plan de formación y capacitación.
 ## Planificación y Prueba de concepto - Planning
 ### Build Engineer
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
@@ -56,8 +57,7 @@
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 ### User Education Specialist
-- Ayuda a documentar los requisitos de formación para los usuarios finales.
-- Analiza las habilidades del usuario fina
+- 
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
