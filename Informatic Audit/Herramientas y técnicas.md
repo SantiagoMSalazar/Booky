@@ -16,4 +16,6 @@ Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 ## Clasificación de controles
 ### Preventivo
 - **funciones**
-	- D
+	- Detectar problemas
+	- Monitoriear operación y entradas
+- 
