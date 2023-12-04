@@ -62,7 +62,7 @@
 - Plantea los objetivos del aprendizaje y diseña un posible plan de formación
 	- Se prepara una capacitación donde el usuario cree su cuenta y aprenda a publicar y a comprar libros.
 - Calendariza las entregas del material de formación.
-	- Los tiempos tentativos son 
+	- Los tiempos tentativos son en sincronía con la presentación del entregable de la iteraci´n.
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
