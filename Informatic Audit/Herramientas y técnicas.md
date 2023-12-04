@@ -50,6 +50,7 @@ Procedimientos adicionales de control de SI
 - Controles de acceso físco
 - Planificación de continuidad del negocio **DRP**
 # PROCESO DE AUDITORÍA
+![[Pasted image 20231204185503.png]]
 ## Fase de planificación
 - Determinar la materia de auditoría.
 - Definir el objetivo de la auditoría
