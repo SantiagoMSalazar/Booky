@@ -44,6 +44,7 @@
 	- selección de la vesión de react.
 	- git para las versiones y ramas de trabajo
 	- Github para trabajar en conjunto
+	- VSCode para desarrollo
 	- 
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
