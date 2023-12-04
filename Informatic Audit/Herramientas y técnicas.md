@@ -18,4 +18,8 @@ Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 - **funciones**
 	- Detectar problemas
 	- Monitoriear operación y entradas
-- 
+## Detectivo
+
+## Correctivo
+
+Objetivos de control de SI
