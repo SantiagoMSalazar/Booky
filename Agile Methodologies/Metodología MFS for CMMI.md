@@ -58,7 +58,7 @@
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 ### User Education Specialist
 - Plantea los objetivos del aprendizaje y diseña un posible plan de formación
-- 
+- Calendariza las entregas del material de formación.
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
@@ -69,7 +69,8 @@
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ### User Education Specialist
-
+- Desarrolla las guías multimedia y los manuales para el usuario.
+- 
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
