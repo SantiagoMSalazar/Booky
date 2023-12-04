@@ -70,7 +70,7 @@
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ### User Education Specialist
 - Desarrolla las guías multimedia y los manuales para el usuario.
-- Ofrece un feedback basado en las opiniones de los usuarios.
+- Crea cursos en distintas modalidades según las necesidades del usaurio.
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
@@ -81,7 +81,7 @@
 	- Se actualiza e integra toda la rama main.
 ### User Education Specialist
 - Realiza pruebas piloto con un grupo de usuarios.
-- 
+- Ofrece un feedback basado en las opiniones de los usuarios.
 ## Despliegue - Deploying
 ### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
@@ -91,7 +91,7 @@
 - Monitorea que no existan problemas de compilación durante el despliegue.
 	- Se revisa tanto el Azure como el Vercel.
 ### User Education Specialist
-
+- 
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
