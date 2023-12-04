@@ -63,8 +63,9 @@
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
-	- Se trabaja en la automatización del docker 
+	- Se trabaja en la automatización del docker para iniciar los servicios, y se controla las versiones para que no haya problemas de integración.
 - Garantiza de los scripts de automatización de las compilaciones sean estables
+	- Se probó que el script en docker funcione y a
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 
 ## Despliegue - Deploying
