@@ -32,4 +32,10 @@ Pueden incluir
 - Autenticación de usuarios.
 ### Controles generales de la empresa.
 - Controles internos de contabilidad
-- Controles 
+- Controles operativos
+- Controles administrativos
+- Políticas y procedimiento de seguridad
+- Políticas generales para el diseño y uso de documentos
+- Procedimientos de acceso
+- Políticas de seguridad física
+### Controles 
