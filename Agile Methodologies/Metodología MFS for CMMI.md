@@ -55,8 +55,9 @@
 
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
-	- Se construyó los scripts para integrar correctamente el puerto en el cual 
+	- Se construyó los scripts para integrar correctamente el puerto en el cual estaban corriendo el node y el servidor de react además de la configuración para enlazarse a la base de datos de firebase.
 - Soluciona los problemas relacionados la compilación.
+	- Se revisa 
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
