@@ -48,7 +48,8 @@
 	- VSCode para desarrollo
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
-	- Se propuso ocupar 
+	- Se propuso ocupar scripts para automatizar el proceso de integración con la base de datos de firebase.
+	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 
 ## Desarrollo - Developing
