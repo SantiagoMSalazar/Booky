@@ -45,7 +45,6 @@
 	- git para las versiones y ramas de trabajo
 	- Github para trabajar en conjunto
 	- VSCode para desarrollo
-	- 
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
