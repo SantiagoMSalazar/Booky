@@ -115,9 +115,8 @@
 - Monitorea la efectividad de los programas de formación.
 	- Se atiende las preguntas de las personas que usan la página para vender sus libros.
 - Rediseña los programas para mejorar la comprensión por parte del usuario final.
-	- Se publican nuevos videos donde se los hace más llamativos y envo
+	- Se publican nuevos videos donde se los hace más llamativos y envolventes para la publicación y compra de los libros.
 # CICLOS E ITERACIONES
 1. Project Setup Plan
-2. Plan Develop & Test feedback
 3. Plan Develop & Test feedback
 4. Develop & Release Product
