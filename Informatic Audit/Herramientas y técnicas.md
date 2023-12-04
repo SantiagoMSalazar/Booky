@@ -43,3 +43,6 @@ Pueden incluir
 - Organización general y gestión de funciones de TI
 - Acceso a los recursos de TI
 - Metodologías de desarrollo de sistemas y control de cambios.
+Procedimientos adicionales de control de SI
+- Procedimientos de operación
+- 
