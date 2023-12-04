@@ -47,6 +47,7 @@
 	- Github para trabajar en conjunto
 	- VSCode para desarrollo
 ### User Education Specialist
+
 ## Planificación y Prueba de concepto - Planning
 ### Build Engineer
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
@@ -54,6 +55,7 @@
 	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores de front y back.
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
+### User Education Specialist
 
 ## Desarrollo - Developing
 ### Build Engineer
@@ -64,6 +66,8 @@
 	- Se revisa cada rama para integrase correctamente e incluso se corrigen los problemas de versionado en el git.
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
+### User Education Specialist
+
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
@@ -72,6 +76,8 @@
 	- Se probó que el script en docker funcione y automatice correctamente.
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 	- Se actualiza e integra toda la rama main.
+### User Education Specialist
+
 ## Despliegue - Deploying
 ### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
@@ -79,7 +85,9 @@
 - Facilita crear paquetes de despliegue en ambientes de producción.
 	- Se trabaja en el Azure para poder integrar los resultados del back y se revisa el vercel para el front.
 - Monitorea que no existan problemas de compilación durante el despliegue.
-	- Se revisa tanto el Azure como el Vercel-
+	- Se revisa tanto el Azure como el Vercel.
+### User Education Specialist
+
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
@@ -88,6 +96,7 @@
 	- Se publica la imagen en docker hub, se fusionan ramas y se crean nuevas para el git.
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
 	- Se atiende los problemas de los desarrolladores en cuanto a la compilación en el node o en cuanto al react.
+### User Education Specialist
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
