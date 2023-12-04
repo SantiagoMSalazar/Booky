@@ -60,7 +60,9 @@
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 ### User Education Specialist
 - Plantea los objetivos del aprendizaje y diseña un posible plan de formación
+	- Se prepara una capacitación donde el usuario cree su cuenta y aprenda a publicar y a comprar libros.
 - Calendariza las entregas del material de formación.
+	- Los tiempos tentativos son 
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
