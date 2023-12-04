@@ -70,8 +70,9 @@
 	- Se actualiza e integra toda la rama main.
 ## Despliegue - Deploying
 - Ayuda a implementar procesos de despliegue automatizado.
-	- Se busca 
+	- Se busca preparar el entorno en azure para que se integre de forma similar al ambiente de desarrollo.
 - Facilita crear paquetes de despliegue en ambientes de producción.
+	- Se trabaja en el Azure para poder integrar los resultados del back y se revisa el vercel para el front.
 - Monitorea que no existan problemas de compilación durante el despliegue.
 ## Operación - Operating
 - Da mantenimiento a los ambientes de compilación del código.
