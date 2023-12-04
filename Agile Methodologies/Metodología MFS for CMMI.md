@@ -92,7 +92,7 @@
 	- Se revisa tanto el Azure como el Vercel.
 ### User Education Specialist
 - Implementa los programas de formación a los usuarios finales.
-- Brinda asistencia e
+- Brinda asistencia en la fase inicial en cuanto a las soluciones implementables.
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
@@ -102,7 +102,8 @@
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
 	- Se atiende los problemas de los desarrolladores en cuanto a la compilación en el node o en cuanto al react.
 ### User Education Specialist
-
+- Monitorea la efectividad de los programas de formación
+- Rediseña los programas en mejora
 # CICLOS E ITERACIONES
 1. Project Setup Plan
 2. Plan Develop & Test feedback
