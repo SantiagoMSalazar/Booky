@@ -48,8 +48,9 @@
 	- VSCode para desarrollo
 ### User Education Specialist
 - Ayuda a documentar los requisitos de formación para los usuarios finales.
-	- Se 
+	- Se realiza encuestas sobre lo que la gente necesita para vender sus libros dentro de la poli.
 - Analiza las habilidades del usuario final y los requisitos para preparar un plan de formación y capacitación.
+	- Se identifica que whatsapp es la herramienta más usada apra vender los libros de inglés y las publicaciones en la
 ## Planificación y Prueba de concepto - Planning
 ### Build Engineer
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
