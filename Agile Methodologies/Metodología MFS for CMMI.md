@@ -74,8 +74,10 @@
 - Facilita crear paquetes de despliegue en ambientes de producción.
 	- Se trabaja en el Azure para poder integrar los resultados del back y se revisa el vercel para el front.
 - Monitorea que no existan problemas de compilación durante el despliegue.
+	- Se revisa tanto el Azure como el Vercel-
 ## Operación - Operating
 - Da mantenimiento a los ambientes de compilación del código.
+	- Se actualiza las imágenes de docker corrigiendo errores o actualizando a las versiones acordadas.
 - Se encarga de gestionar y actualizar las herramientas de construction.
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
 
