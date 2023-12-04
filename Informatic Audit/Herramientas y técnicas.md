@@ -18,9 +18,9 @@ Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 - **funciones**
 	- Detectar problemas
 	- Monitoriear operación y entradas
-## Detectivo
+### Detectivo
 
-## Correctivo
+### Correctivo
 
 ## Objetivos de control de SI
 Pueden incluir
@@ -28,4 +28,6 @@ Pueden incluir
 - Ciclo de vida del desarrollo de software.
 - Integridad de los ambientes en sistemas de aplicación sensibles
 - **Formal $\rightarrow$ Documentado y aprobado**
-- 
+- Eficiencia y efectividad de las operaciones
+- Autenticación de usuarios.
+### Controles generales de la empresa.
