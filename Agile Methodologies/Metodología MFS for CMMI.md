@@ -70,7 +70,7 @@
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ### User Education Specialist
 - Desarrolla las guías multimedia y los manuales para el usuario.
-- 
+- Ofrece un feedback basado en las opiniones de los usuarios.
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
