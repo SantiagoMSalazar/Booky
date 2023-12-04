@@ -10,4 +10,7 @@ Como auditores tenemos la responsabilidad.
 ## Normativas 2126 y 771 de la super de bancos
 # CONTROLES INTERNOS
 **Los controles son una respuesta para mitigar los riesgos**
-Riesgos $\rightarrow$ posibilidad que s
+Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
+- Las empresas tienen una serie de políticas para reducir los riesgos
+- LAs empresas tienen una filosofía organizacional para minimizar riesgos
+## Qué de
