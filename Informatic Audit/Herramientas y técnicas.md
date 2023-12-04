@@ -51,7 +51,10 @@ Procedimientos adicionales de control de SI
 - Planificación de continuidad del negocio **DRP**
 # PROCESO DE AUDITORÍA
 ## Fase de planificación
-### Determinar la materia de auditoría
+- Determinar la materia de auditoría.
+- Definir el obejtivo de la auditoría
+- Determinar el alcance de la auditoría
+- 
 ## Fase de trabajo de campo
 
-## Fase de 
+## Fase de reporte
