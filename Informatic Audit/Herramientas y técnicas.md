@@ -52,9 +52,10 @@ Procedimientos adicionales de control de SI
 # PROCESO DE AUDITORÍA
 ## Fase de planificación
 - Determinar la materia de auditoría.
-- Definir el obejtivo de la auditoría
+- Definir el objetivo de la auditoría
 - Determinar el alcance de la auditoría
-- 
+- Planificar el desarrollo de una pre auditoría
+- Determinar procesos.
 ## Fase de trabajo de campo
-
+- 
 ## Fase de reporte
