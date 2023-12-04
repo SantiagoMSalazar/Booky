@@ -89,7 +89,7 @@
 - Realiza pruebas piloto con un grupo de usuarios.
 	- Invitamos a estudiantes del CEC a probar la app, les enseñamos como funciona y les pedimos su opinión.
 - Ofrece un feedback basado en las opiniones de los usuarios.
-	- Algunos usuarios pedían agregar más de una foto lo que se conversó con el equipo de desarrollo 
+	- Algunos usuarios pedían agregar más de una foto lo que se conversó con el equipo de desarrollo y se concluyó que es totalmente viable.
 ## Despliegue - Deploying
 ### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
@@ -100,7 +100,9 @@
 	- Se revisa tanto el Azure como el Vercel.
 ### User Education Specialist
 - Implementa los programas de formación a los usuarios finales.
+	- Se invita a los estudiantes de la EPN a asistir a la presentación y demo de polibooks.
 - Brinda asistencia en la fase inicial en cuanto a las soluciones implementables.
+	- En base a los que 
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
