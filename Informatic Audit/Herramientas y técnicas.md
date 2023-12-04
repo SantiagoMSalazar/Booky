@@ -59,5 +59,6 @@ Procedimientos adicionales de control de SI
 ## Fase de trabajo de campo
 - Obtener los datos
 - Probar los controles
-- 
+- Encontrar y validar problemas
+- Documentar los resultados.
 ## Fase de reporte
