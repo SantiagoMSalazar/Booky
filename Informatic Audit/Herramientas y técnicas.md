@@ -22,4 +22,8 @@ Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 
 ## Correctivo
 
-Objetivos de control de SI
+## Objetivos de control de SI
+Pueden incluir
+- Salvaguardar
+- Ciclo de vida del desarrollo de software.
+- Integridad de los ambientes en sistemas de aplicación sensibles
