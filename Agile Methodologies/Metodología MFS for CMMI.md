@@ -91,7 +91,8 @@
 - Monitorea que no existan problemas de compilación durante el despliegue.
 	- Se revisa tanto el Azure como el Vercel.
 ### User Education Specialist
-- 
+- Implementa los programas de formación a los usuarios finales.
+- Brinda asistencia e
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
