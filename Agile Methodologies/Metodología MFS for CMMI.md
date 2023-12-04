@@ -81,7 +81,7 @@
 - Se encarga de gestionar y actualizar las herramientas de construction.
 	- Se publica la imagen en docker hub, se fusionan ramas y se crean nuevas para el git.
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
-	- Se atiende lo
+	- Se atiende los problemas de los desarrolladores en cuanto a la compilación en el node o en cuanto al react.
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
