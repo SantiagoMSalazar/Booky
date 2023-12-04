@@ -59,7 +59,7 @@
 - Soluciona los problemas relacionados la compilación.
 	- Se revisa cada rama para integrase correctamente e incluso se corrijen los problemas de versionado en el git.
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
-	- Se da directrices en cuanto al código limpio para que ellos 
+	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en la publicación 
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
 - Garantiza de los scripts de automatización de las compilaciones sean estables
