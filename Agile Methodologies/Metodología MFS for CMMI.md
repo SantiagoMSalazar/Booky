@@ -87,8 +87,9 @@
 	- Se actualiza e integra toda la rama main.
 ### User Education Specialist
 - Realiza pruebas piloto con un grupo de usuarios.
-	- Invitamos a estudiantes del CEC
+	- Invitamos a estudiantes del CEC a probar la app, les enseñamos como funciona y les pedimos su opinión.
 - Ofrece un feedback basado en las opiniones de los usuarios.
+	- Algunos usuarios pedían agregar más de una foto lo que se conversó con el equipo de desarrollo 
 ## Despliegue - Deploying
 ### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
