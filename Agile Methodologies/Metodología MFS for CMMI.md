@@ -40,6 +40,7 @@
 	- En Polibooks se plantea la idea de que se debe trabajar en el mismo ambiente, que se usea una sola versión del lenguaje, se use el mismo compilador y recomendable el mismo IDE con la misma estructura de carpetas para que no den problemas de compilación, se propone que esto debe trabajarse al inicio al igual que proponer herramientas que ayuden a mantener un controld e versiones.
 - Propone tecnologías o herramientas para construcción e integración de la aplicación polibooks.
 	- Docker para un ambiente controlado.
+	- DockerHub para que todos tengan el mismo ambiente con las mismas actualizaciones.
 	- selección de la versión de node
 	- selección de la vesión de react.
 	- git para las versiones y ramas de trabajo
@@ -47,6 +48,7 @@
 	- VSCode para desarrollo
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
+	- Se propuso ocupar 
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 
 ## Desarrollo - Developing
