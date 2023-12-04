@@ -7,4 +7,4 @@ La aplicación de la competencia, la independencia y el apoyo de otros profesion
 Como auditores tenemos la responsabilidad.
 - Filtrado por los datos importantes
 - Muestreo estadístico para extrapolar a todo el universo de datos.
-- 
+## Normativas 2126 y 771 de la super de bancos
