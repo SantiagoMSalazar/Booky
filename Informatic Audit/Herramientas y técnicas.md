@@ -38,4 +38,7 @@ Pueden incluir
 - Políticas generales para el diseño y uso de documentos
 - Procedimientos de acceso
 - Políticas de seguridad física
-### Controles 
+### Controles específicos de SI
+- Estrategia y dirección de las funciones de TI
+- Organización geenral y gestión de funciones de TI
+- 
