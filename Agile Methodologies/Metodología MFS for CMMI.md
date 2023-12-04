@@ -102,7 +102,7 @@
 - Implementa los programas de formación a los usuarios finales.
 	- Se invita a los estudiantes de la EPN a asistir a la presentación y demo de polibooks.
 - Brinda asistencia en la fase inicial en cuanto a las soluciones implementables.
-	- En base a los que 
+	- En base a los que dijeron los estudiantes de la EPN se Propone actualizar a nuevas funcionalidades que parecieron útiles y concordantes con la visión de la aplicación.
 ## Operación - Operating
 ### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
