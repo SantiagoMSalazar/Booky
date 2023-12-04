@@ -80,7 +80,8 @@
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 	- Se actualiza e integra toda la rama main.
 ### User Education Specialist
-
+- Realiza pruebas piloto con un grupo de usuarios.
+- 
 ## Despliegue - Deploying
 ### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
