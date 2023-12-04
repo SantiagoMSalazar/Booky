@@ -56,14 +56,14 @@
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
 	- Se construyó los scripts para integrar correctamente el puerto en el cual estaban corriendo el node y el servidor de react además de la configuración para enlazarse a la base de datos de firebase.
-	- Se contruyó la imagen de do
+	- Se construyó la imagen de docker con docker-compose para que se establezcan ciertas directrices.
 - Soluciona los problemas relacionados la compilación.
 	- Se revisa cada rama para integrase correctamente e incluso se corrijen los problemas de versionado en el git.
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
-	- se trabajó con comandos propios de 
+	- Se trabaja en la automatización del docker 
 - Garantiza de los scripts de automatización de las compilaciones sean estables
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 
