@@ -8,3 +8,5 @@ Como auditores tenemos la responsabilidad.
 - Filtrado por los datos importantes
 - Muestreo estadístico para extrapolar a todo el universo de datos.
 ## Normativas 2126 y 771 de la super de bancos
+# CONTROLES INTERNOS
+Los controles son 
