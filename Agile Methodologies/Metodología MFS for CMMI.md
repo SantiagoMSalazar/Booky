@@ -37,8 +37,9 @@
 ## Estrategia y Alcance - Envisioning
 ### Build Engineer
 - Ayuda al equipo a comprender los requisitos para la compilación y despliegue de la aplicación polibooks
-	- En Polibooks se plantea la idea de que se debe trabajar en el mismo ambiente, que se usea una sola versión del lenguaje, se use el mismo compilador y recomendable el mismo IDE con la misma estructura de carpetas para que no den problemas de compilación, se propone que esto debe trabajarse al inicio al igual que el 
+	- En Polibooks se plantea la idea de que se debe trabajar en el mismo ambiente, que se usea una sola versión del lenguaje, se use el mismo compilador y recomendable el mismo IDE con la misma estructura de carpetas para que no den problemas de compilación, se propone que esto debe trabajarse al inicio al igual que proponer herramientas que ayuden a mantener un controld e versiones.
 - Propone tecnologías o herramientas para construcción e integración de la aplicación polibooks.
+	- 
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
