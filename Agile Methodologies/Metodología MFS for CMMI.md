@@ -48,6 +48,7 @@
 	- VSCode para desarrollo
 ### User Education Specialist
 - Ayuda a documentar los requisitos de formación para los usuarios finales.
+	- Se 
 - Analiza las habilidades del usuario final y los requisitos para preparar un plan de formación y capacitación.
 ## Planificación y Prueba de concepto - Planning
 ### Build Engineer
@@ -103,7 +104,7 @@
 	- Se atiende los problemas de los desarrolladores en cuanto a la compilación en el node o en cuanto al react.
 ### User Education Specialist
 - Monitorea la efectividad de los programas de formación
-- Rediseña los programas en mejora
+- Rediseña los programas para mejorar la comprensión por parte del usuario final.
 # CICLOS E ITERACIONES
 1. Project Setup Plan
 2. Plan Develop & Test feedback
