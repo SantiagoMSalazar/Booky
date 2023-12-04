@@ -31,3 +31,5 @@ Pueden incluir
 - Eficiencia y efectividad de las operaciones
 - Autenticación de usuarios.
 ### Controles generales de la empresa.
+- Controles internos de contabilidad
+- Controles 
