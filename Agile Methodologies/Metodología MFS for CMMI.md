@@ -62,7 +62,7 @@
 - Plantea los objetivos del aprendizaje y diseña un posible plan de formación
 	- Se prepara una capacitación donde el usuario cree su cuenta y aprenda a publicar y a comprar libros.
 - Calendariza las entregas del material de formación.
-	- Los tiempos tentativos son en sincronía con la presentación del entregable de la iteraci´n.
+	- Los tiempos tentativos son en sincronía con la presentación del entregable de la fase de estabilización.
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
@@ -74,7 +74,8 @@
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ### User Education Specialist
 - Desarrolla las guías multimedia y los manuales para el usuario.
-- Crea cursos en distintas modalidades según las necesidades del usaurio.
+	- Se crean diapositivas y se graba la pantalla para indicar como funciona la app de polibooks.
+- Crea cursos en distintas modalidades según las necesidades del usuario.
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
