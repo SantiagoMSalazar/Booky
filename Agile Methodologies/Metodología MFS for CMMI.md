@@ -112,8 +112,10 @@
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
 	- Se atiende los problemas de los desarrolladores en cuanto a la compilación en el node o en cuanto al react.
 ### User Education Specialist
-- Monitorea la efectividad de los programas de formación
+- Monitorea la efectividad de los programas de formación.
+	- Se atiende las preguntas de las personas que usan la página para vender sus libros.
 - Rediseña los programas para mejorar la comprensión por parte del usuario final.
+	- Se publican nuevos videos donde se los hace más llamativos y envo
 # CICLOS E ITERACIONES
 1. Project Setup Plan
 2. Plan Develop & Test feedback
