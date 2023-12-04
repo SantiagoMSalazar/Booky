@@ -13,4 +13,5 @@ Como auditores tenemos la responsabilidad.
 Riesgos $\rightarrow$ posibilidad que se umpla una amenaza
 - Las empresas tienen una serie de políticas para reducir los riesgos
 - LAs empresas tienen una filosofía organizacional para minimizar riesgos
-## Qué de
+## Clasificación de controles
+
