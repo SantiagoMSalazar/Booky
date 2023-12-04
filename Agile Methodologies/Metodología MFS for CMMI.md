@@ -51,21 +51,21 @@
 	- Se propuso ocupar scripts para automatizar el proceso de integración con la base de datos de firebase.
 	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores de front y back.
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
-	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despligue.
+	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
 	- Se construyó los scripts para integrar correctamente el puerto en el cual estaban corriendo el node y el servidor de react además de la configuración para enlazarse a la base de datos de firebase.
 	- Se construyó la imagen de docker con docker-compose para que se establezcan ciertas directrices.
 - Soluciona los problemas relacionados la compilación.
-	- Se revisa cada rama para integrase correctamente e incluso se corrijen los problemas de versionado en el git.
+	- Se revisa cada rama para integrase correctamente e incluso se corrigen los problemas de versionado en el git.
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ## Estabilización - Stabilizing
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
 	- Se trabaja en la automatización del docker para iniciar los servicios, y se controla las versiones para que no haya problemas de integración.
 - Garantiza de los scripts de automatización de las compilaciones sean estables
-	- Se probó que el script en docker funcione y automatice corrrectamente.
+	- Se probó que el script en docker funcione y automatice correctamente.
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 	- Se actualiza e integra toda la rama main.
 ## Despliegue - Deploying
@@ -79,7 +79,9 @@
 - Da mantenimiento a los ambientes de compilación del código.
 	- Se actualiza las imágenes de docker corrigiendo errores o actualizando a las versiones acordadas.
 - Se encarga de gestionar y actualizar las herramientas de construction.
+	- Se publica la imagen en docker hub, se fusionan ramas y se crean nuevas para el git.
 - Brinda soporte técnico en caso que existan problemas en la compilación o integración del software.
+	- Se atiende lo
 
 # CICLOS E ITERACIONES
 1. Project Setup Plan
