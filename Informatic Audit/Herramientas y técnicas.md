@@ -45,4 +45,8 @@ Pueden incluir
 - Metodologías de desarrollo de sistemas y control de cambios.
 Procedimientos adicionales de control de SI
 - Procedimientos de operación
+- Programación de sistemas y funciones de soporte técnico.
+- Procedimientos de aseguramiento de calidad
+- Controles de acceso físco
+- Planificación de continuidad del negocio **DRP**
 - 
