@@ -49,8 +49,9 @@
 ## Planificación y Prueba de concepto - Planning
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
 	- Se propuso ocupar scripts para automatizar el proceso de integración con la base de datos de firebase.
-	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores
+	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores de front y back.
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
+	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despligue.
 
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
