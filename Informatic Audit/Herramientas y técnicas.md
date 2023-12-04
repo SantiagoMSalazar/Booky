@@ -27,3 +27,5 @@ Pueden incluir
 - Salvaguardar
 - Ciclo de vida del desarrollo de software.
 - Integridad de los ambientes en sistemas de aplicación sensibles
+- **Formal $\rightarrow$ Documentado y aprobado**
+- 
