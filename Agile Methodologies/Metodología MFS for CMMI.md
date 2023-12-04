@@ -56,7 +56,8 @@
 - Ayuda a definir estándares para el desarrollo y para gestionar las versiones y las ramas del código.
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 ### User Education Specialist
-
+- Ayuda a documentar los requisitos de formación para los usuarios finales.
+- Analiza las habilidades del usuario fina
 ## Desarrollo - Developing
 ### Build Engineer
 - configura los diseños de los scripts para automatizar
