@@ -76,6 +76,7 @@
 - Desarrolla las guías multimedia y los manuales para el usuario.
 	- Se crean diapositivas y se graba la pantalla para indicar como funciona la app de polibooks.
 - Crea cursos en distintas modalidades según las necesidades del usuario.
+	- Se presenta un live por facebook e instagram para que los estudiantes de la EPN vean como funciona la aplicación web.
 ## Estabilización - Stabilizing
 ### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
@@ -86,6 +87,7 @@
 	- Se actualiza e integra toda la rama main.
 ### User Education Specialist
 - Realiza pruebas piloto con un grupo de usuarios.
+	- Invitamos a estudiantes del CEC
 - Ofrece un feedback basado en las opiniones de los usuarios.
 ## Despliegue - Deploying
 ### Build Engineer
