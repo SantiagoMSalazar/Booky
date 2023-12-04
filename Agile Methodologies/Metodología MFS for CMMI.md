@@ -46,7 +46,9 @@
 	- git para las versiones y ramas de trabajo
 	- Github para trabajar en conjunto
 	- VSCode para desarrollo
+### User Education Specialist
 ## Planificación y Prueba de concepto - Planning
+### Build Engineer
 - Diseña la infraestructura de compilación, hace diseños de los scripts que va a construir para este proceso.
 	- Se propuso ocupar scripts para automatizar el proceso de integración con la base de datos de firebase.
 	- Se diseñó el fluyo de compilación para el lanzamiento e integración de los servidores de front y back.
@@ -54,6 +56,7 @@
 	- Se diseñó la comunidad en github, se creó la ramas para cada uno de los integrantes y se mantuvo una rama principal que sería la candidata para el despliegue.
 
 ## Desarrollo - Developing
+### Build Engineer
 - configura los diseños de los scripts para automatizar
 	- Se construyó los scripts para integrar correctamente el puerto en el cual estaban corriendo el node y el servidor de react además de la configuración para enlazarse a la base de datos de firebase.
 	- Se construyó la imagen de docker con docker-compose para que se establezcan ciertas directrices.
@@ -62,6 +65,7 @@
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 	- Se da directrices en cuanto al código limpio para que ellos sigan el mismo estándar en las variables 
 ## Estabilización - Stabilizing
+### Build Engineer
 - implementa los procesos de integración continua para facilitar la automatización de las pruebas de despliegue en un ambiente controlado.
 	- Se trabaja en la automatización del docker para iniciar los servicios, y se controla las versiones para que no haya problemas de integración.
 - Garantiza de los scripts de automatización de las compilaciones sean estables
@@ -69,6 +73,7 @@
 - Asegura que la versión candidata para el despliegue sea de calidad y pueda desenvolverse bien en un entorno de producción.
 	- Se actualiza e integra toda la rama main.
 ## Despliegue - Deploying
+### Build Engineer
 - Ayuda a implementar procesos de despliegue automatizado.
 	- Se busca preparar el entorno en azure para que se integre de forma similar al ambiente de desarrollo.
 - Facilita crear paquetes de despliegue en ambientes de producción.
@@ -76,6 +81,7 @@
 - Monitorea que no existan problemas de compilación durante el despliegue.
 	- Se revisa tanto el Azure como el Vercel-
 ## Operación - Operating
+### Build Engineer
 - Da mantenimiento a los ambientes de compilación del código.
 	- Se actualiza las imágenes de docker corrigiendo errores o actualizando a las versiones acordadas.
 - Se encarga de gestionar y actualizar las herramientas de construction.
