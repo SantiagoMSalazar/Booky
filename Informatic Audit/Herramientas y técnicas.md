@@ -49,4 +49,3 @@ Procedimientos adicionales de control de SI
 - Procedimientos de aseguramiento de calidad
 - Controles de acceso físco
 - Planificación de continuidad del negocio **DRP**
-- 
