@@ -40,5 +40,6 @@ Pueden incluir
 - Políticas de seguridad física
 ### Controles específicos de SI
 - Estrategia y dirección de las funciones de TI
-- Organización geenral y gestión de funciones de TI
-- 
+- Organización general y gestión de funciones de TI
+- Acceso a los recursos de TI
+- Metodologías de desarrollo de sistemas y control de cambios.
