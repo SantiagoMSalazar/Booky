@@ -55,6 +55,7 @@
 
 ## Desarrollo - Developing
 - configura los diseños de los scripts para automatizar
+	- Se construyó los scripts para integrar correctamente el puerto en el cual 
 - Soluciona los problemas relacionados la compilación.
 - trabaja con los developers para garantizar que se disminuyan al máximo los problemas de compilación.
 ## Estabilización - Stabilizing
