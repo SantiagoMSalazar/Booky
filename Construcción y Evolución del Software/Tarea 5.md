@@ -16,5 +16,6 @@ después seguimos el siguiente comendo que nos indica que se va a crear pero no 
 docker run -d --name mymongo --env-file mongo-env.txt --network mongo-red mongo:3.6.23
 ```
 ![[Pasted image 20231206171955.png]]
-Ahora vamos a instalar mongo-express y para ello tammbién definimos ciertas variables de entorno
+Ahora vamos a instalar mongo-express y para ello también definimos ciertas variables de entorno:
+
 
