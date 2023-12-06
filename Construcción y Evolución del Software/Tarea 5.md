@@ -6,3 +6,5 @@ MONGO_INITDB_ROOT_USERNAME=admin-dba
 MONGO_INITDB_ROOT_PASSWORD=112358Ss
 MONGO_INITDB_DATABASE=DBg1
 ```
+después seguimos el siguiente comendo que nos indica que se va a crear pero no hacemos un mapeo de puertos previo.
+![[Pasted image 20231206165014.png]]
