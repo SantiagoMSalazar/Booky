@@ -11,4 +11,4 @@ después seguimos el siguiente comendo que nos indica que se va a crear pero no 
 docker run -d --name mymongo --env-file ./mongo-env.txt mongo:3.6.23
 ```
 ![[Pasted image 20231206165014.png]]
-Ahora creamos el cliente de mongo en el puerto 8082
+Ahora debemos identificar en qué puerto est
