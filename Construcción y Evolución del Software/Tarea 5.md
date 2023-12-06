@@ -13,4 +13,5 @@ docker run -d --name mymongo --env-file ./mongo-env.txt mongo:3.6.23
 ![[Pasted image 20231206165014.png]]
 Ahora debemos identificar en qué puerto está corriendo, por tal motivo se busca con docker inspect mymongo
 ![[Pasted image 20231206170214.png]]
-como vemos nos dice que se está ejecutando por el puerto 27017 por lo que nuestra hoja de variab
+como vemos nos dice que se está ejecutando por el puerto 27017 por lo que nuestra hoja de variables será:
+
