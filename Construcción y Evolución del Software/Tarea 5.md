@@ -7,4 +7,7 @@ MONGO_INITDB_ROOT_PASSWORD=112358Ss
 MONGO_INITDB_DATABASE=DBg1
 ```
 después seguimos el siguiente comendo que nos indica que se va a crear pero no hacemos un mapeo de puertos previo.
+```bash
+docker run -d --name mymongo --env-file ./mongo-env.txt mongo:3.6.23
+```
 ![[Pasted image 20231206165014.png]]
