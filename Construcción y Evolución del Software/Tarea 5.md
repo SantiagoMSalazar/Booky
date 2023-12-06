@@ -13,9 +13,9 @@ MONGO_INITDB_DATABASE=DBg1
 ```
 después seguimos el siguiente comendo que nos indica que se va a crear pero no hacemos un mapeo de puertos previo.
 ```bash
-docker run -d --name mymongo --env-file ./mongo-env.txt mongo:3.6.23
+docker run -d --name mymongo --env-file mongo-env.txt --network mongo-red mongo:3.6.23
 ```
-![[Pasted image 20231206165014.png]]
+![[Pasted image 20231206171955.png]]
 Ahora debemos identificar en qué puerto está corriendo, por tal motivo se busca con docker inspect mymongo
 ![[Pasted image 20231206170214.png]]
 como vemos nos dice que se está ejecutando por el puerto 27017 por lo que nuestra hoja de variables será:
