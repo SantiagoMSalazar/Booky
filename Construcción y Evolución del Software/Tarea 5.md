@@ -42,3 +42,6 @@ docker run --name mypost -d --env-file postgre.txt postgres:11.21-alpine3.17
 ```
 ![[Pasted image 20231210043931.png]]
 Ahora se va a crear el cliente de postgres que es PGADMIN, por lo tanto necesitamos ciertas variables
+```bash
+```
+Finalmente utilizando la s
