@@ -33,3 +33,9 @@ Para crear el contenedor con las variables de postgres Primero vamos a crear un 
 ```bash
 
 ```
+
+Después vamos a crear el contenedor con la siguiente sentencia:
+```bash
+docker run --name mypost -d --env-file postgre.txt postgres:11.21-alpine3.17  
+```
+![[Pasted image 20231210043931.png]]
