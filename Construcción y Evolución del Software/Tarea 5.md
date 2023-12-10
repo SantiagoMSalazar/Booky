@@ -43,5 +43,14 @@ docker run --name mypost -d --env-file postgre.txt postgres:11.21-alpine3.17
 ![[Pasted image 20231210043931.png]]
 Ahora se va a crear el cliente de postgres que es PGADMIN, por lo tanto necesitamos ciertas variables
 ```bash
+PGADMIN_DEFAULT_EMAIL=santiago.salazar@epn.edu.ec
+PGADMIN_DEFAULT_PASSWORD=Gat207
+PGADMIN_LISTEN_PORT=5050
+PGADMIN_SERVER_NAME=mypost
+PGADMIN_SERVER_USERNAME=santi
+PGADMIN_SERVER_PASSWORD=Gat207
 ```
-Finalmente utilizando la s
+Finalmente utilizando la siguiente sentencia vamos a  crear un contenedor con el cliente de pgadmin
+```bash
+docker run --name pgadmin -d --env-file pgadmin.txt -p 8282:80 dpage/pgadmin4
+```
