@@ -22,7 +22,8 @@ ME_CONFIG_BASICAUTH_USERNAME=admin-dba
 ME_CONFIG_BASICAUTH_PASSWORD=112357Aa
 ```
 Ejecutamos el siguiente comando para crear el cliente de mongo express
-~~~ 
-
-~~~
-s
+```bash
+docker run --name mymongoexp -d -p 8081:8081 --env-file mexp.txt --network mongo-red mongo-express    
+```
+Y obtenemos los dos contenedores funcionales
+![[Pasted image 20231210042852.png]]
