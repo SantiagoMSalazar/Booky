@@ -1,3 +1,8 @@
+---
+Nombre: Santiago Salazar
+Fecha:
+---
+
 # Ejercicio 1 : Mongo DB
 1.  **Crear contenedor de mongo sin que exponga sus puertos usar la imagen: mongo:3.6.23 y crear un cliente de mongo: mongo-express (aquí realizar un mapeo de puertos). Analizar qué variables de entorno son necesarias.**
 Primero vamos a crear la red de mongo para la ejecución:
@@ -54,3 +59,4 @@ Finalmente utilizando la siguiente sentencia vamos a  crear un contenedor con el
 ```bash
 docker run --name pgadmin -d --env-file pgadmin.txt -p 8282:80 dpage/pgadmin4
 ```
+![[Pasted image 20231210044834.png]]
