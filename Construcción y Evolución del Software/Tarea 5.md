@@ -31,7 +31,9 @@ Y obtenemos los dos contenedores funcionales
 2. **Crear contenedor de postgres sin que exponga sus puertos con la imagen: postgres:11.21-alpine3.17 y crear un cliente dpage/pgadmin4 **(aquí realizar un mapeo de puertos)**. Analizar qué variables de entorno son necesarias.**
 Para crear el contenedor con las variables de postgres Primero vamos a crear un archivo txt que contenga todas las variables necesarias:
 ```bash
-
+POSTGRES_DB=tarea5
+POSTGRES_USER=santi
+POSTGRES_PASSWORD=Gat207
 ```
 
 Después vamos a crear el contenedor con la siguiente sentencia:
@@ -39,3 +41,4 @@ Después vamos a crear el contenedor con la siguiente sentencia:
 docker run --name mypost -d --env-file postgre.txt postgres:11.21-alpine3.17  
 ```
 ![[Pasted image 20231210043931.png]]
+Ahora se va a crear el cliente de postgres que es PGADMIN, por lo tanto necesitamos ciertas variables
