@@ -21,3 +21,8 @@ ME_CONFIG_MONGODB_PORT=27017
 ME_CONFIG_BASICAUTH_USERNAME=admin-dba
 ME_CONFIG_BASICAUTH_PASSWORD=112357Aa
 ```
+Ejecutamos el siguiente comando para crear el cliente de mongo express
+~~~ 
+
+~~~
+s
