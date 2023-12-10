@@ -29,4 +29,7 @@ Y obtenemos los dos contenedores funcionales
 ![[Pasted image 20231210042852.png]]
 # Ejercicio 2: PostgreSQL
 2. **Crear contenedor de postgres sin que exponga sus puertos con la imagen: postgres:11.21-alpine3.17 y crear un cliente dpage/pgadmin4 **(aquí realizar un mapeo de puertos)**. Analizar qué variables de entorno son necesarias.**
-Para crear el contenedor con las variables de postgress
+Para crear el contenedor con las variables de postgres Primero vamos a crear un archivo txt que contenga todas las variables necesarias:
+```bash
+
+```
