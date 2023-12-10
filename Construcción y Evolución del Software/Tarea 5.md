@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 1 : Mongo DB
 1.  **Crear contenedor de mongo sin que exponga sus puertos usar la imagen: mongo:3.6.23 y crear un cliente de mongo: mongo-express (aquí realizar un mapeo de puertos). Analizar qué variables de entorno son necesarias.**
 Primero vamos a crear la red de mongo para la ejecución:
 ```bash
@@ -27,3 +27,4 @@ docker run --name mymongoexp -d -p 8081:8081 --env-file mexp.txt --network mongo
 ```
 Y obtenemos los dos contenedores funcionales
 ![[Pasted image 20231210042852.png]]
+# Ejercicio 2: PostgreSQL
