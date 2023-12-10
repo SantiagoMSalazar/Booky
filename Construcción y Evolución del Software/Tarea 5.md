@@ -1,6 +1,6 @@
 ---
 Nombre: Santiago Salazar
-Fecha:
+Fecha: 7/12/2023
 ---
 
 # Ejercicio 1 : Mongo DB
