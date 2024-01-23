@@ -124,3 +124,4 @@
 > Para preparar una nota
 > clear()
 
+Para tomar mis notas que no se hace más
