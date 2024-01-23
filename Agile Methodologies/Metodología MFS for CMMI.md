@@ -121,3 +121,6 @@
 3. Plan Develop & Test feedback
 4. Develop & Release Product
 
+> Para preparar una nota
+> clear()
+
