@@ -120,8 +120,4 @@
 1. Project Setup Plan
 3. Plan Develop & Test feedback
 4. Develop & Release Product
-
-> Para preparar una nota
-> clear()
-
-Para tomar mis notas que no se hace más
+5. 
