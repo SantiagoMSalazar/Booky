@@ -6,49 +6,49 @@
 
 .theme-dark,
 .theme-light {
-  --accent-h: 200; /* cyan */
-  --accent-s: 12%;
-  --accent-l: 50%;
+  --accent-h: 202; /* cyan */
+  --accent-s: 100%;
+  --accent-l: 75%;
 
-  --bg_dark2_x: 40, 44, 52;
+  --bg_dark2_x: 18, 18, 24;
   --bg_dark2: rgb(var(--bg_dark2_x));
-  --bg_dark_x: 46, 51, 61;
+  --bg_dark_x: 22, 22, 30;
   --bg_dark: rgb(var(--bg_dark_x));
-  --bg_x: 56, 61, 73;
+  --bg_x: 26, 27, 38;
   --bg: rgb(var(--bg_x));
-  --bg_highlight_x: 69, 76, 94;
+  --bg_highlight_x: 41, 46, 66;
   --bg_highlight: rgb(var(--bg_highlight_x));
-  --bg_highlight_dark_x: 58, 64, 78;
+  --bg_highlight_dark_x: 36, 40, 59;
   --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
-  --terminal_black_x: 101, 112, 128;
+  --terminal_black_x: 65, 72, 104;
   --terminal_black: rgb(var(--terminal_black_x));
-  --fg_x: 208, 208, 208;
+  --fg_x: 192, 202, 245;
   --fg: rgb(var(--fg_x));
-  --fg_dark_x: 180, 182, 184;
+  --fg_dark_x: 169, 177, 214;
   --fg_dark: rgb(var(--fg_dark_x));
-  --comment_x: 117, 128, 145;
+  --comment_x: 86, 95, 137;
   --comment: rgb(var(--comment_x));
-  --blue0_x: 139, 148, 255;
+  --blue0_x: 61, 89, 161;
   --blue0: rgb(var(--blue0_x));
-  --blue_x: 173, 216, 230;
+  --blue_x: 122, 162, 247;
   --blue: rgb(var(--blue_x));
-  --cyan_hsl: 200 100% 75%;
-  --cyan_x: 128, 220, 255;
+  --cyan_hsl: 202 100% 75%;
+  --cyan_x: 125, 207, 255;
   --cyan: rgb(var(--cyan_x));
-  --magent_hsl: 260 86% 76%;
-  --magenta_x: 212, 134, 255;
+  --magent_hsl: 261 85% 79%;
+  --magenta_x: 187, 154, 247;
   --magenta: rgb(var(--magenta_x));
-  --purple_x: 146, 131, 116;
+  --purple_x: 157, 124, 21;
   --purple: rgb(var(--purple_x));
-  --orange_x: 255, 150, 79;
+  --orange_x: 255, 158, 100;
   --orange: rgb(var(--orange_x));
-  --yellow_x: 240, 192, 96;
+  --yellow_x: 224, 175, 104;
   --yellow: rgb(var(--yellow_x));
-  --green_x: 152, 198, 108;
+  --green_x: 158, 206, 106;
   --green: rgb(var(--green_x));
-  --teal_x: 82, 203, 183;
+  --teal_x: 26, 188, 156;
   --teal: rgb(var(--teal_x));
-  --red_x: 255, 104, 112;
+  --red_x: 255, 117, 127;
   --red: rgb(var(--red_x));
   --red1_x: 219, 75, 75;
   --red1: rgb(var(--red1_x));
@@ -61,50 +61,53 @@
 }
 
 .theme-light {
-  --accent-h: 200; /* cyan */
-  --accent-s: 12%;
-  --accent-l: 50%;
+  /* --accent-h: 261; /* magenta */
+  /* --accent-s: 24%; */
+  /* --accent-l: 38%; */
+  --accent-h: 202; /* cyan */
+  --accent-s: 86%;
+  --accent-l: 43%;
 
-  --bg_dark2_x: 40, 44, 52;
+  --bg_dark2_x: 188, 189, 194;
   --bg_dark2: rgb(var(--bg_dark2_x));
-  --bg_dark_x: 46, 51, 61;
+  --bg_dark_x: 203, 204, 209;
   --bg_dark: rgb(var(--bg_dark_x));
-  --bg_x: 56, 61, 73;
+  --bg_x: 213, 214, 219;
   --bg: rgb(var(--bg_x));
-  --bg_highlight_x: 69, 76, 94;
+  --bg_highlight_x: 220, 222, 226;
   --bg_highlight: rgb(var(--bg_highlight_x));
-  --bg_highlight_dark_x: 58, 64, 78;
+  --bg_highlight_dark_x: 195, 197, 201;
   --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
-  --terminal_black_x: 101, 112, 128;
+  --terminal_black_x: 15, 15, 20;
   --terminal_black: rgb(var(--terminal_black_x));
-  --fg_x: 208, 208, 208;
+  --fg_x: 52, 59, 88;
   --fg: rgb(var(--fg_x));
-  --fg_dark_x: 180, 182, 184;
+  --fg_dark_x: 39, 46, 75;
   --fg_dark: rgb(var(--fg_dark_x));
-  --comment_x: 117, 128, 145;
+  --comment_x: 150, 153, 163;
   --comment: rgb(var(--comment_x));
-  --blue0_x: 139, 148, 255;
+  --blue0_x: 39, 71, 125;
   --blue0: rgb(var(--blue0_x));
-  --blue_x: 173, 216, 230;
+  --blue_x: 52, 84, 138;
   --blue: rgb(var(--blue_x));
-  --cyan_x: 128, 220, 255;
+  --cyan_x: 15, 75, 110;
   --cyan: rgb(var(--cyan_x));
-  --magent_hsl: 260 86% 76%;
-  --magenta_x: 212, 134, 255;
+  --magent_hsl: 261 24% 38%;
+  --magenta_x: 90, 74, 120;
   --magenta: rgb(var(--magenta_x));
-  --purple_x: 146, 131, 116;
+  --purple_x: 65, 49, 95;
   --purple: rgb(var(--purple_x));
-  --orange_x: 255, 150, 79;
+  --orange_x: 150, 80, 39;
   --orange: rgb(var(--orange_x));
-  --yellow_x: 240, 192, 96;
+  --yellow_x: 143, 94, 21;
   --yellow: rgb(var(--yellow_x));
-  --green_x: 152, 198, 108;
+  --green_x: 51, 99, 92;
   --green: rgb(var(--green_x));
-  --teal_x: 82, 203, 183;
+  --teal_x: 22, 103, 117;
   --teal: rgb(var(--teal_x));
-  --red_x: 255, 104, 112;
+  --red_x: 140, 67, 81;
   --red: rgb(var(--red_x));
-  --red1_x: 219, 75, 75;
+  --red1_x: 115, 42, 56;
   --red1: rgb(var(--red1_x));
   --unknown: #000000;
 
@@ -352,7 +355,4 @@ mjx-math {
 /* metadata */
 .cm-atom {
   color: var(--blue);
-}
-span.cm-hmd-frontmatter.cm-meta {
-  color: rgba(var(--blue0_x), 0.9);
 }
