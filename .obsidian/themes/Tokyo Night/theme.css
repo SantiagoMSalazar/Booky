@@ -1,24 +1,11 @@
 /*Fonts*/
 :root {
-  /*
-    If the font isn't installed in the system, 
-    it will go down the list until it finds on that is.
-    */
-
   --default-font: '"JetBrains Mono", monospace, "Inter", sans-serif';
   --font-monospace: '"JetBrains Mono", monospace, "Source Code Pro", monospace'; /*Code block text*/
-
-  /*
-    var(--variableName); is a variable,
-    so you can use what you set over and over without having
-    to rewrite it multiple times.
-    */
 }
 
-.theme-dark {
-  /* --accent-h: 261; /* magenta */
-  /* --accent-s: 85%; */
-  /* --accent-l: 79%; */
+.theme-dark,
+.theme-light {
   --accent-h: 202; /* cyan */
   --accent-s: 100%;
   --accent-l: 75%;
