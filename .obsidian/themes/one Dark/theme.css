@@ -14,9 +14,8 @@
   --bg_dark2: rgb(var(--bg_dark2_x));
   --bg_dark_x: 36, 41, 51;
   --bg_dark: rgb(var(--bg_dark_x));
-  --bg_x: 26, 31, 43;
-  /*--bg: rgb(var(--bg_x));*/
-  --bg: #282c34
+  --bg_x: 40, 44, 52;
+  --bg: rgb(var(--bg_x));
   --bg_highlight_x: 69, 76, 94;
   --bg_highlight: rgb(var(--bg_highlight_x));
   --bg_highlight_dark_x: 58, 64, 78;
