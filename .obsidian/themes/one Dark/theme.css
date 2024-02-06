@@ -16,7 +16,7 @@
   --bg_dark: rgb(var(--bg_dark_x));
   --bg_x: 40, 44, 52;
   --bg: rgb(var(--bg_x));
-  --bg_highlight_x: 69, 76, 94;
+  --bg_highlight_x: 40, 44, 52;;
   --bg_highlight: rgb(var(--bg_highlight_x));
   --bg_highlight_dark_x: 30, 34, 42;
   --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
