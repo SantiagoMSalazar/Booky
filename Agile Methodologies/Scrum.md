@@ -41,3 +41,5 @@
 ```
 
 ## Repaso para el examen
+- **Modalidad del examen**: Escrito de 1h
+En la carpeta Materiales Clase > SCRUM es
