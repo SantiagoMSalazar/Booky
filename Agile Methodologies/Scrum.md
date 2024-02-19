@@ -44,3 +44,4 @@
 - **Modalidad del examen**: Escrito de 1h
 En la carpeta `Materiales Clase > SCRUM` está toda la info para el examen
 ### Actividad para el proyecto
+- En estándares para el desarrollo del proyecto 
