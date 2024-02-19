@@ -39,3 +39,5 @@
 
   --bg_highlight_x: 69, 76, 94;
 ```
+
+## Repaso para el examen
