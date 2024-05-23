@@ -28,54 +28,55 @@ Comenzamos revisando brevemente el modelo de crecimiento de Solow. Nos centramos
 
 ### El Modelo
 
-El modelo de Solow toma las tasas de ahorro, crecimiento de la población y progreso tecnológico como exógenos. Hay dos insumos, capital y trabajo, que se pagan según sus productos marginales. Asumimos una función de producción Cobb-Douglas, por lo que la producción en el tiempo \( t \) está dada por:
+El modelo de Solow toma las tasas de ahorro, crecimiento de la población y progreso tecnológico como exógenos. Hay dos insumos, capital y trabajo, que se pagan según sus productos marginales. Asumimos una función de producción Cobb-Douglas, por lo que la producción en el tiempo <img src="https://latex.codecogs.com/gif.latex?t"/> está dada por:
 
-$\[ Y(t) = K(t)^\alpha (A(t)L(t))^{1-\alpha}, 0 < \alpha < 1 \]$
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?Y(t)%20=%20K(t)^\alpha%20(A(t)L(t))^{1-\alpha},%200%20&lt;%20\alpha%20&lt;%201"/></p>  
 
-La notación es estándar: \( Y \) es producción, \( K \) capital, \( L \) trabajo y \( A \) el nivel de tecnología. Se asume que \( L \) y \( A \) crecen exógenamente a tasas \( n \) y \( g \):
+La notación es estándar: <img src="https://latex.codecogs.com/gif.latex?Y"/> es producción, <img src="https://latex.codecogs.com/gif.latex?K"/> capital, <img src="https://latex.codecogs.com/gif.latex?L"/> trabajo y <img src="https://latex.codecogs.com/gif.latex?A"/> el nivel de tecnología. Se asume que <img src="https://latex.codecogs.com/gif.latex?L"/> y <img src="https://latex.codecogs.com/gif.latex?A"/> crecen exógenamente a tasas <img src="https://latex.codecogs.com/gif.latex?n"/> y <img src="https://latex.codecogs.com/gif.latex?g"/>:
 
-\[ L(t) = L(0)e^{nt} \]
-\[ A(t) = A(0)e^{gt} \]
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?L(t)%20=%20L(0)e^{nt}"/></p>  
 
-El número de unidades efectivas de trabajo, \( A(t)L(t) \), crece a una tasa \( n + g \).
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?A(t)%20=%20A(0)e^{gt}"/></p>  
 
-El modelo asume que una fracción constante de la producción, \( s \), se invierte. Definiendo \( k \) como el stock de capital por unidad efectiva de trabajo, \( k = K/AL \), y \( y \) como el nivel de producción por unidad efectiva de trabajo, \( y = Y/AL \), la evolución de \( k \) está gobernada por:
+El número de unidades efectivas de trabajo, <img src="https://latex.codecogs.com/gif.latex?A(t)L(t)"/>, crece a una tasa <img src="https://latex.codecogs.com/gif.latex?n%20+%20g"/>.
 
-\[ \frac{dk}{dt} = sy(t) - (n + g + \delta)k(t) = sk(t)^\alpha - (n + g + \delta)k(t) \]
+El modelo asume que una fracción constante de la producción, <img src="https://latex.codecogs.com/gif.latex?s"/>, se invierte. Definiendo <img src="https://latex.codecogs.com/gif.latex?k"/> como el stock de capital por unidad efectiva de trabajo, <img src="https://latex.codecogs.com/gif.latex?k%20=%20K/AL"/>, y <img src="https://latex.codecogs.com/gif.latex?y"/> como el nivel de producción por unidad efectiva de trabajo, <img src="https://latex.codecogs.com/gif.latex?y%20=%20Y/AL"/>, la evolución de <img src="https://latex.codecogs.com/gif.latex?k"/> está gobernada por:
 
-donde \( \delta \) es la tasa de depreciación. La ecuación implica que \( k \) converge a un valor de estado estacionario \( k^* \) definido por:
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\frac{dk}{dt}%20=%20sy(t)%20-%20(n%20+%20g%20+%20\delta)k(t)%20=%20sk(t)^\alpha%20-%20(n%20+%20g%20+%20\delta)k(t)"/></p>  
 
-\[ sk^{*\alpha} = (n + g + \delta)k^* \]
+donde <img src="https://latex.codecogs.com/gif.latex?\delta"/> es la tasa de depreciación. La ecuación implica que <img src="https://latex.codecogs.com/gif.latex?k"/> converge a un valor de estado estacionario <img src="https://latex.codecogs.com/gif.latex?k^*"/> definido por:
+
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?sk^{*\alpha}%20=%20(n%20+%20g%20+%20\delta)k^*"/></p>  
 
 o
 
-\[ k^* = \left(\frac{s}{n + g + \delta}\right)^{1/(1-\alpha)} \]
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?k^*%20=%20\left(\frac{s}{n%20+%20g%20+%20\delta}\right)^{1/(1-\alpha)}"/></p>  
 
 El ratio de capital-trabajo en estado estacionario está relacionado positivamente con la tasa de ahorro y negativamente con la tasa de crecimiento de la población.
 
 Las predicciones centrales del modelo de Solow conciernen al impacto del ahorro y el crecimiento de la población sobre el ingreso real. Sustituyendo en la función de producción y tomando logaritmos, encontramos que el ingreso per cápita en estado estacionario es:
 
-\[ \ln\left(\frac{Y(t)}{L(t)}\right) = \ln A(0) + gt + \frac{\alpha}{1-\alpha}\ln(s) - \frac{\alpha}{1-\alpha}\ln(n + g + \delta) \]
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\ln\left(\frac{Y(t)}{L(t)}\right)%20=%20\ln%20A(0)%20+%20gt%20+%20\frac{\alpha}{1-\alpha}\ln(s)%20-%20\frac{\alpha}{1-\alpha}\ln(n%20+%20g%20+%20\delta)"/></p>  
 
 Debido a que el modelo asume que los factores se pagan según sus productos marginales, predice no solo los signos sino también las magnitudes de los coeficientes sobre el ahorro y el crecimiento de la población.
 
 ### Especificación
 
-La pregunta natural a considerar es si los datos apoyan las predicciones del modelo de Solow sobre los determinantes de los niveles de vida. En otras palabras, queremos investigar si el ingreso real es mayor en los países con tasas de ahorro más altas y menor en los países con valores más altos de \( n + g + \delta \).
+La pregunta natural a considerar es si los datos apoyan las predicciones del modelo de Solow sobre los determinantes de los niveles de vida. En otras palabras, queremos investigar si el ingreso real es mayor en los países con tasas de ahorro más altas y menor en los países con valores más altos de <img src="https://latex.codecogs.com/gif.latex?n%20+%20g%20+%20\delta"/>.
 
-Asumimos que \( g \) y \( \delta \) son constantes entre países. \( g \) refleja principalmente el avance del conocimiento, que no es específico de un país. No hay ninguna razón fuerte para esperar que las tasas de depreciación varíen mucho entre países, ni hay datos que permitan estimar tasas de depreciación específicas para cada país. En contraste, el término \( A(0) \) refleja no solo tecnología sino también dotaciones de recursos, clima, instituciones, etc., y puede diferir entre países. Asumimos que:
+Asumimos que <img src="https://latex.codecogs.com/gif.latex?g"/> y <img src="https://latex.codecogs.com/gif.latex?\delta"/> son constantes entre países. <img src="https://latex.codecogs.com/gif.latex?g"/> refleja principalmente el avance del conocimiento, que no es específico de un país. No hay ninguna razón fuerte para esperar que las tasas de depreciación varíen mucho entre países, ni hay datos que permitan estimar tasas de depreciación específicas para cada país. En contraste, el término <img src="https://latex.codecogs.com/gif.latex?A(0)"/> refleja no solo tecnología sino también dotaciones de recursos, clima, instituciones, etc., y puede diferir entre países. Asumimos que:
 
-\[ \ln A(0) = a + \epsilon \]
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\ln%20A(0)%20=%20a%20+%20\epsilon"/></p>  
 
-donde \( a \) es una constante y \( \epsilon \) es un choque específico del país. Por lo tanto, el logaritmo del ingreso per cápita en un momento dado (tomando el tiempo 0 para simplificar) es:
+donde <img src="https://latex.codecogs.com/gif.latex?a"/> es una constante y <img src="https://latex.codecogs.com/gif.latex?\epsilon"/> es un choque específico del país. Por lo tanto, el logaritmo del ingreso per cápita en un momento dado (tomando el tiempo 0 para simplificar) es:
 
-\[ \ln\left(\frac{Y(0)}{L(0)}\right) = a + \ln(s) - \frac{\alpha}{1-\alpha}\ln(n + g + \delta) + \epsilon \]
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\ln\left(\frac{Y(0)}{L(0)}\right)%20=%20a%20+%20\ln(s)%20-%20\frac{\alpha}{1-\alpha}\ln(n%20+%20g%20+%20\delta)%20+%20\epsilon"/></p>  
 
-Esta ecuación es nuestra especificación empírica básica en esta sección. Asumimos que las tasas de ahorro y crecimiento de la población son independientes de los factores específicos del país que desplazan la función de producción. Es decir, asumimos que \( s \) y \( n \) son independientes de \( \epsilon \). Esta suposición implica que podemos estimar la ecuación con mínimos cuadrados ordinarios (OLS).
+Esta ecuación es nuestra especificación empírica básica en esta sección. Asumimos que las tasas de ahorro y crecimiento de la población son independientes de los factores específicos del país que desplazan la función de producción. Es decir, asumimos que <img src="https://latex.codecogs.com/gif.latex?s"/> y <img src="https://latex.codecogs.com/gif.latex?n"/> son independientes de <img src="https://latex.codecogs.com/gif.latex?\epsilon"/>. Esta suposición implica que podemos estimar la ecuación con mínimos cuadrados ordinarios (OLS).
 
 ### Datos y Muestras
 
-Los datos provienen de las Cuentas Nacionales Reales recientemente construidas por Summers y Heston. El conjunto de datos incluye ingreso real, consumo del gobierno y privado, inversión y población para casi todo el mundo, excepto las economías planificadas centralmente. Los datos son anuales y cubren el período 1960-1985. Medimos \( n \) como la tasa promedio de crecimiento de la población en edad de trabajar, definida como de 15 a 64 años. Medimos \( s \) como la participación promedio de la inversión real (incluida la inversión del gobierno) en el PIB real, y \( Y/L \) como el PIB real en 1985 dividido por la población en edad de trabajar en ese año.
+Los datos provienen de las Cuentas Nacionales Reales recientemente construidas por Summers y Heston. El conjunto de datos incluye ingreso real, consumo del gobierno y privado, inversión y población para casi todo el mundo, excepto las economías planificadas centralmente. Los datos son anuales y cubren el período 1960-1985. Medimos <img src="https://latex.codecogs.com/gif.latex?n"/> como la tasa promedio de crecimiento de la población en edad de trabajar, definida como de 15 a 64 años. Medimos <img src="https://latex.codecogs.com/gif.latex?s"/> como la participación promedio de la inversión real (incluida la inversión del gobierno) en el PIB real, y <img src="https://latex.codecogs.com/gif.latex?Y/L"/> como el PIB real en 1985 dividido por la población en edad de trabajar en ese año.
 
 Consideramos tres muestras de países. La más completa incluye todos los países para los cuales hay datos disponibles, excepto aquellos para los cuales la producción de petróleo es la industria dominante. Esta muestra consta de 98 países. Excluimos los productores de petróleo porque la mayor parte del PIB registrado para estos países representa la extracción de recursos existentes, no el valor añadido; no se debe esperar que los modelos de crecimiento estándar expliquen el PIB medido en estos países.
 
@@ -87,7 +88,7 @@ Ver el Apéndice para los países en cada una de las muestras y los datos.
 
 ### Resultados
 
-Estimamos la ecuación tanto con como sin imponer la restricción de que los coeficientes sobre \( \ln(s) \) y \( \ln(n + g + \delta) \) son iguales en magnitud y opuestos en signo. Asumimos que \( g + \delta \) es 0.05; cambios razonables en esta suposición tienen poco efecto en las estimaciones.
+Estimamos la ecuación tanto con como sin imponer la restricción de que los coeficientes sobre <img src="https://latex.codecogs.com/gif.latex?\ln(s)"/> y <img src="https://latex.codecogs.com/gif.latex?\ln(n%20+%20g%20+%20\delta)"/> son iguales en magnitud y opuestos en signo. Asumimos que <img src="https://latex.codecogs.com/gif.latex?g%20+%20\delta"/> es 0.05; cambios razonables en esta suposición tienen poco efecto en las estimaciones.
 
 ---
 
