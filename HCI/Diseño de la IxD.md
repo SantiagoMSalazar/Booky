@@ -11,7 +11,8 @@ tags:
 # Planificación del proyecto
 
 
-# Poliligue
+# Polilingüe
+
 
 
 
