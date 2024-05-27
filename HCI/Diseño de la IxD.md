@@ -8,7 +8,7 @@ tags:
 - Los objetivos primarios y de alto nivel son.
 ## IxD vs otras disciplinas
 - Vs
-
+# Planificación del proyecto
 
 
 
