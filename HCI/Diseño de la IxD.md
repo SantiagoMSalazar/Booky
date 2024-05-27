@@ -7,7 +7,7 @@ tags:
 # Objetivo del diseño de la interacción
 - Los objetivos primarios y de alto nivel son.
 ## IxD vs otras disciplinas
-- V
+- Vs
 
 
 
