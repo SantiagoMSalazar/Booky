@@ -4,7 +4,10 @@ tags:
   - Frontend
   - Interfaces
 ---
-# Objetivo del diseño de la 
+# Objetivo del diseño de la interacción
+- Los objetivos primarios y de alto nivel son.
+## IxD vs otras disciplinas
+- V
 
 
 
