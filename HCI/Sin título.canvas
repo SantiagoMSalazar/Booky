@@ -12,7 +12,7 @@
 		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar una respuesta visual sobre las acciones que se toman.","x":240,"y":499,"width":354,"height":191},
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona.","x":760,"y":250,"width":455,"height":260},
-		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Cercanía del \n### Desventajas\n- Se sobrecarga de información con los estados.","x":760,"y":-80,"width":455,"height":320}
+		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario pero ","x":760,"y":-80,"width":455,"height":320}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
