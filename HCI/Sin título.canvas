@@ -7,7 +7,12 @@
 		{"id":"d2e678ec11b7af97","x":330,"y":-600,"width":277,"height":259,"color":"1","type":"text","text":"### Funcionamiento\nEl sistema debe mantener informado al usuario sobre el estado del programa, de tal forma que se puedan realizar acciones en base a esa retroalimentación."},
 		{"id":"3407d8512761deb6","x":773,"y":-540,"width":455,"height":260,"type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona."},
 		{"id":"f94ee0daa15d054f","x":773,"y":-870,"width":455,"height":320,"type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados."},
-		{"id":"411b28bcdc138a56","x":-123,"y":112,"width":250,"height":60,"type":"text","text":""}
+		{"id":"411b28bcdc138a56","x":-230,"y":160,"width":250,"height":128,"type":"text","text":"## coincidencia entre el sistema y el mundo real"},
+		{"id":"dd0b46af1151fb48","type":"text","text":"### Definición\nCapacidad de informar al usuario sobre lo que sucede en el sistema.\n","x":309,"y":-10,"width":285,"height":180,"color":"4"},
+		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar una respuesta visual sobre las acciones que se toman.","x":313,"y":499,"width":250,"height":191},
+		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema debe mantener informado al usuario sobre el estado del programa, de tal forma que se puedan realizar acciones en base a esa retroalimentación.","x":317,"y":190,"width":277,"height":259,"color":"1"},
+		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona.","x":760,"y":250,"width":455,"height":260},
+		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados.","x":760,"y":-80,"width":455,"height":320}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -17,6 +22,12 @@
 		{"id":"f59644dbc528e90f","fromNode":"c0d2dfc67e1ee7a3","fromSide":"right","toNode":"3407d8512761deb6","toSide":"left"},
 		{"id":"149613ac53299501","fromNode":"a6767901612f376d","fromSide":"right","toNode":"f94ee0daa15d054f","toSide":"left"},
 		{"id":"4533b131968b3949","fromNode":"d2e678ec11b7af97","fromSide":"right","toNode":"f94ee0daa15d054f","toSide":"left"},
-		{"id":"f8d84208300b1596","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"411b28bcdc138a56","toSide":"left"}
+		{"id":"f8d84208300b1596","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"411b28bcdc138a56","toSide":"left"},
+		{"id":"48d8cb5868c709f3","fromNode":"dd0b46af1151fb48","fromSide":"right","toNode":"f43df61568ff0a64","toSide":"left"},
+		{"id":"aebcf9e344ecb697","fromNode":"3d5b57d019831cd0","fromSide":"right","toNode":"9ea47962c1da6f9c","toSide":"left"},
+		{"id":"9ae2b95641560cc6","fromNode":"393910dce5f871be","fromSide":"right","toNode":"f43df61568ff0a64","toSide":"left"},
+		{"id":"893db17156fe5cc9","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"dd0b46af1151fb48","toSide":"left"},
+		{"id":"e2a4563244d891f6","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"393910dce5f871be","toSide":"left"},
+		{"id":"d289ce9bb2c68288","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"3d5b57d019831cd0","toSide":"left"}
 	]
 }
