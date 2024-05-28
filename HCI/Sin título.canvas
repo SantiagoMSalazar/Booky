@@ -32,7 +32,7 @@
 		{"id":"5eeb068b71a1879c","type":"text","text":"## Visibilidad del estado del sistema","x":-126,"y":-250,"width":250,"height":120,"color":"5"},
 		{"id":"f4f20cadb77422eb","type":"text","text":"## Ayudar al usuario a reconocer, diagnosticar y recuperarse de errores","x":-994,"y":-61,"width":352,"height":128},
 		{"id":"b05e7d9a570ad4d3","type":"text","text":"## Prevención de errores","x":-818,"y":-406,"width":258,"height":90},
-		{"id":"8c0041b30349311a","type":"text","text":"## Prevención de errores","x":-434,"y":-406,"width":258,"height":90}
+		{"id":"8c0041b30349311a","type":"text","text":"## Flexibilidad y eficiencia de uso","x":-434,"y":-451,"width":308,"height":90}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
