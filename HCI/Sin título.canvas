@@ -2,23 +2,23 @@
 	"nodes":[
 		{"id":"cdb301e9601ae90f","x":-480,"y":-80,"width":250,"height":140,"color":"3","type":"text","text":"# Principios de Usabilidad/ Heurísiticas"},
 		{"id":"5eeb068b71a1879c","x":-230,"y":-381,"width":250,"height":120,"color":"5","type":"text","text":"## Visibilidad del estado del sistema"},
-		{"id":"a6767901612f376d","x":322,"y":-800,"width":285,"height":180,"color":"4","type":"text","text":"### Definición\nCapacidad de informar al usuario sobre lo que sucede en el sistema.\n"},
 		{"id":"c0d2dfc67e1ee7a3","x":326,"y":-291,"width":250,"height":191,"type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar una respuesta visual sobre las acciones que se toman."},
-		{"id":"d2e678ec11b7af97","x":330,"y":-600,"width":277,"height":259,"color":"1","type":"text","text":"### Funcionamiento\nEl sistema debe mantener informado al usuario sobre el estado del programa, de tal forma que se puedan realizar acciones en base a esa retroalimentación."},
-		{"id":"3407d8512761deb6","x":773,"y":-540,"width":455,"height":260,"type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona."},
-		{"id":"f94ee0daa15d054f","x":773,"y":-870,"width":455,"height":320,"type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados."},
 		{"id":"411b28bcdc138a56","x":-230,"y":160,"width":250,"height":128,"type":"text","text":"## coincidencia entre el sistema y el mundo real"},
-		{"id":"dd0b46af1151fb48","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":240,"y":-10,"width":354,"height":180,"color":"4"},
-		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":240,"y":499,"width":354,"height":191},
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
-		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":760,"y":-80,"width":455,"height":320},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":773,"y":369,"width":455,"height":260},
 		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-560,"y":224,"width":250,"height":128},
-		{"id":"d2743940a07fa3b9","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-888,"y":1138,"width":354,"height":191},
-		{"id":"2085ae2c70f88776","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":-435,"y":1199,"width":455,"height":260},
-		{"id":"5fc59d180fbcf7a5","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":-207,"y":879,"width":455,"height":320},
-		{"id":"22f63377608543ef","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":-334,"y":510,"width":354,"height":180,"color":"4"},
-		{"id":"b1d7ca215c3f983f","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":-711,"y":480,"width":354,"height":230,"color":"1"}
+		{"id":"d2743940a07fa3b9","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-1120,"y":629,"width":354,"height":191},
+		{"id":"b1d7ca215c3f983f","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":-664,"y":600,"width":354,"height":230,"color":"1"},
+		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":149,"y":438,"width":354,"height":191},
+		{"id":"dd0b46af1151fb48","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":222,"y":-30,"width":354,"height":180,"color":"4"},
+		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":773,"y":-15,"width":455,"height":320},
+		{"id":"a6767901612f376d","x":7,"y":-800,"width":285,"height":180,"color":"4","type":"text","text":"### Definición\nCapacidad de informar al usuario sobre lo que sucede en el sistema.\n"},
+		{"id":"d2e678ec11b7af97","x":222,"y":-580,"width":277,"height":259,"color":"1","type":"text","text":"### Funcionamiento\nEl sistema debe mantener informado al usuario sobre el estado del programa, de tal forma que se puedan realizar acciones en base a esa retroalimentación."},
+		{"id":"3407d8512761deb6","x":773,"y":-511,"width":455,"height":260,"type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona."},
+		{"id":"f94ee0daa15d054f","x":640,"y":-900,"width":455,"height":320,"type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados."},
+		{"id":"2085ae2c70f88776","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":-1060,"y":1069,"width":455,"height":260},
+		{"id":"5fc59d180fbcf7a5","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":-440,"y":960,"width":455,"height":320},
+		{"id":"22f63377608543ef","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":-280,"y":535,"width":354,"height":180,"color":"4"}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -36,10 +36,11 @@
 		{"id":"e2a4563244d891f6","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"393910dce5f871be","toSide":"left"},
 		{"id":"d289ce9bb2c68288","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"3d5b57d019831cd0","toSide":"left"},
 		{"id":"3762a0fd9e3ea5dc","fromNode":"cdb301e9601ae90f","fromSide":"bottom","toNode":"cc7a0d6a28ae5b63","toSide":"top"},
-		{"id":"ef11106a1f00aa8b","fromNode":"22f63377608543ef","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"left"},
-		{"id":"7c144bd365b8001d","fromNode":"d2743940a07fa3b9","fromSide":"right","toNode":"2085ae2c70f88776","toSide":"left"},
-		{"id":"f77ca68e654e9d48","fromNode":"b1d7ca215c3f983f","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"left"},
+		{"id":"ef11106a1f00aa8b","fromNode":"22f63377608543ef","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"top"},
+		{"id":"7c144bd365b8001d","fromNode":"d2743940a07fa3b9","fromSide":"bottom","toNode":"2085ae2c70f88776","toSide":"top"},
+		{"id":"f77ca68e654e9d48","fromNode":"b1d7ca215c3f983f","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"top"},
 		{"id":"8b728e7c45e28e92","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"b1d7ca215c3f983f","toSide":"top"},
-		{"id":"23488e12e045ec6b","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"22f63377608543ef","toSide":"top"}
+		{"id":"23488e12e045ec6b","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"22f63377608543ef","toSide":"top"},
+		{"id":"f827250f22ebe864","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"d2743940a07fa3b9","toSide":"top"}
 	]
 }
