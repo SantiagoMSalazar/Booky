@@ -6,7 +6,6 @@
 		{"id":"411b28bcdc138a56","x":-230,"y":160,"width":250,"height":128,"type":"text","text":"## coincidencia entre el sistema y el mundo real"},
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":773,"y":369,"width":455,"height":260},
-		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-560,"y":224,"width":250,"height":128},
 		{"id":"d2743940a07fa3b9","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-1120,"y":629,"width":354,"height":191},
 		{"id":"b1d7ca215c3f983f","type":"text","text":"### Funcionamiento\nEl sistema debe permitir corrección de errores por parte del usuario y la libertad de uso en medida que se cumpla con la idea del negocio.","x":-664,"y":600,"width":354,"height":230,"color":"1"},
 		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":149,"y":438,"width":354,"height":191},
@@ -19,12 +18,13 @@
 		{"id":"2085ae2c70f88776","type":"text","text":"### Ejemplos\n1. Uso de la tecla back en un navegador web para que el usuario pueda regresar de una acción.\n2. Aplicaciones móviles que permitan regresar o avanzar con gestos.","x":-1060,"y":1069,"width":455,"height":211},
 		{"id":"5fc59d180fbcf7a5","type":"text","text":"### Ventajas\n- Control del usuario\n- Seguridad al momento de usar el sistema.\n- Uso de salidas de emergencia,\n### Desventajas\n- Sobrecarga de opciones.\n- Mal uso del sistema al corregir las acciones cada momento.","x":-440,"y":960,"width":455,"height":369},
 		{"id":"22f63377608543ef","type":"text","text":"### Definición\nCapacidad del sistema para garantizar al usuario el control del sistema además de ofrecer deshacer y rehacer de las acciones.\n","x":-280,"y":535,"width":354,"height":190,"color":"4"},
-		{"id":"421d0debda15e400","type":"text","text":"## Consistencia y estándar","x":-943,"y":190,"width":250,"height":128},
 		{"id":"2ce7266ac38b1072","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-1600,"y":-10,"width":354,"height":191},
 		{"id":"6ce16d4d315f8025","type":"text","text":"### Ejemplos\n1. Uso de la tecla back en un navegador web para que el usuario pueda regresar de una acción.\n2. Aplicaciones móviles que permitan regresar o avanzar con gestos.","x":-2215,"y":94,"width":455,"height":211},
 		{"id":"78f4fefdfb3084ef","type":"text","text":"### Funcionamiento\nEl sistema debe permitir corrección de errores por parte del usuario y la libertad de uso en medida que se cumpla con la idea del negocio.","x":-1532,"y":275,"width":354,"height":230,"color":"1"},
 		{"id":"a5467641534b1fbd","type":"text","text":"### Ventajas\n- Control del usuario\n- Seguridad al momento de usar el sistema.\n- Uso de salidas de emergencia,\n### Desventajas\n- Sobrecarga de opciones.\n- Mal uso del sistema al corregir las acciones cada momento.","x":-2215,"y":352,"width":455,"height":373},
-		{"id":"f12b1e8c15e77298","type":"text","text":"### Definición\nCapacidad del sistema para garantizar al usuario el control del sistema además de ofrecer deshacer y rehacer de las acciones.\n","x":-1532,"y":539,"width":354,"height":190,"color":"4"}
+		{"id":"f12b1e8c15e77298","type":"text","text":"### Definición\nCapacidad del sistema para mantener un orden en la \n","x":-1532,"y":539,"width":354,"height":190,"color":"4"},
+		{"id":"421d0debda15e400","type":"text","text":"## Consistencia y estándar","x":-943,"y":147,"width":250,"height":128},
+		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-530,"y":224,"width":250,"height":128}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -53,6 +53,7 @@
 		{"id":"4d80dfbe03c1ab09","fromNode":"f12b1e8c15e77298","fromSide":"left","toNode":"a5467641534b1fbd","toSide":"right"},
 		{"id":"d3949fbbdbdd2b5a","fromNode":"421d0debda15e400","fromSide":"left","toNode":"f12b1e8c15e77298","toSide":"right"},
 		{"id":"44f237efc3a9939a","fromNode":"421d0debda15e400","fromSide":"left","toNode":"78f4fefdfb3084ef","toSide":"right"},
-		{"id":"e8f727e03bacc755","fromNode":"421d0debda15e400","fromSide":"left","toNode":"2ce7266ac38b1072","toSide":"right"}
+		{"id":"e8f727e03bacc755","fromNode":"421d0debda15e400","fromSide":"left","toNode":"2ce7266ac38b1072","toSide":"right"},
+		{"id":"08de2b2389db7223","fromNode":"cdb301e9601ae90f","fromSide":"bottom","toNode":"421d0debda15e400","toSide":"right"}
 	]
 }
