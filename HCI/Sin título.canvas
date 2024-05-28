@@ -6,14 +6,14 @@
 		{"id":"d2e678ec11b7af97","x":424,"y":-520,"width":277,"height":60,"type":"text","text":"### Funcionamiento"},
 		{"id":"f94ee0daa15d054f","x":428,"y":-401,"width":278,"height":80,"type":"text","text":"### Ventajas y Desventajas"},
 		{"id":"c0d2dfc67e1ee7a3","x":442,"y":-261,"width":250,"height":60,"type":"text","text":"### Aplicación"},
-		{"id":"3407d8512761deb6","x":456,"y":-140,"width":250,"height":60,"type":"text","text":"### Ejemplos"}
+		{"id":"3407d8512761deb6","x":620,"y":-140,"width":250,"height":60,"type":"text","text":"### Ejemplos"}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
 		{"id":"6d7d5989dfbd41de","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"a6767901612f376d","toSide":"left"},
 		{"id":"0b1672c0657e977d","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"d2e678ec11b7af97","toSide":"left"},
-		{"id":"5c48392e619ba228","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"f94ee0daa15d054f","toSide":"left"},
 		{"id":"8002b98c60dffa64","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"c0d2dfc67e1ee7a3","toSide":"left"},
-		{"id":"a7c688e79ba04583","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"3407d8512761deb6","toSide":"left"}
+		{"id":"f59644dbc528e90f","fromNode":"c0d2dfc67e1ee7a3","fromSide":"bottom","toNode":"3407d8512761deb6","toSide":"left"},
+		{"id":"149613ac53299501","fromNode":"a6767901612f376d","fromSide":"right","toNode":"f94ee0daa15d054f","toSide":"right"}
 	]
 }
