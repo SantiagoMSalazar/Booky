@@ -10,7 +10,7 @@
 		{"id":"f0099a1bceaf21fb","type":"text","text":"### Funcionamiento","x":400,"y":150,"width":277,"height":60},
 		{"id":"6f71a451bc6c23ec","type":"text","text":"### Aplicación","x":400,"y":269,"width":250,"height":60},
 		{"id":"6c28063bbd450ecd","type":"text","text":"### Ejemplos","x":837,"y":150,"width":250,"height":60},
-		{"id":"c0d2dfc67e1ee7a3","x":326,"y":-291,"width":250,"height":60,"type":"text","text":"### Aplicación\n"},
+		{"id":"c0d2dfc67e1ee7a3","x":326,"y":-291,"width":250,"height":60,"type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar un golpe visual sobre "},
 		{"id":"d2e678ec11b7af97","x":330,"y":-600,"width":277,"height":259,"color":"1","type":"text","text":"### Funcionamiento\nEl sistema debe mantener informado al usuario sobre el estado del programa, de tal forma que se puedan realizar acciones en base a esa retroalimentación."}
 	],
 	"edges":[
