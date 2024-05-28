@@ -3,7 +3,7 @@
 		{"id":"cdb301e9601ae90f","x":-480,"y":-80,"width":250,"height":140,"color":"3","type":"text","text":"# Principios de Usabilidad/ Heurísiticas"},
 		{"id":"5eeb068b71a1879c","x":-230,"y":-381,"width":250,"height":120,"color":"5","type":"text","text":"## Visibilidad del estado del sistema"},
 		{"id":"a6767901612f376d","x":322,"y":-800,"width":285,"height":180,"color":"4","type":"text","text":"### Definición\nCapacidad de informar al usuario sobre lo que sucede en el sistema.\n"},
-		{"id":"f94ee0daa15d054f","x":745,"y":-730,"width":278,"height":80,"type":"text","text":"### Ventajas y Desventajas\n"},
+		{"id":"f94ee0daa15d054f","x":745,"y":-730,"width":278,"height":80,"type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación"},
 		{"id":"24b0fcd3cdc2c341","type":"text","text":"### Definición\n","x":400,"y":30,"width":285,"height":60},
 		{"id":"1c9724503ff90266","type":"text","text":"### Ventajas y Desventajas","x":823,"y":-20,"width":278,"height":80},
 		{"id":"f0099a1bceaf21fb","type":"text","text":"### Funcionamiento","x":400,"y":150,"width":277,"height":60},
