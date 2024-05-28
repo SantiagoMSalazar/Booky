@@ -3,7 +3,6 @@
 		{"id":"cdb301e9601ae90f","type":"text","text":"# Principios de Usabilidad/ Heurísiticas","x":-480,"y":-80,"width":250,"height":140,"color":"3"},
 		{"id":"5eeb068b71a1879c","type":"text","text":"## Visibilidad del estado del sistema","x":-230,"y":-381,"width":250,"height":120,"color":"5"},
 		{"id":"c0d2dfc67e1ee7a3","type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar una respuesta visual sobre las acciones que se toman.","x":326,"y":-291,"width":250,"height":191},
-		{"id":"411b28bcdc138a56","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-230,"y":160,"width":250,"height":128},
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":773,"y":369,"width":455,"height":260},
 		{"id":"d2743940a07fa3b9","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-1120,"y":629,"width":354,"height":191},
@@ -23,8 +22,10 @@
 		{"id":"421d0debda15e400","type":"text","text":"## Consistencia y estándar","x":-943,"y":147,"width":250,"height":128},
 		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-530,"y":224,"width":250,"height":128},
 		{"id":"a5467641534b1fbd","type":"text","text":"### Ventajas\n- Generación de acciones intuitivas para el usuario.\n### Desventajas\n- Reducción de la innovación en el diseño e interacción dentro del sistema.\n- La dependencia de los estándares pueden volverse complejos al trabajar con nuevos cambios.","x":-2055,"y":907,"width":455,"height":373},
-		{"id":"6ce16d4d315f8025","type":"text","text":"### Ejemplos\n1. Las aplicaciones de comercio electrónico siempre siguen un estándar en cuanto al carrito de compras.\n2. ","x":-2055,"y":634,"width":455,"height":211},
-		{"id":"2ce7266ac38b1072","type":"text","text":"### Aplicación\nEl sistema debe seguir los mismos estilos dentro de la aplicación además de tener secuencias de acciones similares.","x":-1532,"y":52,"width":354,"height":191}
+		{"id":"6ce16d4d315f8025","type":"text","text":"### Ejemplos\n1. Las aplicaciones de comercio electrónico siempre siguen un estándar en cuanto al carrito de compras.\n2. Mantener colores y modelos de botones específicos dentro del mismo producto.","x":-2055,"y":600,"width":455,"height":245},
+		{"id":"2ce7266ac38b1072","type":"text","text":"### Aplicación\nEl sistema debe seguir los mismos estilos dentro de la aplicación además de tener secuencias de acciones similares.","x":-1532,"y":52,"width":354,"height":191},
+		{"id":"f4f20cadb77422eb","type":"text","text":"## Consistencia y estándar","x":-957,"y":-164,"width":250,"height":128},
+		{"id":"411b28bcdc138a56","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-176,"y":126,"width":250,"height":128}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
