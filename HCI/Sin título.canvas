@@ -13,7 +13,12 @@
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
 		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":760,"y":-80,"width":455,"height":320},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":773,"y":369,"width":455,"height":260},
-		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-605,"y":241,"width":250,"height":128}
+		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-560,"y":224,"width":250,"height":128},
+		{"id":"d2743940a07fa3b9","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":-888,"y":1138,"width":354,"height":191},
+		{"id":"2085ae2c70f88776","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":-435,"y":1199,"width":455,"height":260},
+		{"id":"5fc59d180fbcf7a5","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":-207,"y":879,"width":455,"height":320},
+		{"id":"22f63377608543ef","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":-334,"y":510,"width":354,"height":180,"color":"4"},
+		{"id":"b1d7ca215c3f983f","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":-711,"y":480,"width":354,"height":230,"color":"1"}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -29,6 +34,12 @@
 		{"id":"9ae2b95641560cc6","fromNode":"393910dce5f871be","fromSide":"right","toNode":"f43df61568ff0a64","toSide":"left"},
 		{"id":"893db17156fe5cc9","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"dd0b46af1151fb48","toSide":"left"},
 		{"id":"e2a4563244d891f6","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"393910dce5f871be","toSide":"left"},
-		{"id":"d289ce9bb2c68288","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"3d5b57d019831cd0","toSide":"left"}
+		{"id":"d289ce9bb2c68288","fromNode":"411b28bcdc138a56","fromSide":"right","toNode":"3d5b57d019831cd0","toSide":"left"},
+		{"id":"3762a0fd9e3ea5dc","fromNode":"cdb301e9601ae90f","fromSide":"bottom","toNode":"cc7a0d6a28ae5b63","toSide":"top"},
+		{"id":"ef11106a1f00aa8b","fromNode":"22f63377608543ef","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"left"},
+		{"id":"7c144bd365b8001d","fromNode":"d2743940a07fa3b9","fromSide":"right","toNode":"2085ae2c70f88776","toSide":"left"},
+		{"id":"f77ca68e654e9d48","fromNode":"b1d7ca215c3f983f","fromSide":"bottom","toNode":"5fc59d180fbcf7a5","toSide":"left"},
+		{"id":"8b728e7c45e28e92","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"b1d7ca215c3f983f","toSide":"top"},
+		{"id":"23488e12e045ec6b","fromNode":"cc7a0d6a28ae5b63","fromSide":"bottom","toNode":"22f63377608543ef","toSide":"top"}
 	]
 }
