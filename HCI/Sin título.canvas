@@ -4,7 +4,7 @@
 		{"id":"5eeb068b71a1879c","x":-230,"y":-381,"width":250,"height":120,"color":"6","type":"text","text":"## Visibilidad del estado del sistema"},
 		{"id":"a6767901612f376d","x":322,"y":-800,"width":285,"height":180,"type":"text","text":"### Definición\nSe refiere a la eficiencia para mantener informado al usuario sobre el estado del sistema.\n"},
 		{"id":"f94ee0daa15d054f","x":745,"y":-730,"width":278,"height":80,"type":"text","text":"### Ventajas y Desventajas"},
-		{"id":"d2e678ec11b7af97","x":322,"y":-560,"width":277,"height":60,"type":"text","text":"### Funcionamiento"},
+		{"id":"d2e678ec11b7af97","x":322,"y":-560,"width":277,"height":60,"type":"text","text":"### Funcionamiento\nla comunicación abierta entre el sistema y el usuario no solo te permite entender lo que está sucediendo, sino que también te capacita para tomar decisiones basadas en esa información."},
 		{"id":"c0d2dfc67e1ee7a3","x":322,"y":-441,"width":250,"height":60,"type":"text","text":"### Aplicación"},
 		{"id":"3407d8512761deb6","x":759,"y":-560,"width":250,"height":60,"type":"text","text":"### Ejemplos"},
 		{"id":"24b0fcd3cdc2c341","type":"text","text":"### Definición\n","x":400,"y":30,"width":285,"height":60},
