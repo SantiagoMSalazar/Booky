@@ -17,15 +17,20 @@
 		{"id":"2085ae2c70f88776","type":"text","text":"### Ejemplos\n1. Uso de la tecla back en un navegador web para que el usuario pueda regresar de una acción.\n2. Aplicaciones móviles que permitan regresar o avanzar con gestos.","x":-1060,"y":1069,"width":455,"height":211},
 		{"id":"5fc59d180fbcf7a5","type":"text","text":"### Ventajas\n- Control del usuario\n- Seguridad al momento de usar el sistema.\n- Uso de salidas de emergencia,\n### Desventajas\n- Sobrecarga de opciones.\n- Mal uso del sistema al corregir las acciones cada momento.","x":-440,"y":960,"width":455,"height":369},
 		{"id":"22f63377608543ef","type":"text","text":"### Definición\nCapacidad del sistema para garantizar al usuario el control del sistema además de ofrecer deshacer y rehacer de las acciones.\n","x":-280,"y":535,"width":354,"height":190,"color":"4"},
-		{"id":"78f4fefdfb3084ef","type":"text","text":"### Funcionamiento\nEl sistema debe debe mantener un estándar y una línea gráfica para reducir la carga cognitiva causada al usuario.","x":-1532,"y":275,"width":354,"height":230,"color":"1"},
-		{"id":"f12b1e8c15e77298","type":"text","text":"### Definición\nCapacidad del sistema para mantener una misma línea gráfica y de interacción dentro de un producto o un conjunto de productos.\n","x":-1532,"y":539,"width":354,"height":190,"color":"4"},
 		{"id":"421d0debda15e400","type":"text","text":"## Consistencia y estándar","x":-943,"y":147,"width":250,"height":128},
 		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-530,"y":224,"width":250,"height":128},
-		{"id":"a5467641534b1fbd","type":"text","text":"### Ventajas\n- Generación de acciones intuitivas para el usuario.\n### Desventajas\n- Reducción de la innovación en el diseño e interacción dentro del sistema.\n- La dependencia de los estándares pueden volverse complejos al trabajar con nuevos cambios.","x":-2055,"y":907,"width":455,"height":373},
-		{"id":"6ce16d4d315f8025","type":"text","text":"### Ejemplos\n1. Las aplicaciones de comercio electrónico siempre siguen un estándar en cuanto al carrito de compras.\n2. Mantener colores y modelos de botones específicos dentro del mismo producto.","x":-2055,"y":600,"width":455,"height":245},
 		{"id":"2ce7266ac38b1072","type":"text","text":"### Aplicación\nEl sistema debe seguir los mismos estilos dentro de la aplicación además de tener secuencias de acciones similares.","x":-1532,"y":52,"width":354,"height":191},
-		{"id":"f4f20cadb77422eb","type":"text","text":"## Consistencia y estándar","x":-957,"y":-164,"width":250,"height":128},
-		{"id":"411b28bcdc138a56","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-176,"y":126,"width":250,"height":128}
+		{"id":"411b28bcdc138a56","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-176,"y":126,"width":250,"height":128},
+		{"id":"f4f20cadb77422eb","type":"text","text":"## Ayudar al usuario a reconocer, diagnosticar y recuperarse de errores","x":-957,"y":-138,"width":352,"height":128},
+		{"id":"f2a9c8583a179468","type":"text","text":"### Aplicación\nEl sistema debe seguir los mismos estilos dentro de la aplicación además de tener secuencias de acciones similares.","x":-1414,"y":-770,"width":354,"height":191},
+		{"id":"37ee2ccc5728d911","type":"text","text":"### Ejemplos\n1. Las aplicaciones de comercio electrónico siempre siguen un estándar en cuanto al carrito de compras.\n2. Mantener colores y modelos de botones específicos dentro del mismo producto.","x":-2164,"y":-695,"width":455,"height":245},
+		{"id":"4d0af9637f54db3c","type":"text","text":"### Ventajas\n- Generación de acciones intuitivas para el usuario.\n### Desventajas\n- Reducción de la innovación en el diseño e interacción dentro del sistema.\n- La dependencia de los estándares pueden volverse complejos al trabajar con nuevos cambios.","x":-2164,"y":-388,"width":455,"height":373},
+		{"id":"f6ebfe6f2325d1c9","type":"text","text":"### Funcionamiento\nEl sistema debe debe mantener un estándar y una línea gráfica para reducir la carga cognitiva causada al usuario.","x":-1414,"y":-521,"width":354,"height":230,"color":"1"},
+		{"id":"94d1d54275e8bd17","type":"text","text":"### Definición\nCapacidad del sistema para mantener una misma línea gráfica y de interacción dentro de un producto o un conjunto de productos.\n","x":-1414,"y":-251,"width":354,"height":190,"color":"4"},
+		{"id":"6ce16d4d315f8025","type":"text","text":"### Ejemplos\n1. Las aplicaciones de comercio electrónico siempre siguen un estándar en cuanto al carrito de compras.\n2. Mantener colores y modelos de botones específicos dentro del mismo producto.","x":-2619,"y":355,"width":455,"height":245},
+		{"id":"a5467641534b1fbd","type":"text","text":"### Ventajas\n- Generación de acciones intuitivas para el usuario.\n### Desventajas\n- Reducción de la innovación en el diseño e interacción dentro del sistema.\n- La dependencia de los estándares pueden volverse complejos al trabajar con nuevos cambios.","x":-2619,"y":802,"width":455,"height":373},
+		{"id":"f12b1e8c15e77298","type":"text","text":"### Definición\nCapacidad del sistema para mantener una misma línea gráfica y de interacción dentro de un producto o un conjunto de productos.\n","x":-1768,"y":640,"width":354,"height":190,"color":"4"},
+		{"id":"78f4fefdfb3084ef","type":"text","text":"### Funcionamiento\nEl sistema debe debe mantener un estándar y una línea gráfica para reducir la carga cognitiva causada al usuario.","x":-1768,"y":305,"width":354,"height":230,"color":"1"}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -55,6 +60,13 @@
 		{"id":"d3949fbbdbdd2b5a","fromNode":"421d0debda15e400","fromSide":"left","toNode":"f12b1e8c15e77298","toSide":"right"},
 		{"id":"44f237efc3a9939a","fromNode":"421d0debda15e400","fromSide":"left","toNode":"78f4fefdfb3084ef","toSide":"right"},
 		{"id":"e8f727e03bacc755","fromNode":"421d0debda15e400","fromSide":"left","toNode":"2ce7266ac38b1072","toSide":"right"},
-		{"id":"08de2b2389db7223","fromNode":"cdb301e9601ae90f","fromSide":"bottom","toNode":"421d0debda15e400","toSide":"right"}
+		{"id":"08de2b2389db7223","fromNode":"cdb301e9601ae90f","fromSide":"bottom","toNode":"421d0debda15e400","toSide":"right"},
+		{"id":"5a5cbaadcab48ee5","fromNode":"cdb301e9601ae90f","fromSide":"left","toNode":"f4f20cadb77422eb","toSide":"right"},
+		{"id":"467c197c5a497225","fromNode":"f6ebfe6f2325d1c9","fromSide":"left","toNode":"4d0af9637f54db3c","toSide":"right"},
+		{"id":"3076b3ee67a9b5b3","fromNode":"94d1d54275e8bd17","fromSide":"left","toNode":"4d0af9637f54db3c","toSide":"right"},
+		{"id":"b750da4f38a5cc9e","fromNode":"f2a9c8583a179468","fromSide":"left","toNode":"37ee2ccc5728d911","toSide":"right"},
+		{"id":"21da787be1d3831b","fromNode":"f4f20cadb77422eb","fromSide":"left","toNode":"94d1d54275e8bd17","toSide":"right"},
+		{"id":"5b7aac561d586861","fromNode":"f4f20cadb77422eb","fromSide":"top","toNode":"f6ebfe6f2325d1c9","toSide":"right"},
+		{"id":"6fa5facb64842823","fromNode":"f4f20cadb77422eb","fromSide":"top","toNode":"f2a9c8583a179468","toSide":"right"}
 	]
 }
