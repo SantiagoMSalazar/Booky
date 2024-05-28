@@ -7,3 +7,4 @@ Jacob Nielsen -->  Un atributo de calidad que determina qué tan sencillas son d
 - No es una rregla estática, fija o estricta
 - No te dirá los pasos
 - Don Norman $\rightarrow$ 
+- 
