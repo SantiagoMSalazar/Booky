@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"cdb301e9601ae90f","x":-140,"y":-120,"width":250,"height":60,"color":"3","type":"text","text":"Principios de Usabilidad/ Heurísiticas"},
-		{"id":"5eeb068b71a1879c","x":194,"y":-162,"width":250,"height":60,"type":"text","text":""}
+		{"id":"cdb301e9601ae90f","x":-480,"y":0,"width":250,"height":60,"color":"3","type":"text","text":"**Principios de Usabilidad/ Heurísiticas**"},
+		{"id":"5eeb068b71a1879c","x":-120,"y":-320,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"}
