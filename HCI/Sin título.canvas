@@ -4,7 +4,6 @@
 		{"id":"421d0debda15e400","type":"text","text":"## Consistencia y estándar","x":-943,"y":147,"width":250,"height":128},
 		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## Control y libertad del usuario","x":-530,"y":224,"width":250,"height":128},
 		{"id":"411b28bcdc138a56","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-176,"y":126,"width":250,"height":128},
-		{"id":"f4f20cadb77422eb","type":"text","text":"## Ayudar al usuario a reconocer, diagnosticar y recuperarse de errores","x":-957,"y":-138,"width":352,"height":128},
 		{"id":"f2a9c8583a179468","type":"text","text":"### Aplicación\nEl sistema debe seguir los mismos estilos dentro de la aplicación además de tener secuencias de acciones similares.","x":-1414,"y":-770,"width":354,"height":191},
 		{"id":"37ee2ccc5728d911","type":"text","text":"### Ejemplos\n1. Gmail permite trabajar con la opción de deshacer al enviar un correo en caso se haya cometido un error.\n2. cuando una página tiene un error 404 describe que el problema puede ser que se ha borrado o se ha movido.","x":-2164,"y":-695,"width":455,"height":255},
 		{"id":"4d0af9637f54db3c","type":"text","text":"### Ventajas\n- Se reduce el impacto de frustración que el usuario siente al enfrentarse a un error.\n- Se mejora el flujo de ¿l uso de la aplicación.\n### Desventajas\n- Pueden volverse dependientes de las soluciones que brinda el sistema.\n- Se satura la interfaz con modales y mensajes respecto a los errores.","x":-2164,"y":-388,"width":455,"height":373},
@@ -31,7 +30,9 @@
 		{"id":"f94ee0daa15d054f","type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados.","x":960,"y":-940,"width":455,"height":320},
 		{"id":"a6767901612f376d","type":"text","text":"### Definición\nCapacidad de informar al usuario sobre lo que sucede en el sistema.\n","x":323,"y":-710,"width":285,"height":180,"color":"4"},
 		{"id":"5eeb068b71a1879c","type":"text","text":"## Visibilidad del estado del sistema","x":-126,"y":-250,"width":250,"height":120,"color":"5"},
-		{"id":"b05e7d9a570ad4d3","type":"text","text":"## Ayudar al usuario a reconocer, diagnosticar y recuperarse de errores","x":-15,"y":244,"width":352,"height":128}
+		{"id":"f4f20cadb77422eb","type":"text","text":"## Ayudar al usuario a reconocer, diagnosticar y recuperarse de errores","x":-994,"y":-61,"width":352,"height":128},
+		{"id":"b05e7d9a570ad4d3","type":"text","text":"## Prevención de errores","x":-818,"y":-406,"width":258,"height":90},
+		{"id":"8c0041b30349311a","type":"text","text":"## Prevención de errores","x":-434,"y":-406,"width":258,"height":90}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
@@ -68,6 +69,7 @@
 		{"id":"b750da4f38a5cc9e","fromNode":"f2a9c8583a179468","fromSide":"left","toNode":"37ee2ccc5728d911","toSide":"right"},
 		{"id":"21da787be1d3831b","fromNode":"f4f20cadb77422eb","fromSide":"left","toNode":"94d1d54275e8bd17","toSide":"right"},
 		{"id":"5b7aac561d586861","fromNode":"f4f20cadb77422eb","fromSide":"top","toNode":"f6ebfe6f2325d1c9","toSide":"right"},
-		{"id":"6fa5facb64842823","fromNode":"f4f20cadb77422eb","fromSide":"top","toNode":"f2a9c8583a179468","toSide":"right"}
+		{"id":"6fa5facb64842823","fromNode":"f4f20cadb77422eb","fromSide":"top","toNode":"f2a9c8583a179468","toSide":"right"},
+		{"id":"034934afdfa0b08a","fromNode":"cdb301e9601ae90f","fromSide":"left","toNode":"b05e7d9a570ad4d3","toSide":"bottom"}
 	]
 }
