@@ -10,7 +10,7 @@
 		{"id":"411b28bcdc138a56","x":-230,"y":160,"width":250,"height":128,"type":"text","text":"## coincidencia entre el sistema y el mundo real"},
 		{"id":"dd0b46af1151fb48","type":"text","text":"### Definición\nCapacidad de Hablar el idioma del usuario y las convenciones del mundo real\n","x":309,"y":-10,"width":285,"height":180,"color":"4"},
 		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nEs aplicable a cualquier sistema que permita generar una respuesta visual sobre las acciones que se toman.","x":313,"y":499,"width":250,"height":191},
-		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema debe utilizar el","x":317,"y":190,"width":277,"height":259,"color":"1"},
+		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se de","x":317,"y":190,"width":277,"height":259,"color":"1"},
 		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Asensor que al presionar el botón me indica si sube o baja y en qué piso está.\n2. Al realizar una compra en una tienda Web se interactúa con el botón de carrito de compras, este botón debe dar un feedback cuando se presiona.","x":760,"y":250,"width":455,"height":260},
 		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Acompañamiento al usuario, no se lo abandona durante el uso de la aplicación.\n- Confianza del usuario en la aplicación al ser abierta en cuento al estado que se presenta.\n### Desventajas\n- Se sobrecarga de información con los estados.","x":760,"y":-80,"width":455,"height":320}
 	],
