@@ -1,9 +1,13 @@
 {
 	"nodes":[
-		{"id":"cdb301e9601ae90f","x":-480,"y":0,"width":250,"height":60,"color":"3","type":"text","text":"Principios de Usabilidad/ Heurísiticas**"},
-		{"id":"5eeb068b71a1879c","x":-120,"y":-340,"width":250,"height":120,"color":"6","type":"text","text":"## Visibilidad del estado del sistema"}
+		{"id":"cdb301e9601ae90f","x":-480,"y":-80,"width":250,"height":140,"color":"3","type":"text","text":"# Principios de Usabilidad/ Heurísiticas"},
+		{"id":"5eeb068b71a1879c","x":-140,"y":-320,"width":250,"height":120,"color":"6","type":"text","text":"## Visibilidad del estado del sistema"},
+		{"id":"a6767901612f376d","x":175,"y":-291,"width":250,"height":60,"type":"text","text":"### Definición\n"},
+		{"id":"d2e678ec11b7af97","x":183,"y":-209,"width":250,"height":60,"type":"text","text":"### Funcionamiento"}
 	],
 	"edges":[
-		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"}
+		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
+		{"id":"6d7d5989dfbd41de","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"a6767901612f376d","toSide":"left"},
+		{"id":"0b1672c0657e977d","fromNode":"5eeb068b71a1879c","fromSide":"right","toNode":"d2e678ec11b7af97","toSide":"left"}
 	]
 }
