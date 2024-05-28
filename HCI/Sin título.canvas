@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"cdb301e9601ae90f","x":-480,"y":-80,"width":250,"height":140,"color":"3","type":"text","text":"# Principios de Usabilidad/ Heurísiticas"},
 		{"id":"5eeb068b71a1879c","x":-230,"y":-381,"width":250,"height":120,"color":"6","type":"text","text":"## Visibilidad del estado del sistema"},
-		{"id":"a6767901612f376d","x":322,"y":-680,"width":285,"height":60,"type":"text","text":"### Definición\n\n"},
+		{"id":"a6767901612f376d","x":322,"y":-680,"width":285,"height":60,"type":"text","text":"### Definición\nSe refiere a qué tan\n"},
 		{"id":"f94ee0daa15d054f","x":745,"y":-730,"width":278,"height":80,"type":"text","text":"### Ventajas y Desventajas"},
 		{"id":"d2e678ec11b7af97","x":322,"y":-560,"width":277,"height":60,"type":"text","text":"### Funcionamiento"},
 		{"id":"c0d2dfc67e1ee7a3","x":322,"y":-441,"width":250,"height":60,"type":"text","text":"### Aplicación"},
