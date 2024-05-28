@@ -12,7 +12,8 @@
 		{"id":"3d5b57d019831cd0","type":"text","text":"### Aplicación\nLa aplicación en un sistema involucra brindar acciones y restos cercanos a la realidad que familiaricen al usuario.","x":240,"y":499,"width":354,"height":191},
 		{"id":"393910dce5f871be","type":"text","text":"### Funcionamiento\nEl sistema aparte de usar el idioma del usuario debe interactuar con las palabras familiares. además, se debe buscar imitar las interacciones del mundo real","x":240,"y":190,"width":354,"height":230,"color":"1"},
 		{"id":"f43df61568ff0a64","type":"text","text":"### Ventajas\n- Facilidad de comprensión de usuario respecto al uso del sistema.\n### Desventajas\n- No siempre será factible que el sistema utilice las palabras que mejor le familiaricen al usuario además de que puede ser una acción compleja.","x":760,"y":-80,"width":455,"height":320},
-		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.","x":773,"y":369,"width":455,"height":260}
+		{"id":"9ea47962c1da6f9c","type":"text","text":"### Ejemplos\n1. Una aplicación de libros que permita deslizar para cambiar de página, resaltar texto al mantener presionado etc.\n2. Un directorio de contactos, el nombre sería \"Directorio personal\", es un nombre concreto y en el lenguaje del usuario.","x":773,"y":369,"width":455,"height":260},
+		{"id":"cc7a0d6a28ae5b63","type":"text","text":"## coincidencia entre el sistema y el mundo real","x":-605,"y":241,"width":250,"height":128}
 	],
 	"edges":[
 		{"id":"37a47264b6a415b6","fromNode":"cdb301e9601ae90f","fromSide":"right","toNode":"5eeb068b71a1879c","toSide":"left"},
