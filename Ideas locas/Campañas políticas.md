@@ -1,0 +1,6 @@
+- Utilizar todas las herrameintas de IA como:
+	- Sora
+	- Chatgpt
+	- OpenAI
+	- Dalle
+	- 
