@@ -153,8 +153,11 @@ Day: tuesday
 # Negro
 - **Significado**
 	- Representa la elegancia, glamour
-	- También 
+	- También se puede formar un target.
+	- Puede ser misterioso.
 - **Sensación que produce en las personas**
+	- Elegancia
+	- 
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
 
