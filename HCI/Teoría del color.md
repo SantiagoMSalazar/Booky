@@ -62,7 +62,7 @@ Day: tuesday
 	- Nikelodeon: Causa entusiasmo en los niños.
 	- The Home Depot:  Tienda de productos para el hogar.
 - **Ejemplos donde lo usaría
-	- 
+	- En una start
 # Amarillo
 - **Significado**
 - **Sensación que produce en las personas**
