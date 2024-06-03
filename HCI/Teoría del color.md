@@ -137,5 +137,11 @@ Day: tuesday
 	- Yahoo
 - **Ejemplos donde lo usaría**
 	- App de yoga.
-	- 
+	- Una tienda de E-books
+# Blanco
+- **Significado**
+	- Se asocia a
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 
