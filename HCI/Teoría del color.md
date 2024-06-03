@@ -149,7 +149,7 @@ Day: tuesday
 	- Adidas.
 - **Ejemplos donde lo usaría
 	- Aplicación para tomar notas
-	- Aplicación
+	- Una aplicación para un 
 # Negro
 - **Significado**
 - 
