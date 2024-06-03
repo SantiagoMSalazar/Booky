@@ -112,14 +112,17 @@ Day: tuesday
 # Azul
 - **Significado**
 	- Es un color que refleja la estabilidad, se asocia al mar y al cielo.
-	- 
+	- Se toma como garantía y confianza.
 - **Sensación que produce en las personas**
 	- Produce armonía, estabilidad, calma, confianza.
-	- Puede asociarse a la frialdad 
+	- Puede asociarse a la frialdad y depresión.
 - **Marcas que lo han utilizado**
 	- Favorito de las marcas.
-	- 
+	- Facebook
+	- Oral B
 - **Ejemplos donde lo usaría**
+	- Aplicación bancaria.
+	- StatUp de QA.
 
 
 # Negro
