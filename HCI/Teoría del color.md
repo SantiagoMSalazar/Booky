@@ -30,7 +30,10 @@ Day: tuesday
 - Representa creatividad, actividad y calor.
 - Se lo usa para sustituir al rojo para no saturar tanto
 - Es de los mpas ocupados en la publicidad.
-- 
+- Ejemplos
+	- Nikelodeon, un programa para niños que llama la atención
+	- The Home Depot: También representa la creatividad
+# Amarillo
 # Rosa
 
 # Verde
