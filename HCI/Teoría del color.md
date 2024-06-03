@@ -32,9 +32,11 @@ Day: tuesday
 	- Peligro
 	- Energía
 	- Acción
-	- Es un color que llama la atención y evoca tanto el odio como la pasión, sirve para llamar la atención y gener
+	- Es un color que llama la atención y evoca tanto el odio como la pasión, sirve para llamar la atención y generar las emociones más fuertes.
 - **Sensación que produce en las personas**
-- **Marcas que lo han utilizado**
+	- Es el color que provoca apetito en las personas, también se centra en las emociones fuertes de distinto tipo.
+- **Marcas que lo han utilizado
+	- **
 - **Ejemplos donde lo usaría**
 # Naranja
 - Es una combinación de rojo y amarillo.
