@@ -35,8 +35,11 @@ Day: tuesday
 	- The Home Depot: También representa la creatividad
 # Amarillo
 - **Significado**
-- **Sensación**
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 # Rosa
+
 
 # Verde
 
