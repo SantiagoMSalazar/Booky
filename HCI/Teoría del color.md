@@ -78,9 +78,14 @@ Day: tuesday
 	- Ikea: Felicidad de cambiarse de casa.
 - **Ejemplos donde lo usaría**
 	- En una radio online.
-	- En una aplicación relacionada a la ingeniería civil
+	- En una aplicación relacionada a la ingeniería civil.
 # Rosa
-
+- **Significado**
+	- Transmite calidez, amor y sexualidad.
+- **Sensación que produce en las personas**
+	- Es un color llamativo para el p
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 
 # Verde
 
