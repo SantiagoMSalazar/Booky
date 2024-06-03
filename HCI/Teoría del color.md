@@ -125,5 +125,12 @@ Day: tuesday
 	- StatUp de QA.
 
 
-# Negro
+# Violeta
+- **Significado**
+	- Es el color de la realeza.
+- **Sensación que produce en las personas**
+	- Causa sensaciones de poder, nobleza.
+	- Arrogancia 
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 
