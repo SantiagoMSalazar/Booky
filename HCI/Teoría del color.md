@@ -148,7 +148,8 @@ Day: tuesday
 	- Sony
 	- Adidas.
 - **Ejemplos donde lo usaría
-
+	- Aplicación para tomar notas
+	- Aplicación
 # Negro
 - **Significado**
 - 
