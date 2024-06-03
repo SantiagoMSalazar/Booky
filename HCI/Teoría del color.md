@@ -88,8 +88,10 @@ Day: tuesday
 	- Se asocia con la feminidad, el encanto y el cariño.
 - **Marcas que lo han utilizado**
 	- Victoria Secret en sus campañas.
-	- Barbie en todo su
+	- Barbie en todo su entorno.
 - **Ejemplos donde lo usaría**
+	- En una app de Yoga.
+	- En una página d
 
 # Verde
 
