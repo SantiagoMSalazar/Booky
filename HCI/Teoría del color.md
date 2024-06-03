@@ -157,7 +157,12 @@ Day: tuesday
 	- Puede ser misterioso.
 - **Sensación que produce en las personas**
 	- Elegancia
-	- 
+	- Tristeza
+	- Soledad
+	- Frialdad
 - **Marcas que lo han utilizado**
-- **Ejemplos donde lo usaría**
+	- Channel
+	- Nike
+- **Ejemplos donde lo usaría
+	- Aplicación de 
 
