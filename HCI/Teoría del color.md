@@ -151,6 +151,7 @@ Day: tuesday
 
 # Negro
 - **Significado**
+- 
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
