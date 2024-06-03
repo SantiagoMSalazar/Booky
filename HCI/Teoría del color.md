@@ -74,9 +74,10 @@ Day: tuesday
 	- Puede guiar los productos de forma positiva.
 	- Causa fatiga si se usa mucho.
 - **Marcas que lo han utilizado
-	- Ferrari
-	- Ik
+	- Ferrari: Sensaciones de felicidad sin preocupaciones.
+	- Ikea: Felicidad de cambiarse de casa.
 - **Ejemplos donde lo usaría**
+	- En una página de 
 # Rosa
 
 
