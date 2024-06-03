@@ -56,7 +56,10 @@ Day: tuesday
 	- Se lo usa para sustituir al rojo para no saturar tanto.
 	- Es de los más ocupados en la publicidad por estimular las compras.
 - **Sensación que produce en las personas**
+	- Estimula las ganas de comprar.
+	- Representa, la creatividad, la acción, el éxito y el equilibrio.
 - **Marcas que lo han utilizado**
+	- Nikelodeon: 
 - **Ejemplos donde lo usaría**
 # Amarillo
 - **Significado**
