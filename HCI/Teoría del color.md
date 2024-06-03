@@ -149,10 +149,11 @@ Day: tuesday
 	- Adidas.
 - **Ejemplos donde lo usaría
 	- Aplicación para tomar notas
-	- Una aplicación para un 
+	- Una aplicación para un médico.
 # Negro
 - **Significado**
-- 
+	- Representa la elegancia, glamour
+	- También 
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
