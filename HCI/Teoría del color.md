@@ -103,8 +103,11 @@ Day: tuesday
 	- Riqueza
 	- Envidia.
 - **Marcas que lo han utilizado**
-	- Jo
+	- John Deere, marca de vehículos de agricultura.
+	- Roots: marca de ropa.
 - **Ejemplos donde lo usaría**
+	- Aplicación de agencias turísticas.
+	- 
 
 # Violeta
 
