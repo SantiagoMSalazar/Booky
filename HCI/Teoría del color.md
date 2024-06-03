@@ -34,6 +34,8 @@ Day: tuesday
 	- Nikelodeon, un programa para niños que llama la atención
 	- The Home Depot: También representa la creatividad
 # Amarillo
+- **Significado**
+- 
 # Rosa
 
 # Verde
