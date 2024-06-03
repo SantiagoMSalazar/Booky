@@ -39,8 +39,8 @@ Day: tuesday
 	- Coca cola para generar hambre y felicidad
 	- YouTube para causar emoción e las personas al ver sus videos.
 - **Ejemplos donde lo usaría**
-	- Campaña de un cine.
-	- en
+	- En un servicio de aplicación de cine.
+	- En una 
 # Naranja
 - Es una combinación de rojo y amarillo.
 - Representa creatividad, actividad y calor.
