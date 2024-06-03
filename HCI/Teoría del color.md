@@ -165,5 +165,5 @@ Day: tuesday
 	- Nike
 - **Ejemplos donde lo usaría
 	- Aplicación De galería fotográfica
-	- Servicio de 
+	- Servicio de app esotérica
 
