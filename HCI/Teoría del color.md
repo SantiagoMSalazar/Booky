@@ -164,5 +164,6 @@ Day: tuesday
 	- Channel
 	- Nike
 - **Ejemplos donde lo usaría
-	- Aplicación de 
+	- Aplicación De galería fotográfica
+	- Servicio de 
 
