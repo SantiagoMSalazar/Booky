@@ -69,7 +69,13 @@ Day: tuesday
 	- Simboliza la felicidad, la juventud, optimismo y el verano.
 	- También es un color que indica la advertencia y se puede interpretar como de mala suerte.
 - **Sensación que produce en las personas**
-- **Marcas que lo han utilizado**
+	- Llama la atención 
+	- Ayuda a indicar que se quiere señalar.
+	- Puede guiar los productos de forma positiva.
+	- Causa fatiga si se usa mucho.
+- **Marcas que lo han utilizado
+	- Ferrari
+	- Ik
 - **Ejemplos donde lo usaría**
 # Rosa
 
