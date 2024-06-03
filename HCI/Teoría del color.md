@@ -82,9 +82,13 @@ Day: tuesday
 # Rosa
 - **Significado**
 	- Transmite calidez, amor y sexualidad.
+	- No es estimulante sino de calma.
 - **Sensación que produce en las personas**
-	- Es un color llamativo para el p
+	- Es un color llamativo para el público femenino.
+	- Se asocia con la feminidad, el encanto y el cariño.
 - **Marcas que lo han utilizado**
+	- Victoria Secret en sus campañas.
+	- Barbie en todo su
 - **Ejemplos donde lo usaría**
 
 # Verde
