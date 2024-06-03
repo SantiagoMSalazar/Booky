@@ -27,6 +27,12 @@ Day: tuesday
 - Puede llegar a saturar si se usa mal.
 
 - **Significado**
+	- Pasión
+	- Emoción
+	- Peligro
+	- Energía
+	- Acción
+	- Es un color que llama la atención y evoca tanto el odio como la pasión, sirve para llamar la atención y gener
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
