@@ -98,9 +98,12 @@ Day: tuesday
 	- Es un color que se relaciona con la ecología.
 	- Se asocia con la naturaleza, esperanza y armonía.
 	- También se asocia con el dinero.
-	- Pu
 - **Sensación que produce en las personas**
+	- Puede reflejar paz y esperanza.
+	- Riqueza
+	- Envidia.
 - **Marcas que lo han utilizado**
+	- Jo
 - **Ejemplos donde lo usaría**
 
 # Violeta
