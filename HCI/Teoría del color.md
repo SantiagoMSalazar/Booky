@@ -62,10 +62,12 @@ Day: tuesday
 	- Nikelodeon: Causa entusiasmo en los niños.
 	- The Home Depot:  Tienda de productos para el hogar.
 - **Ejemplos donde lo usaría
-	- En una startUp que ofezca servicios de Marketing.
-	- En una aplicación de educaci
+	- En una startUp que ofrezca servicios de Marketing.
+	- En una aplicación de educación virtual.
 # Amarillo
 - **Significado**
+	- Simboliza la felicidad, la juventud, optimismo y el verano.
+	- También es un color que indica la advertencia y se puede interpretar como de mala suerte.
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
