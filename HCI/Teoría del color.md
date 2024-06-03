@@ -77,7 +77,8 @@ Day: tuesday
 	- Ferrari: Sensaciones de felicidad sin preocupaciones.
 	- Ikea: Felicidad de cambiarse de casa.
 - **Ejemplos donde lo usaría**
-	- En una página de 
+	- En una radio online.
+	- En una aplicación relacionada a la ingeniería civil
 # Rosa
 
 
