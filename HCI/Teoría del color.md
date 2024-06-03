@@ -36,8 +36,11 @@ Day: tuesday
 - **Sensación que produce en las personas**
 	- Es el color que provoca apetito en las personas, también se centra en las emociones fuertes de distinto tipo.
 - **Marcas que lo han utilizado
-	- **
+	- Coca cola para generar hambre y felicidad
+	- YouTube para causar emoción e las personas al ver sus videos.
 - **Ejemplos donde lo usaría**
+	- Campaña de un cine.
+	- en
 # Naranja
 - Es una combinación de rojo y amarillo.
 - Representa creatividad, actividad y calor.
