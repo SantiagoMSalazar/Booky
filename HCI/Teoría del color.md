@@ -20,7 +20,11 @@ Day: tuesday
 	- energía
 	- acción
 - Psicología
-	- 
+	- Es el color más intenso y puede provocar las emociones más fuertes
+- Ejemplos
+	- Coca cola porque insica a comer
+	- Youtube para ver videos
+- Puede llegar a saturar si se usa mal.
 # Amarillo
 
 # Rosa
