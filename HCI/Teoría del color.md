@@ -4,7 +4,15 @@ Day: tuesday
 ---
 
 # Rojo
-
+- Color Muy fuerte y muy visual
+- ## Asociaciones
+	- Valentía
+	- amor
+	- Peligro
+	- Tensión
+	- Sangre
+- ## Marketing
+	- 
 # Amarillo
 
 # Rosa
@@ -13,4 +21,5 @@ Day: tuesday
 
 # Violeta
 
-Negro
+# Negro
+
