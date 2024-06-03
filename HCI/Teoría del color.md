@@ -140,7 +140,17 @@ Day: tuesday
 	- Una tienda de E-books
 # Blanco
 - **Significado**
-	- Se asocia a
+	- Se asocia a la limpieza, pureza y minimalismo.
+	- En otras regiones del mundo puede ser la esterilidad y el frío.
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+	- Apple
+	- Sony
+	- Adidas.
+- **Ejemplos donde lo usaría
+
+# Negro
+- **Significado**
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
