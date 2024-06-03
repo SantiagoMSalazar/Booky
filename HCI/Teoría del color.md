@@ -107,9 +107,15 @@ Day: tuesday
 	- Roots: marca de ropa.
 - **Ejemplos donde lo usaría**
 	- Aplicación de agencias turísticas.
-	- 
+	- Aplicaciones de comida veganas.
 
-# Violeta
+# Azul
+- **Significado**
+	- Es un color que refleja la estabilidad, 
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
+
 
 # Negro
 
