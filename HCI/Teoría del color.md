@@ -40,17 +40,21 @@ Day: tuesday
 	- YouTube para causar emoción e las personas al ver sus videos.
 - **Ejemplos donde lo usaría**
 	- En un servicio de aplicación de cine.
-	- En una 
+	- En una página de juegos de azar.
 # Naranja
 - Es una combinación de rojo y amarillo.
 - Representa creatividad, actividad y calor.
-- Se lo usa para sustituir al rojo para no saturar tanto
-- Es de los mpas ocupados en la publicidad.
+- Se lo usa para sustituir al rojo para no saturar tanto.
+- Es de los más ocupados en la publicidad por estimular las compras.
 - Ejemplos
 	- Nikelodeon, un programa para niños que llama la atención
 	- The Home Depot: También representa la creatividad
 
 - **Significado**
+	- Es una combinación de rojo y amarillo.
+	- Representa creatividad, actividad y calor.
+	- Se lo usa para sustituir al rojo para no saturar tanto.
+	- Es de los más ocupados en la publicidad por estimular las compras.
 - **Sensación que produce en las personas**
 - **Marcas que lo han utilizado**
 - **Ejemplos donde lo usaría**
