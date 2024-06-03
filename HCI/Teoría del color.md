@@ -35,7 +35,7 @@ Day: tuesday
 	- The Home Depot: También representa la creatividad
 # Amarillo
 - **Significado**
-- 
+- **Sensación**
 # Rosa
 
 # Verde
