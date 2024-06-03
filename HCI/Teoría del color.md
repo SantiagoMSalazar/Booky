@@ -91,9 +91,17 @@ Day: tuesday
 	- Barbie en todo su entorno.
 - **Ejemplos donde lo usaría**
 	- En una app de Yoga.
-	- En una página d
+	- En una página web de un spa.
 
 # Verde
+- **Significado**
+	- Es un color que se relaciona con la ecología.
+	- Se asocia con la naturaleza, esperanza y armonía.
+	- También se asocia con el dinero.
+	- Pu
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 
 # Violeta
 
