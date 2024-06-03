@@ -12,6 +12,14 @@ Day: tuesday
 	- Tensión
 	- Sangre
 - ## Marketing
+	- Se usa para captar la atención
+- ## Significado
+	- Pasión
+	- Emoción
+	- peligro
+	- energía
+	- acción
+- Psicología
 	- 
 # Amarillo
 
