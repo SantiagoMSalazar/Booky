@@ -25,6 +25,11 @@ Day: tuesday
 	- Coca cola porque insica a comer
 	- Youtube para ver videos
 - Puede llegar a saturar si se usa mal.
+
+- **Significado**
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 # Naranja
 - Es una combinación de rojo y amarillo.
 - Representa creatividad, actividad y calor.
@@ -33,6 +38,11 @@ Day: tuesday
 - Ejemplos
 	- Nikelodeon, un programa para niños que llama la atención
 	- The Home Depot: También representa la creatividad
+
+- **Significado**
+- **Sensación que produce en las personas**
+- **Marcas que lo han utilizado**
+- **Ejemplos donde lo usaría**
 # Amarillo
 - **Significado**
 - **Sensación que produce en las personas**
