@@ -25,8 +25,12 @@ Day: tuesday
 	- Coca cola porque insica a comer
 	- Youtube para ver videos
 - Puede llegar a saturar si se usa mal.
-# Amarillo
-
+# Naranja
+- Es una combinación de rojo y amarillo.
+- Representa creatividad, actividad y calor.
+- Se lo usa para sustituir al rojo para no saturar tanto
+- Es de los mpas ocupados en la publicidad.
+- 
 # Rosa
 
 # Verde
