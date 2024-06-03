@@ -128,9 +128,14 @@ Day: tuesday
 # Violeta
 - **Significado**
 	- Es el color de la realeza.
+	- Puede significar algo caro o barato si está mal usado.
 - **Sensación que produce en las personas**
 	- Causa sensaciones de poder, nobleza.
-	- Arrogancia 
-- **Marcas que lo han utilizado**
+	- Arrogancia y frustración, depende del tono.
+- **Marcas que lo han utilizado
+	- Hallmark
+	- Yahoo
 - **Ejemplos donde lo usaría**
+	- App de yoga.
+	- 
 
