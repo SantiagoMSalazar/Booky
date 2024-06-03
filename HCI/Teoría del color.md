@@ -59,8 +59,10 @@ Day: tuesday
 	- Estimula las ganas de comprar.
 	- Representa, la creatividad, la acción, el éxito y el equilibrio.
 - **Marcas que lo han utilizado**
-	- Nikelodeon: 
-- **Ejemplos donde lo usaría**
+	- Nikelodeon: Causa entusiasmo en los niños.
+	- The Home Depot:  Tienda de productos para el hogar.
+- **Ejemplos donde lo usaría
+	- 
 # Amarillo
 - **Significado**
 - **Sensación que produce en las personas**
